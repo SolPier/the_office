@@ -1,0 +1,44 @@
+// flex-center: centrer le contenu verticalement et horizontalement.
+//
+//   Example d'usage: `@include flex-center;`
+@mixin flex-center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+// size: set la largeur et la hauteur en une seule ligne.
+//
+//   Example d'usage: `@include size(2.4rem, 1.8rem);`
+//   Example d'usage: `@include size(3.2rem);`  (ici les les 2 propriétés sont set à 3.2rem. C'est un carré quoi)
+@mixin size($width, $height: $width) {
+  height: $height;
+  width: $width;
+}
+
+// media-breakpoints-set-values: set un propriété pour chaque format responsive de bootstrap, en une seule ligne de déclaration.
+//   Les steps vont de xs to xl. Attention à la syntaxe des tableaux en sass.
+//
+//   Example d'usage: `@include media-breakpoints-set-values(margin, 1.2rem 1.3rem 1.4rem 1.5rem 1.6rem);`
+//   Example d'usage: `@include media-breakpoints-set-values(margin, (1.2rem, 1.3rem, 1.4rem, 1.5rem, 1.6rem));`  (ici utilisé avec la syntaxe explicite pour les tableaux)
+@mixin media-breakpoints-set-values($property, $values) {
+  @include media-breakpoint-only(xs) { #{$property}: nth($values, 1); }
+  @include media-breakpoint-only(sm) { #{$property}: nth($values, 2); }
+  @include media-breakpoint-only(md) { #{$property}: nth($values, 3); }
+  @include media-breakpoint-only(lg) { #{$property}: nth($values, 4); }
+  @include media-breakpoint-only(xl) { #{$property}: nth($values, 5); }
+}
+
+// media-breakpoints-set-from-to: set un propriété pour chaque format responsive de bootstrap, en une seule ligne de déclaration.
+//   Il suffit de déclarer seulement le xs et le xl, les autres formats suivent linéairement.
+//
+//   Example d'usage: `@include media-breakpoints-set-values(margin, 1.2rem 1.6rem);`
+@mixin media-breakpoints-set-from-to($property, $values-xs-xl) {
+  $min: nth($values-xs-xl, 1);
+  $max: nth($values-xs-xl, 2);
+  @include media-breakpoint-only(xs) { #{$property}: $min; }
+  @include media-breakpoint-only(sm) { #{$property}: $min + ($max - $min) * 1 / 4; }
+  @include media-breakpoint-only(md) { #{$property}: $min + ($max - $min) * 2 / 4; }
+  @include media-breakpoint-only(lg) { #{$property}: $min + ($max - $min) * 3 / 4; }
+  @include media-breakpoint-only(xl) { #{$property}: $max; }
+}

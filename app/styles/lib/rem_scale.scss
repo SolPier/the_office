@@ -1,0 +1,30 @@
+// Le rem est une unité de mesure css qui se base relativement à la dimension du RootEleMent, cad la balise <html>.
+// Il est généralement fixé par les navigateurs à 16px. dans ce cas indiquer 1.2rem revient à dire 19.2px.
+// Il est conseillè d'exprimer au moins les textes en avec cette unité, pour diverses raisons comme l'accessibilité.
+
+// En responsive, les tailles des textes et des elements doivent évoluer selon le format pour un meilleur confort visuel (un texte à 16px est bien pour du desktop mais trop gros sur du mobile).
+// A partir de là 2 strategies se dégagent:
+//  - soit, pour chaque regle dimentionante, dupliquer la regle pour autant de tailles que de formats cibles (5 chez nous: [xs, sm...]). Donc très coûteux en nombre de règles et lourd pour le preprocesseur css du client.
+//  - soit spécifier les dimentions avec une seule règle exprimée en rem, et il n'y aura que la balise <html> qui bougera en fonction du format.
+
+// Le rem de base en xl est fixé à 10px, pour faciler la conversion px/rem dans les feuilles de style.
+// Ex sur xl: height: 1.6rem => 16px. 25px => 2.5rem
+
+$rem-ratios: (
+  xs: .75,
+  sm: .875,
+  md: 1,
+  lg: 1.25,
+  xl: 1.25
+);
+
+html {
+  font-size: 50%; // 8px car les navigateurs fixent le rem par défaut à 16px. 8px * 1.25 donne bien 10px pour le xl.
+  @include media-breakpoints-set-values(font-size, (
+      50% * map-get($rem-ratios, xs), // 6px
+      50% * map-get($rem-ratios, sm), // 7px
+      50% * map-get($rem-ratios, md), // 8px
+      50% * map-get($rem-ratios, lg), // 10px
+      50% * map-get($rem-ratios, xl)  // 10px
+  ));
+}

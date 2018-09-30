@@ -1,0 +1,141 @@
+// Fontes
+$font-main: 'Lato', sans-serif;
+
+// Permet de calculer 10px exprimé en rem
+// Le format responsive est requis car le rem n'est pas constant dans notre config (cf _rem_scale.scss)
+@function px10($size) {
+  @return (1 / map-get($rem-ratios, $size) * 1.25 * 1rem);
+}
+
+// Placeholders pour @extend
+// References pour les dimensions: http://typecast.com/blog/a-more-modern-scale-for-web-typography
+%text-tiny {
+  @include media-breakpoints-set-values(font-size, (
+      px10(xs) * 1.4,
+      px10(sm) * 1.4,
+      px10(md) * 1.4,
+      px10(lg) * 1.4,
+      px10(xl) * 1.4
+  ));
+  @include media-breakpoints-set-values(line-height, (
+      px10(xs) * 1.8,
+      px10(sm) * 1.8,
+      px10(md) * 2,
+      px10(lg) * 2,
+      px10(xl) * 2
+  ));
+}
+
+%text-normal {
+  @include media-breakpoints-set-values(font-size, (
+      px10(xs) * 1.6,
+      px10(sm) * 1.6,
+      px10(md) * 1.6,
+      px10(lg) * 1.6,
+      px10(xl) * 1.6
+  ));
+  @include media-breakpoints-set-values(line-height, (
+      px10(xs) * 2,
+      px10(sm) * 2,
+      px10(md) * 2.2,
+      px10(lg) * 2.2,
+      px10(xl) * 2.2
+  ));
+}
+
+%text-large {
+  @include media-breakpoints-set-values(font-size, (
+      px10(xs) * 1.8,
+      px10(sm) * 1.8,
+      px10(md) * 1.8,
+      px10(lg) * 1.8,
+      px10(xl) * 1.8
+  ));
+  @include media-breakpoints-set-values(line-height, (
+      px10(xs) * 2.2,
+      px10(sm) * 2.2,
+      px10(md) * 2.5,
+      px10(lg) * 2.5,
+      px10(xl) * 2.5
+  ));
+}
+
+%text-larger {
+  @include media-breakpoints-set-values(font-size, (
+      px10(xs) * 2.2,
+      px10(sm) * 2.2,
+      px10(md) * 2.4,
+      px10(lg) * 2.8,
+      px10(xl) * 2.8
+  ));
+  @include media-breakpoints-set-values(line-height, (
+      px10(xs) * 2.6,
+      px10(sm) * 2.6,
+      px10(md) * 2.8,
+      px10(lg) * 3.2,
+      px10(xl) * 3.2
+  ));
+}
+
+%text-huge {
+  @include media-breakpoints-set-values(font-size, (
+      px10(xs) * 2.6,
+      px10(sm) * 2.6,
+      px10(md) * 3.2,
+      px10(lg) * 3.6,
+      px10(xl) * 3.6
+  ));
+  @include media-breakpoints-set-values(line-height, (
+      px10(xs) * 3,
+      px10(sm) * 3,
+      px10(md) * 3.4,
+      px10(lg) * 4,
+      px10(xl) * 4
+  ));
+}
+
+%text-huger {
+  @include media-breakpoints-set-values(font-size, (
+      px10(xs) * 3.2,
+      px10(sm) * 3.2,
+      px10(md) * 4,
+      px10(lg) * 4.8,
+      px10(xl) * 4.8
+  ));
+  @include media-breakpoints-set-values(line-height, (
+      px10(xs) * 3.5,
+      px10(sm) * 3.5,
+      px10(md) * 4.4,
+      px10(lg) * 5.3,
+      px10(xl) * 5.3
+  ));
+}
+
+// Classes de composition pour les textes
+.text-tiny {
+  @extend %text-tiny;
+}
+
+.text-normal {
+  @extend %text-normal;
+}
+
+.text-large {
+  @extend %text-large;
+}
+
+.text-larger {
+  @extend %text-larger;
+}
+
+.text-huge {
+  @extend %text-huge;
+}
+
+.text-huger {
+  @extend %text-huger;
+}
+
+.text-white {
+  color: $white;
+}
