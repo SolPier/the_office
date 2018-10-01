@@ -1,0 +1,30 @@
+<li
+  class="episode cursor-pointer{{if isExpanded " -is-expanded"}}"
+  ...attributes
+>
+  <div
+    class="episode_titles"
+    onClick={{action this.toggleIsExpanded}}
+    role="button"
+  >
+    <span class="episode_title">{{this.args.episode.number}}. {{this.args.episode.name}}</span>
+    <span class="episode_action-show">
+      {{#if this.isExpanded}}
+        Masquer l'épidode
+      {{else}}
+        Regarder cet épisode
+      {{/if}}
+    </span>
+  </div>
+  {{#if this.isExpanded}}
+    <div class="episode_block">
+      <iframe
+        src={{this.args.episode.videoUrl}}
+        class="episode_iframe"
+        allowfullscreen="true"
+        scrolling="false"
+      >
+      </iframe>
+    </div>
+  {{/if}}
+</li>

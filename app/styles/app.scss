@@ -32,19 +32,116 @@ ol {
   padding: 0;
 }
 
+//
+
+.font-office {
+  font-family: SpecialElite;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+//
+
 .the-office-vostfr-site {
-  padding-top: 16rem;
   background: $bg-color url('/images/group_photo.jpg') no-repeat center top;
   background-size: 100%;
+  padding-top: 16rem;
 }
 
 .content {
-  padding: 4rem 5.2rem;
-  background-color: white;
+  background-color: $white;
   border-radius: .4rem;
   box-shadow: transparentize($true-black, .8) 0 .4rem 2rem .2rem;
 }
 
-.title {
-  font-family: SpecialElite;
+.site-header {
+  background-color: $true-black;
+  border-top-left-radius: .4rem;
+  border-top-right-radius: .4rem;
+  color: $white;
+  padding: 4rem 5.2rem 2rem;
+}
+
+.site-main {
+  padding: 2.8rem 5.2rem 2.4rem;
+}
+
+//
+
+.intro_content {
+  margin-bottom: 3.2rem;
+}
+
+.intro_titles {
+  margin-bottom: 2.4rem;
+
+  &:hover {
+    .intro_action-show-intro {
+      display: inline-block;
+    }
+  }
+}
+
+.intro_title {
+  display: inline-block;
+  margin: 0;
+}
+
+.intro_action-show-intro {
+  color: $blue-700;
+  display: none;
+  padding-left: .8rem;
+  padding-right: .8rem;
+}
+
+.intro_content_text {
+  margin-bottom: 2rem;
+}
+
+//
+
+.episodes_title {
+  margin-bottom: 1.2rem;
+}
+
+.season_name {
+  font-weight: 600;
+}
+
+.season {
+  margin-bottom: 1.2rem;
+}
+
+//
+
+.episode.-is-expanded {
+  padding-top: .8rem;
+
+  .episode_title {
+    color: $light-green-900;
+  }
+
+  .episode_iframe {
+    margin-bottom: 2rem;
+    margin-top: 1.6rem;
+  }
+}
+
+.episode_action-show {
+  color: $blue-700;
+  display: none;
+  padding-left: .4rem;
+  padding-right: .4rem;
+}
+
+.episode_titles:hover .episode_action-show {
+  display: inline-block;
+}
+
+.episode_iframe {
+  height: 36rem;
+  max-width: 100%;
+  width: 64rem;
 }
