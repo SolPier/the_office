@@ -120,6 +120,7 @@ ol {
 //
 
 .episode.-is-expanded {
+  margin-bottom: 2.4rem;
   padding-top: .8rem;
 
   .episode_title {
@@ -148,4 +149,30 @@ ol {
   height: 36rem;
   max-width: 100%;
   width: 64rem;
+}
+
+//
+
+.copy_input {
+  border: 1px solid $grey-400;
+  border-bottom-left-radius: .4rem;
+  border-right: 0;
+  border-top-left-radius: .4rem;
+  box-shadow: inset 0 .1rem .2rem $grey-300;
+  margin-left: .4rem;
+  padding: 0 .8rem;
+}
+
+.copy_block {
+  display: inline-flex;
+}
+
+.copy_action-copy {
+  background-color: $grey-200;
+  border: 1px solid $grey-400;
+  border-bottom-right-radius: .4rem;
+  border-top-right-radius: .4rem;
+  box-shadow: inset -.1rem -.1rem .2rem $grey-300;
+  color: $grey-600;
+  padding: .1rem .8rem 0;
 }

@@ -1,9 +1,9 @@
 <li
-  class="episode cursor-pointer{{if this.isExpanded " -is-expanded"}}"
+  class="episode{{if this.isExpanded " -is-expanded"}}"
   ...attributes
 >
   <div
-    class="episode_titles"
+    class="episode_titles cursor-pointer"
     onClick={{action this.toggleIsExpanded}}
     role="button"
   >
@@ -20,6 +20,7 @@
   {{#liquid-spacer growDuration=200}}
     {{#if this.isExpanded}}
       <div class="episode_block">
+
         <iframe
           src={{this.args.episode.videoUrl}}
           class="episode_iframe"
@@ -27,6 +28,23 @@
           scrolling="false"
         >
         </iframe>
+
+        <div class="copy">
+          <span class="copy_label">Les sous titres:</span>
+          <div class="copy_block">
+            <input
+            class="copy_input"
+            type="text"
+            name="subtitles.srt"
+            value="htttp://kdsjlks.sdfs"
+            readonly={{true}}
+          >
+            <span class="copy_action-copy text-tiny cursor-pointer">
+              Copier le lien
+            </span>
+          </div>
+        </div>
+
       </div>
     {{/if}}
   {{/liquid-spacer}}
