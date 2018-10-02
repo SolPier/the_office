@@ -1,5 +1,5 @@
 <li
-  class="episode cursor-pointer{{if isExpanded " -is-expanded"}}"
+  class="episode cursor-pointer{{if this.isExpanded " -is-expanded"}}"
   ...attributes
 >
   <div
@@ -16,15 +16,19 @@
       {{/if}}
     </span>
   </div>
-  {{#if this.isExpanded}}
-    <div class="episode_block">
-      <iframe
-        src={{this.args.episode.videoUrl}}
-        class="episode_iframe"
-        allowfullscreen="true"
-        scrolling="false"
-      >
-      </iframe>
-    </div>
-  {{/if}}
+
+  {{#liquid-spacer growDuration=200}}
+    {{#if this.isExpanded}}
+      <div class="episode_block">
+        <iframe
+          src={{this.args.episode.videoUrl}}
+          class="episode_iframe"
+          allowfullscreen="true"
+          scrolling="false"
+        >
+        </iframe>
+      </div>
+    {{/if}}
+  {{/liquid-spacer}}
+
 </li>
