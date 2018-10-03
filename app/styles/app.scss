@@ -124,7 +124,7 @@ ol {
   padding-top: .8rem;
 
   .episode_title {
-    color: $light-green-900;
+    color: $blue-700;
   }
 
   .episode_iframe {
@@ -167,7 +167,7 @@ ol {
   display: inline-flex;
 }
 
-.copy_action-copy {
+.copy_button-copy {
   background-color: $grey-200;
   border: 1px solid $grey-400;
   border-bottom-right-radius: .4rem;
@@ -175,4 +175,12 @@ ol {
   box-shadow: inset -.1rem -.1rem .2rem $grey-300;
   color: $grey-600;
   padding: .1rem .8rem 0;
+
+  &:hover {
+    color: $blue-700;
+  }
+
+  &.-link-copied {
+    color: $blue-700;
+  }
 }

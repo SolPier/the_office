@@ -29,19 +29,30 @@
         >
         </iframe>
 
-        <div class="copy">
+        <div class="copy d-flex align-items-center">
           <span class="copy_label">Les sous titres:</span>
           <div class="copy_block">
             <input
-            class="copy_input"
-            type="text"
-            name="subtitles.srt"
-            value="htttp://kdsjlks.sdfs"
-            readonly={{true}}
-          >
-            <span class="copy_action-copy text-tiny cursor-pointer">
-              Copier le lien
-            </span>
+              id={{subtitleInputId}}
+              class="copy_input"
+              type="text"
+              name="subtitles.srt"
+              value="htttp://kdsjlks.sdfs"
+              readonly={{true}}
+            >
+            {{#if this.hasCopiedLink}}
+              <span class="copy_button-copy -link-copied text-tiny">
+                Lien de sous titres copié !
+              </span>
+            {{else}}
+              <span
+                class="copy_button-copy -action-copy-link text-tiny cursor-pointer"
+                role="button"
+                onclick={{action this.copySubtitleLinkToClipboard}}
+              >
+                Copier le lien
+              </span>
+            {{/if}}
           </div>
         </div>
 
