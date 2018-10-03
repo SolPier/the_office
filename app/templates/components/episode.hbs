@@ -30,7 +30,6 @@
         </iframe>
 
         <div class="copy d-flex align-items-center">
-          <span class="copy_label">Les sous titres:</span>
           <div class="copy_block">
             <input
               id={{subtitleInputId}}
@@ -41,8 +40,8 @@
               readonly={{true}}
             >
             {{#if this.hasCopiedLink}}
-              <span class="copy_button-copy -link-copied text-tiny">
-                Lien de sous titres copié !
+              <span class="copy_button-copy -link-copied text-tiny cursor-pointer">
+                Lien copié !
               </span>
             {{else}}
               <span
@@ -50,7 +49,7 @@
                 role="button"
                 onclick={{action this.copySubtitleLinkToClipboard}}
               >
-                Copier le lien
+                Copier le lien des sous titres
               </span>
             {{/if}}
           </div>

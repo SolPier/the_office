@@ -11,13 +11,31 @@ export default class Episode extends Component {
     this.isExpanded = !this.isExpanded
   }
 
+  deselectAll() {
+    var element = document.activeElement;
+
+    if (element && /INPUT|TEXTAREA/i.test(element.tagName)) {
+      if ('selectionStart' in element) {
+        element.selectionEnd = element.selectionStart;
+      }
+      element.blur();
+    }
+
+    if (window.getSelection) { // All browsers, except IE <=8
+      window.getSelection().removeAllRanges();
+    } else if (document.selection) { // IE <=8
+      document.selection.empty();
+    }
+  }
+
   copySubtitleLinkToClipboard() {
-    let input = document.getElementById(this.subtitleInputId)
-    input.select()
+    document.getElementById(this.subtitleInputId).select()
     document.execCommand("copy")
+    this.deselectAll()
+
     this.hasCopiedLink = true
     later(this, function() {
       this.hasCopiedLink = false
-    }, 1500)
+    }, 1000)
   }
 }

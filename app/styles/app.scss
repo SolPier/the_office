@@ -153,6 +153,10 @@ ol {
 
 //
 
+.copy {
+  padding-left: 6rem;
+}
+
 .copy_input {
   border: 1px solid $grey-400;
   border-bottom-left-radius: .4rem;
@@ -181,6 +185,6 @@ ol {
   }
 
   &.-link-copied {
-    color: $blue-700;
+    color: $blue-500;
   }
 }
