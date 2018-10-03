@@ -30,7 +30,7 @@
         </iframe>
 
         <div class="copy">
-          <div class="copy_block d-flex align-items-center">
+          <div class="copy_block d-inline-flex align-items-center flex-wrap">
             <input
               id={{subtitleUId}}
               class="copy_input"
@@ -52,16 +52,16 @@
                 Copier le lien des sous titres
               </span>
             {{/if}}
-            {{#unless this.instructionsAreVisible}}
-              <span
-                class="copy_action-show-instructions cursor-pointer"
-                role="button"
-                onClick={{action this.toggleInstructions}}
-              >
-                Que faire de ce lien?
-              </span>
-            {{/unless}}
           </div>
+          {{#unless this.instructionsAreVisible}}
+            <span
+              class="copy_action-show-instructions cursor-pointer"
+              role="button"
+              onClick={{action this.toggleInstructions}}
+            >
+              Que faire de ce lien?
+            </span>
+          {{/unless}}
           {{#if this.instructionsAreVisible}}
             <div
               class="instructions_block cursor-pointer"
