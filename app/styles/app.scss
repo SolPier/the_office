@@ -119,7 +119,7 @@ ol {
 
 //
 
-.episode.-is-expanded {
+.episode.-episode-is-visible {
   margin-bottom: 2.4rem;
   padding-top: .8rem;
 
@@ -133,14 +133,14 @@ ol {
   }
 }
 
-.episode_action-show {
+.episode_action-show-episode {
   color: $blue-700;
   display: none;
   padding-left: .4rem;
   padding-right: .4rem;
 }
 
-.episode_titles:hover .episode_action-show {
+.episode_titles:hover .episode_action-show-episode {
   display: inline-block;
 }
 
@@ -187,4 +187,36 @@ ol {
   &.-link-copied {
     color: $blue-500;
   }
+}
+
+.copy_action-show-instructions {
+  color: $blue-700;
+  display: none;
+  margin-left: 2rem;
+}
+
+.copy:hover .copy_action-show-instructions {
+  display: inline-block;
+}
+
+//
+
+.instructions_block {
+  color: $blue-700;
+  margin-top: 1.2rem;
+  padding-left: 2rem;
+
+  &:hover {
+    color: $blue-500;
+  }
+}
+
+.instruction_line {
+  line-height: 4rem;
+}
+
+.instructions_subtitles-caption {
+  border: .2rem solid $blue-700;
+  height: 4rem;
+  margin-left: .8rem;
 }

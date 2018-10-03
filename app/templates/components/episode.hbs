@@ -1,15 +1,15 @@
 <li
-  class="episode{{if this.isExpanded " -is-expanded"}}"
+  class="episode{{if this.episodeIsVisible " -episode-is-visible"}}"
   ...attributes
 >
   <div
     class="episode_titles cursor-pointer"
-    onClick={{action this.toggleIsExpanded}}
+    onClick={{action this.toggleEpisodeVisibility}}
     role="button"
   >
     <span class="episode_title">{{this.args.episode.number}}. {{this.args.episode.name}}</span>
-    <span class="episode_action-show">
-      {{#if this.isExpanded}}
+    <span class="episode_action-show-episode">
+      {{#if this.episodeIsVisible}}
         Masquer l'épidode
       {{else}}
         Regarder cet épisode
@@ -18,7 +18,7 @@
   </div>
 
   {{#liquid-spacer growDuration=200}}
-    {{#if this.isExpanded}}
+    {{#if this.episodeIsVisible}}
       <div class="episode_block">
 
         <iframe
@@ -29,10 +29,10 @@
         >
         </iframe>
 
-        <div class="copy d-flex align-items-center">
-          <div class="copy_block">
+        <div class="copy">
+          <div class="copy_block d-flex align-items-center">
             <input
-              id={{subtitleInputId}}
+              id={{subtitleUId}}
               class="copy_input"
               type="text"
               name="subtitles.srt"
@@ -52,7 +52,38 @@
                 Copier le lien des sous titres
               </span>
             {{/if}}
+            {{#unless this.instructionsAreVisible}}
+              <span
+                class="copy_action-show-instructions cursor-pointer"
+                role="button"
+                onClick={{action this.toggleInstructions}}
+              >
+                Que faire de ce lien?
+              </span>
+            {{/unless}}
           </div>
+          {{#if this.instructionsAreVisible}}
+            <div
+              class="instructions_block cursor-pointer"
+              role="button"
+              onClick={{action this.toggleInstructions}}
+            >
+              <ol>
+                <li class="instruction_line">Une fois le lien copié, lancez le lecteur et mettez en pause.</li>
+                <li class="instruction_line">
+                  Dans le lecteur video, vous pouvez rajouter un piste de sous titres, via le bouton
+                  <img
+                    class="instructions_subtitles-caption"
+                    src="/images/subtitles_caption.png"
+                    alt="button caption"
+                  >
+                  .
+                </li>
+                <li class="instruction_line">Choisissez "load srt/vtt from url" et copiez le lien dans la popup.</li>
+                <li class="instruction_line">Enjoy</li>
+              </ol>
+            </div>
+          {{/if}}
         </div>
 
       </div>

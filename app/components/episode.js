@@ -1,14 +1,19 @@
 import Component, { tracked } from "sparkles-component"
-import { guidFor } from '@ember/object/internals'
 import { later } from '@ember/runloop'
 
 export default class Episode extends Component {
-  @tracked isExpanded = false
+  @tracked episodeIsVisible = false
+  @tracked instructionsAreVisible = false
   @tracked hasCopiedLink = false
-  subtitleInputId = `subtitle-s${this.args.seasonNumber}e${this.args.episode.number}`
+  subtitleUId = `subtitle-s${this.args.seasonNumber}e${this.args.episode.number}`
 
-  toggleIsExpanded() {
-    this.isExpanded = !this.isExpanded
+  toggleEpisodeVisibility() {
+    this.episodeIsVisible = !this.episodeIsVisible
+    this.instructionsAreVisible = false
+  }
+
+  toggleInstructions() {
+    this.instructionsAreVisible = !this.instructionsAreVisible
   }
 
   deselectAll() {
@@ -29,7 +34,7 @@ export default class Episode extends Component {
   }
 
   copySubtitleLinkToClipboard() {
-    document.getElementById(this.subtitleInputId).select()
+    document.getElementById(this.subtitleUId).select()
     document.execCommand("copy")
     this.deselectAll()
 
