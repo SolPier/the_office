@@ -5,7 +5,8 @@ export default class Episode extends Component {
   @tracked episodeIsVisible = false
   @tracked instructionsAreVisible = false
   @tracked hasCopiedLink = false
-  subtitleUId = `subtitle-s${this.args.seasonNumber}e${this.args.episode.number}`
+  subtitleUId = `subtitles-s${this.args.seasonNumber}e${this.args.episode.number}`
+  currentUrl = window.location.href
 
   toggleEpisodeVisibility() {
     this.episodeIsVisible = !this.episodeIsVisible

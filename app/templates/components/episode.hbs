@@ -3,7 +3,7 @@
   ...attributes
 >
   <div
-    class="episode_titles cursor-pointer"
+    class="episode_titles cursor-pointer d-flex"
     onClick={{action this.toggleEpisodeVisibility}}
     role="button"
   >
@@ -36,7 +36,7 @@
               class="copy_input"
               type="text"
               name="subtitles.srt"
-              value="htttp://kdsjlks.sdfs"
+              value="{{currentUrl}}subtitles/{{subtitleUId}}.srt"
               readonly={{true}}
             >
             {{#if this.hasCopiedLink}}
@@ -77,7 +77,6 @@
                     src="/images/subtitles_caption.png"
                     alt="button caption"
                   >
-                  .
                 </li>
                 <li class="instruction_line">Choisissez "load srt/vtt from url" et copiez le lien dans la popup.</li>
                 <li class="instruction_line">Enjoy</li>
