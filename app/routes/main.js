@@ -19,7 +19,7 @@ export default Route.extend({
         episodes: [
           { number: 1, name: 'The Dundies',        videoUrl: 'https://openload.co/embed/qAdOk03kJNI/S02E01.mkv.mp4' },
           { number: 2, name: 'Sexual Harassment ', videoUrl: 'https://openload.co/embed/ACbw_0mObzo/S02E02.mkv.mp4' },
-          { number: 3, name: 'Office Olympics ',   videoUrl: 'https://rapid58.com/embed/Mv2caT38YTzBq5J/' }
+          { number: 3, name: 'Office Olympics ',   videoUrl: 'https://openload.co/embed/wA_jgjGOejA/S02E03.mkv.mp4' }
         ]
       },
       {
