@@ -70,7 +70,17 @@ ol {
 }
 
 .site-main {
+  margin-bottom: 1.2rem;
   padding: 2.8rem 5.2rem 2.4rem;
+}
+
+.site-footer {
+  color: $grey-700;
+}
+
+.site-footer_separator {
+  margin-left: .4rem;
+  margin-right: .4rem;
 }
 
 //
