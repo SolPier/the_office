@@ -36,7 +36,7 @@
               class="copy_input"
               type="text"
               name="subtitles.srt"
-              value="{{currentUrl}}subtitles/{{subtitleUId}}.srt"
+              value="{{currentUrl}}subtitles/s{{this.args.seasonNumber}}/e{{this.args.episode.number}}.srt"
               readonly={{true}}
             >
             {{#if this.hasCopiedLink}}
