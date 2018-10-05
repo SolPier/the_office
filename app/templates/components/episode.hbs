@@ -24,47 +24,11 @@
           class="episode_iframe"
           allowfullscreen="true"
           scrolling="false"
-        >
-        </iframe>
+        />
 
         <div class="copy">
-          <div class="copy_block d-inline-flex align-items-center flex-wrap">
-            <input
-              id={{subtitleUId}}
-              class="copy_input"
-              type="text"
-              name="subtitles.srt"
-              value="{{currentUrl}}subtitles/s{{this.args.seasonNumber}}/e{{this.args.episode.number}}.srt"
-              readonly={{true}}
-            >
-            {{#if this.hasCopiedLink}}
-              <span class="copy_button-copy -link-copied text-tiny cursor-pointer">
-                Lien copié !
-              </span>
-            {{else}}
-              <span
-                class="copy_button-copy -action-copy-link text-tiny cursor-pointer"
-                role="button"
-                onclick={{action this.copySubtitleLinkToClipboard}}
-              >
-                Copier le lien des sous titres
-              </span>
-            {{/if}}
-          </div>
-          <span
-            class="copy_action-show-instructions cursor-pointer"
-            role="button"
-            onClick={{action this.toggleInstructions}}
-          >
-            {{#if this.instructionsAreVisible}}
-              Masquer les instructions
-            {{else}}
-              Que faire de ce lien?
-            {{/if}}
-          </span>
-          {{#if this.instructionsAreVisible}}
-            <Instructions />
-          {{/if}}
+          <CopyBox @seasonNumber={{this.args.seasonNumber}} @episodeNumber={{this.args.episode.number}} />
+          <Instructions />
         </div>
 
       </div>

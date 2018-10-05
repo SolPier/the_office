@@ -1,0 +1,23 @@
+<div class="copy-box_block d-inline-flex align-items-center flex-wrap">
+  <input
+    id={{subtitleUId}}
+    class="copy-box_input"
+    type="text"
+    name="subtitles.srt"
+    value="{{currentUrl}}subtitles/s{{this.args.seasonNumber}}/e{{this.args.episodeNumber}}.srt"
+    readonly={{true}}
+  >
+  {{#if this.hasCopiedLink}}
+    <span class="copy-box_button-copy -link-copied text-tiny cursor-pointer">
+      Lien copié !
+    </span>
+  {{else}}
+    <span
+      class="copy-box_button-copy -action-copy-link text-tiny cursor-pointer"
+      role="button"
+      onclick={{action this.copySubtitleLinkToClipboard}}
+    >
+      Copier le lien des sous titres
+    </span>
+  {{/if}}
+</div>
