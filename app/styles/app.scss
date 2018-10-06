@@ -38,6 +38,10 @@ ol {
   font-family: SpecialElite;
 }
 
+.font-bold {
+  font-weight: bold;
+}
+
 .cursor-pointer {
   cursor: pointer;
 }
@@ -230,7 +234,7 @@ ol {
 
 .instructions_subtitles-caption {
   border: .2rem solid $blue-700;
-  height: 4rem;
+  height: 3.2rem;
   margin-left: .8rem;
 }
 
