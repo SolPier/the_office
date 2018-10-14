@@ -1,0 +1,2349 @@
+1
+00:00:03,534 --> 00:00:10,635
+Bonjour Vancouver c'est Michael Scott des Etats Unis
+J'ai une réservation dans votre chère ville
+
+2
+00:00:10,703 --> 00:00:13,138
+Du 12 Février au 19,
+
+3
+00:00:13,206 --> 00:00:14,307
+Première semaine des JO.
+
+4
+00:00:14,375 --> 00:00:16,908
+Bien, nous sommes impatients de vous recevoir,
+
+5
+00:00:16,976 --> 00:00:18,211
+Laissez moi vérifier vos informations
+
+6
+00:00:18,278 --> 00:00:21,013
+- Okidoki.
+- Je ne semble pas l'avoir Monsieur.
+
+7
+00:00:21,080 --> 00:00:22,314
+Quoi?
+
+8
+00:00:22,382 --> 00:00:24,383
+Je ne vois rien à propos d'une confirmation
+
+9
+00:00:24,450 --> 00:00:25,817
+- Non
+- Ca pourrait être sous les demandes?
+
+10
+00:00:25,885 --> 00:00:27,152
+Tu en a une centaine. - Non.
+
+11
+00:00:27,220 --> 00:00:28,854
+On essaye juste de vérifier ça.
+
+12
+00:00:28,921 --> 00:00:30,956
+Tu as eu l'invitation à mon barbecue!
+
+13
+00:00:31,024 --> 00:00:32,290
+- N--aller, Dwight.
+- Michael--
+
+14
+00:00:32,358 --> 00:00:34,593
+Um, Monsieur, beaucoup de personnes essayent d'avoir
+
+15
+00:00:34,660 --> 00:00:36,962
+des réservations de dernières minutes
+dans nos hôtels pour les Jeux Olympiques,
+
+16
+00:00:37,030 --> 00:00:38,930
+Mais nous sommes pleins depuis des mois.
+
+17
+00:00:38,998 --> 00:00:40,932
+Bien, j'ai réservé il y a trois ans.
+
+18
+00:00:41,000 --> 00:00:42,701
+Donc vous devez l'avoir.
+
+19
+00:00:42,769 --> 00:00:44,169
+J'ai toujours entendu dire que la Colombie britannique
+
+20
+00:00:44,237 --> 00:00:45,704
+est un charmant endroit,
+
+21
+00:00:45,772 --> 00:00:48,140
+Mais je ne tiens pas ça
+de cette conversation.
+
+22
+00:00:48,207 --> 00:00:50,175
+Attends! Je l'ai! Code de confirmation--
+
+23
+00:00:50,243 --> 00:00:52,978
+Xv2rdm!
+
+24
+00:00:53,046 --> 00:00:54,346
+Oh
+
+25
+00:00:54,414 --> 00:00:55,347
+La voilà.
+
+26
+00:00:55,415 --> 00:00:56,948
+- Oh...
+- Oui. Uh-huh.
+
+27
+00:00:57,016 --> 00:00:58,150
+- Uh, merci.
+- Sept nuits
+
+28
+00:00:58,217 --> 00:00:59,484
+Chambre simple, en économique avec vue
+sur la rue.
+
+29
+00:00:59,552 --> 00:01:00,919
+- C'est ça.
+- Mm-hmm.
+
+30
+00:01:00,987 --> 00:01:02,521
+Oui. Nous avons changer de système il y a
+quelques temps.
+
+31
+00:01:02,588 --> 00:01:03,955
+Je m'excuse.
+
+32
+00:01:04,023 --> 00:01:05,524
+Uh-huh. Ok...
+
+33
+00:01:05,591 --> 00:01:07,025
+Comment puis-je vous aider, mr. Scott?
+
+34
+00:01:07,093 --> 00:01:10,028
+Trés bien, j'aimerais annuler ma
+réservation s'il vous plait.
+
+35
+00:01:10,096 --> 00:01:12,164
+Bien, il y a des frais d'annulation Monsieur.
+
+36
+00:01:12,231 --> 00:01:14,499
+Ok. débitez ma carte.
+
+37
+00:01:14,567 --> 00:01:17,169
+
+
+38
+00:01:17,236 --> 00:01:27,179
+
+39
+00:01:35,254 --> 00:01:37,222
+Aujourd'hui Jo Bennett, le PDG de Sabre,
+
+40
+00:01:37,290 --> 00:01:40,659
+vient nous voir pour la première fois.
+
+41
+00:01:40,726 --> 00:01:44,162
+Elle nous a acheté sans nous connaitre,
+comme on achète une épouse par correspondance.
+
+42
+00:01:44,230 --> 00:01:45,964
+Donc elle doit être plutôt nerveuse.
+
+43
+00:01:46,032 --> 00:01:48,300
+Je veux dire, est ce qu'on est moches?
+Est ce qu'on est intelligents?
+
+44
+00:01:48,367 --> 00:01:50,635
+Sommes-nous cools? Sommes-nous trop cools?
+
+45
+00:01:50,703 --> 00:01:52,871
+Est ce qu'on parle anglais?
+
+46
+00:01:52,939 --> 00:01:56,408
+
+
+47
+00:01:56,476 --> 00:01:57,409
+Ha ha.
+
+48
+00:01:57,477 --> 00:01:59,044
+Alors, bonjour!
+
+49
+00:01:59,112 --> 00:02:01,213
+- Voici michael scott, co-directeur régional
+
+50
+00:02:01,280 --> 00:02:02,247
+de cette branche.
+
+51
+00:02:02,315 --> 00:02:04,116
+Ravi de vous rencontrer, mlle bennett.
+
+52
+00:02:04,183 --> 00:02:05,684
+Uh, c'est Mme Bennett, cheri.
+
+53
+00:02:05,751 --> 00:02:07,586
+Mon mari est moi sommes divorcés,
+mais je garde le madame.
+
+54
+00:02:07,653 --> 00:02:09,187
+Juste pour énerver sa nouvelle femme.
+
+55
+00:02:09,255 --> 00:02:10,655
+Oh...
+
+56
+00:02:10,723 --> 00:02:12,524
+Bien, jettons un coup d'oeil à cet endroit
+
+57
+00:02:12,592 --> 00:02:14,259
+Quels jolis chiens.
+
+58
+00:02:14,327 --> 00:02:17,062
+- Ils apprécient un bel entrejambe.
+- Oui, j'en suis sur.
+
+59
+00:02:17,130 --> 00:02:18,763
+Vous devriez prendre ça comme un compliment.
+
+60
+00:02:18,831 --> 00:02:21,333
+Oh, oui.
+
+61
+00:02:22,935 --> 00:02:24,603
+- Bonjour?
+- Bonjour.
+
+62
+00:02:24,670 --> 00:02:26,905
+Vous restez toujours assis quand
+une dame entre dans la pièce?
+
+63
+00:02:26,973 --> 00:02:28,273
+Je vous traite de la même manière que
+je traite un homme
+
+64
+00:02:28,341 --> 00:02:30,609
+Pour qui je ne me leverais pas non plus.
+
+65
+00:02:30,676 --> 00:02:33,812
+A moins que ce soit le Président.
+Ou le Juge Judy.
+
+66
+00:02:33,880 --> 00:02:36,081
+J'aime ça.
+
+67
+00:02:36,149 --> 00:02:37,582
+- Um, voici la comptabilité.
+- Uh-huh.
+
+68
+00:02:37,650 --> 00:02:38,683
+Bonjour.
+
+69
+00:02:38,751 --> 00:02:39,918
+- Joli groupe
+
+
+70
+00:02:39,986 --> 00:02:42,587
+Là c'est Meredith Palmer,
+Creed Bratton.
+
+71
+00:02:42,655 --> 00:02:44,222
+Un autre couple de bourreaux des coeurs.
+
+72
+00:02:44,290 --> 00:02:46,091
+Qui est ce grand à l'allure de boisson
+rafraichissante et ensoleillée?
+
+73
+00:02:46,159 --> 00:02:47,292
+C'est Jim Halpert.
+
+74
+00:02:47,360 --> 00:02:49,494
+Il est le co-directeur régional
+de ce bureau.
+
+75
+00:02:49,562 --> 00:02:50,829
+Je croyais que c'était lui le directeur?
+
+76
+00:02:50,897 --> 00:02:52,297
+Oh, il l'est. C'est le co-directeur.
+
+77
+00:02:52,365 --> 00:02:56,601
+C'est l'autre co-directeur.
+
+78
+00:02:56,669 --> 00:02:58,236
+Faudra faire quelque chose à propos de ça.
+
+79
+00:02:58,304 --> 00:03:01,106
+
+
+80
+00:03:01,174 --> 00:03:04,142
+J'ai des cartes de Saint Valentin pour mes
+collègues de travail
+
+81
+00:03:04,210 --> 00:03:06,311
+Et mon frère de travail.
+
+82
+00:03:06,379 --> 00:03:07,445
+Non. Non
+
+83
+00:03:07,513 --> 00:03:08,914
+Quoi--pas de bonbons?
+
+84
+00:03:08,981 --> 00:03:10,749
+Saint Valentin droit devant!
+
+85
+00:03:10,816 --> 00:03:13,251
+Erin et moi n'avons eu aucun rendez-vous ensemble.
+
+86
+00:03:13,319 --> 00:03:15,287
+Alors je lui ai fait une carte de Sain Valentin.
+
+87
+00:03:15,354 --> 00:03:17,789
+Mais je ne voulais pas avoir l'air trop désireux,
+
+88
+00:03:17,857 --> 00:03:20,458
+Alors j'ai fait des cartes pour tout
+le monde au bureau
+
+89
+00:03:20,526 --> 00:03:21,826
+Histoire de ne pas le montrer.
+
+90
+00:03:21,894 --> 00:03:22,827
+Réveilles toi.
+
+91
+00:03:22,895 --> 00:03:24,062
+Ow!
+
+92
+00:03:24,130 --> 00:03:26,298
+Bon sang, tu m'as coupé la gorge avec du papier!
+
+93
+00:03:26,365 --> 00:03:28,133
+Oui, j'ai un truc contre les hommes qui coupent
+
+94
+00:03:28,201 --> 00:03:30,569
+ou menacent de me couper la gorge.
+
+95
+00:03:30,636 --> 00:03:32,270
+N'essayes pas de me trancher la gorge.
+
+96
+00:03:32,338 --> 00:03:34,639
+Jo, je ne sais pas comment les choses fonctionnent
+en Floride
+
+97
+00:03:34,707 --> 00:03:36,775
+Qui, d'après votre description, a l'air
+
+98
+00:03:36,842 --> 00:03:39,044
+coloré et sans limites.
+
+99
+00:03:39,111 --> 00:03:41,112
+Mais ici
+
+100
+00:03:41,180 --> 00:03:43,315
+Mais ici on a besoin de deux hommes
+pour faire ce travail,
+
+101
+00:03:43,382 --> 00:03:46,785
+alors qu'en Floride une seule femme forte suffit
+
+102
+00:03:46,852 --> 00:03:48,520
+pour faire un tel travail. - Whoa...Whoa!
+
+103
+00:03:48,588 --> 00:03:50,188
+- Whoa, whoa!
+- je prend la suite.
+
+104
+00:03:50,256 --> 00:03:52,123
+Um, Voilà comment on fait ici--
+
+105
+00:03:52,191 --> 00:03:54,593
+Michael s'occupe de gérer le plus important,
+
+106
+00:03:54,660 --> 00:03:57,329
+Et moi je m'occupe plus des petites tâches quotidiennes.
+
+107
+00:03:57,396 --> 00:03:58,496
+- Ouais...
+- Donc ensemble...
+
+108
+00:03:58,564 --> 00:04:00,599
+- Je crois que je comprends.
+- Très bien.
+
+109
+00:04:00,666 --> 00:04:02,701
+Chacun de vous fait la moitié du travail.
+
+110
+00:04:02,768 --> 00:04:03,935
+- Non.
+- Et des fois je peux à peine
+
+111
+00:04:04,003 --> 00:04:05,370
+faire déjà ça.
+
+112
+00:04:05,438 --> 00:04:06,738
+Là, ça devient une conversation idiote.
+
+113
+00:04:06,806 --> 00:04:08,273
+Je ne vais pas prendre part à ça
+vous savez.
+
+114
+00:04:08,341 --> 00:04:10,208
+Vous ne pouvez pas me donner de la sauce
+et me dire que c'est de la gelêe
+
+115
+00:04:10,276 --> 00:04:12,177
+Car la sauce c'est pas bon, n'est ce pas Jim?
+
+116
+00:04:12,245 --> 00:04:13,678
+Je ne pense pas non.
+
+117
+00:04:13,746 --> 00:04:15,680
+- Michael?
+- J'ai oublié la question.
+
+118
+00:04:15,748 --> 00:04:18,049
+Je pense que l'un d'entre vous devrait
+retourner au service des ventes
+
+119
+00:04:18,117 --> 00:04:20,051
+Et que l'autre serait directeur.
+
+120
+00:04:20,119 --> 00:04:23,021
+J'accepte le poste de directeur.
+
+121
+00:04:23,089 --> 00:04:25,023
+Pourquoi tu l'aurais automatiquement?
+
+122
+00:04:25,091 --> 00:04:26,691
+Parce que...enfin, jim,
+
+123
+00:04:26,759 --> 00:04:28,893
+De là où je viens, il y a deux types de personnes--
+
+124
+00:04:28,961 --> 00:04:30,228
+Il y a les fourmis,
+
+125
+00:04:30,296 --> 00:04:32,864
+Et les sauterelles, qui on la capacité
+de rebondir.
+
+126
+00:04:32,932 --> 00:04:35,200
+A quel type appartiens-tu?
+
+127
+00:04:35,268 --> 00:04:37,902
+Revenons-en au sujet.
+
+128
+00:04:37,970 --> 00:04:39,371
+Sais-tu au moins ce que ça veut dire?
+
+129
+00:04:39,438 --> 00:04:40,672
+Oui.
+
+130
+00:04:40,740 --> 00:04:42,774
+Bon, je vais laisser ça mariner un peu,
+donc vous pouvez y aller.
+
+131
+00:04:42,842 --> 00:04:43,775
+- Um...
+- Vous pouvez partir.
+
+132
+00:04:43,843 --> 00:04:45,010
+Ouais.
+
+133
+00:04:45,077 --> 00:04:46,811
+Aller.
+
+134
+00:04:46,879 --> 00:04:49,414
+Je suis joleen bennett. Jo pour faire simple.
+
+135
+00:04:49,482 --> 00:04:51,316
+Je suis une survivante du cancer du sein,
+
+136
+00:04:51,384 --> 00:04:54,085
+une amie proche de nancy pelosi,
+
+137
+00:04:54,153 --> 00:04:56,354
+Et truman capote et moi avons couché
+avec les trois mêmes hommes.
+
+138
+00:04:56,422 --> 00:04:58,890
+Quand j'étais une petite fille,
+j'avais peur de voler,
+
+139
+00:04:58,958 --> 00:05:01,326
+Et maintenant j'ai ma propre licence de pilote.
+
+140
+00:05:01,394 --> 00:05:02,827
+Je suis la PDG de Sabre International,
+
+141
+00:05:02,895 --> 00:05:04,329
+Je vends les meilleures imprimantes
+
+142
+00:05:04,397 --> 00:05:06,598
+Et les machines toute-en-un que la Corée
+peut fabriquer.
+
+143
+00:05:06,666 --> 00:05:07,999
+Ravie de vous rencontrer.
+
+144
+00:05:08,067 --> 00:05:09,567
+Whoa, embouteillage.
+
+145
+00:05:09,635 --> 00:05:11,236
+- Uh-oh! Embouteillage sur la route 3.
+
+146
+00:05:11,304 --> 00:05:13,104
+- Bip bip!
+- Bip bip!
+
+147
+00:05:13,172 --> 00:05:14,372
+20 personnes sont mortes dans un carambolage.
+
+148
+00:05:14,440 --> 00:05:17,108
+Il y a du sang partout!
+
+149
+00:05:17,176 --> 00:05:19,411
+Um, je t'ai fait une carte de Saint Valentin
+
+150
+00:05:19,478 --> 00:05:21,713
+- Vraiment?
+- Ouais.
+
+151
+00:05:21,781 --> 00:05:23,882
+Oh, un oiseau et un chien.
+
+152
+00:05:23,949 --> 00:05:25,517
+Oui, bien, c'est snoopy et woodstock.
+
+153
+00:05:25,584 --> 00:05:28,553
+- Tu leur a donné un nom?
+- Uh, charles schulz l'a fait.
+
+154
+00:05:28,621 --> 00:05:29,921
+Je pense que c'était bien trouvé
+
+155
+00:05:29,989 --> 00:05:31,856
+Parce que je t'ai eu tout ces oiseaux pour Noël.
+
+156
+00:05:31,924 --> 00:05:33,692
+Tu te souviens? - Uh, oui, je me souviens.
+
+157
+00:05:33,759 --> 00:05:35,794
+Aw, ils s'aiment.
+
+158
+00:05:35,861 --> 00:05:37,295
+Oh, regardes ça. Il sont amoureux.
+
+159
+00:05:37,363 --> 00:05:38,630
+Je n'avais pas remarqué.
+
+160
+00:05:38,698 --> 00:05:40,932
+Oh, ça sent très bon aussi.
+
+161
+00:05:41,000 --> 00:05:42,334
+Ouais. C'est le parfum roger federer pour homme.
+
+162
+00:05:42,401 --> 00:05:43,535
+J'en ai mis un peu dessus.
+
+163
+00:05:43,602 --> 00:05:46,638
+Andy, whoa! Merci beaucoup.
+
+164
+00:05:46,706 --> 00:05:48,773
+Il y a des phéromones là dedans.
+
+165
+00:05:48,841 --> 00:05:50,075
+- Hey.
+- Bonjour.
+
+166
+00:05:50,142 --> 00:05:51,876
+Uh...Choisis juste un siège.
+
+167
+00:05:51,944 --> 00:05:53,378
+Tu vas pas te marrier.
+
+168
+00:05:53,446 --> 00:05:55,447
+Chop-chop, petit ognion.
+
+169
+00:05:55,514 --> 00:05:57,282
+Jo, il a des livres sur ma chaise.
+
+170
+00:05:57,350 --> 00:05:58,650
+C'est vrai, cheri.
+
+171
+00:05:58,718 --> 00:06:01,052
+Maintenant tu es l'heureux nouveau propriétaire
+du manuel de fonctionnement de Sabre
+
+172
+00:06:01,120 --> 00:06:03,722
+Et mon autobiographie.
+
+173
+00:06:03,789 --> 00:06:06,157
+Maintenant vous devez tous être curieux
+
+174
+00:06:06,225 --> 00:06:08,460
+Je le vois sur vos visages.
+Je veux dire, qu'est ce qu'il va se passer?
+
+175
+00:06:08,527 --> 00:06:10,895
+Enfin, qui dirige dunder mifflin, n'est ce pas?
+
+176
+00:06:10,963 --> 00:06:13,665
+Je veux dire, sabre? C'est quoi?
+
+177
+00:06:13,733 --> 00:06:15,400
+Une entreprise dont on n'a jamais entendu parler
+
+178
+00:06:15,468 --> 00:06:17,602
+venant de Tallahassee?
+
+179
+00:06:17,670 --> 00:06:20,472
+Où est-ce? près de mars?
+
+180
+00:06:20,539 --> 00:06:22,774
+Non, on connait. Texas.
+
+181
+00:06:22,842 --> 00:06:25,310
+Maintenant, dunder mifflin est à la portée
+
+182
+00:06:25,378 --> 00:06:28,012
+de toutes les entreprises
+de tout le Nord Est.
+
+183
+00:06:28,080 --> 00:06:30,415
+Et maintenant nous allons en profiter...
+
+184
+00:06:30,483 --> 00:06:34,085
+On va commencer à vendre...
+
+185
+00:06:34,153 --> 00:06:35,453
+des imprimantes.
+
+186
+00:06:35,521 --> 00:06:37,122
+Je pourrais gérer ça à ma façon.
+
+187
+00:06:37,189 --> 00:06:38,923
+Ce sont les imprimantes les plus simples
+à utiliser sur le marché
+
+188
+00:06:38,991 --> 00:06:41,826
+Je vais essayer de gérer mon enthousiasme.
+
+189
+00:06:41,894 --> 00:06:45,497
+J'ai utilisé le mot gérer beaucoup de fois
+
+190
+00:06:45,564 --> 00:06:49,968
+A chaque fois que Jo pensera à ce mot,
+elle pensera à moi.
+
+191
+00:06:50,035 --> 00:06:52,370
+Les cigarettes Camel ont fait la
+même chose avec Joe Camel
+
+192
+00:06:52,438 --> 00:06:54,439
+En le faisait ressembler à un pénis.
+
+193
+00:06:54,507 --> 00:06:56,808
+Je ne peux plus m'approcher d'une cigarette
+maintenant
+
+194
+00:06:56,876 --> 00:06:58,443
+Sans penser à un pénis.
+
+195
+00:06:58,511 --> 00:07:00,044
+Et vice versa.
+
+196
+00:07:00,112 --> 00:07:01,479
+Je pense que c'est tout.
+
+197
+00:07:01,547 --> 00:07:03,314
+Donc tout va bien.
+
+198
+00:07:03,382 --> 00:07:05,450
+Merci, à tous. - je, um...
+
+199
+00:07:12,124 --> 00:07:13,958
+Oh, mon dieu.
+
+200
+00:07:14,026 --> 00:07:15,693
+Je crois que Andy m'aime bien.
+
+201
+00:07:15,761 --> 00:07:17,695
+Je n'aurais jamais pensé à lui de cette façon.
+
+202
+00:07:17,763 --> 00:07:19,297
+Mais je pense que comme dans toutes comédies
+romantiques,
+
+203
+00:07:19,365 --> 00:07:20,799
+Le mec avec qui tu es supposé être
+
+204
+00:07:20,866 --> 00:07:22,867
+est celui auquel tu n'a jamais pensé
+
+205
+00:07:22,935 --> 00:07:24,602
+Vous avez surement dû penser qu'il était ennuyeux
+
+206
+00:07:24,670 --> 00:07:27,372
+ou homosexuel.
+
+207
+00:07:27,440 --> 00:07:28,640
+Tiens regardes ça.
+
+208
+00:07:28,707 --> 00:07:30,275
+d'après le manuel,
+
+209
+00:07:30,342 --> 00:07:32,010
+tu pourrais gagner plus d'argent en étant vendeur
+
+210
+00:07:32,077 --> 00:07:33,244
+qu'en tant que directeur.
+
+211
+00:07:33,312 --> 00:07:34,913
+Ils ont tout ces programmes encourageants.
+
+212
+00:07:34,980 --> 00:07:36,748
+J'ai regardé tes chiffes de l'an dernier.
+
+213
+00:07:36,816 --> 00:07:39,217
+C'est beaucoup plus que ce que je fais maintenant
+
+214
+00:07:39,285 --> 00:07:40,919
+Je ne pense pas que ça va me manquer d'être directeur.
+
+215
+00:07:40,986 --> 00:07:42,987
+Vous savez, certaines personnes disent qu'elles
+
+216
+00:07:43,055 --> 00:07:44,956
+Bien, avec tout le respect que je dois au travail,
+
+217
+00:07:45,024 --> 00:07:46,958
+je pense vraimnt que je fais ça pour l'argent.
+
+218
+00:07:47,026 --> 00:07:49,060
+et, aussi, pour la femme.
+
+219
+00:07:49,128 --> 00:07:51,362
+hey. tu as une seconde?
+
+220
+00:07:51,430 --> 00:07:53,264
+- Bien sur.
+- Très bien.
+
+221
+00:07:53,332 --> 00:07:54,466
+Est ce que tu es là pour me dire que
+
+222
+00:07:54,533 --> 00:07:56,301
+tu penses que je serais un meilleur directeur
+
+223
+00:07:56,368 --> 00:07:58,403
+et que tu es désolé d'avoir
+agit comme un idiot?
+
+224
+00:07:58,471 --> 00:07:59,904
+En réalité...oui.
+
+225
+00:07:59,972 --> 00:08:01,773
+Quoi?
+
+226
+00:08:01,841 --> 00:08:02,774
+C'est tout à fait ça
+
+227
+00:08:02,842 --> 00:08:04,108
+je pense que tu gêres
+
+228
+00:08:04,176 --> 00:08:07,712
+la fonction de directeur beaucoup
+mieux que moi.
+
+229
+00:08:07,780 --> 00:08:09,080
+Quoi?
+
+230
+00:08:09,148 --> 00:08:11,282
+Vraiment? - Oui.
+
+231
+00:08:11,350 --> 00:08:13,351
+ wow! Wow!
+
+232
+00:08:13,419 --> 00:08:16,788
+* la la la la, bonjour, Oscar *
+
+233
+00:08:16,856 --> 00:08:18,256
+Michael. je lis.
+
+234
+00:08:18,324 --> 00:08:20,358
+Qu'est ce que tu lis?
+- L'atlantique
+
+235
+00:08:20,426 --> 00:08:22,627
+Oh, c'est mon océan préferé--je l'adore!
+
+236
+00:08:22,695 --> 00:08:24,195
+Je suis tellement heureux là maintenant.
+
+237
+00:08:24,263 --> 00:08:26,698
+Non! je ne peux pas garder ce secret plus longtemps.
+
+238
+00:08:26,765 --> 00:08:28,099
+Jim reprend son poste de commercial.
+
+239
+00:08:28,167 --> 00:08:30,768
+Et je vais redevenir l'unique directeur.
+
+240
+00:08:30,836 --> 00:08:32,604
+Je devrais moi aussi me mettre aux ventes.
+
+241
+00:08:32,671 --> 00:08:34,572
+Pourquoi? Il y a un marché inexploité pour les gays?
+
+242
+00:08:34,640 --> 00:08:37,408
+Sabre n'a pas de limites pour les commissions.
+
+243
+00:08:37,476 --> 00:08:41,379
+Il peut se faire beaucoup plus d'argent en vendant
+
+244
+00:08:45,117 --> 00:08:46,784
+Où as-tu eu cette information?
+
+245
+00:08:46,852 --> 00:08:48,052
+Manuel.
+
+246
+00:08:48,120 --> 00:08:49,487
+Manuel qui?
+
+247
+00:08:49,555 --> 00:08:52,557
+Mm-hmm. Ben, d'après le manuel,
+
+248
+00:08:52,625 --> 00:08:54,759
+Il n'y a pas de limites aux commissions.
+
+249
+00:08:54,827 --> 00:08:57,195
+On m'a trompé.
+
+250
+00:08:59,064 --> 00:09:00,932
+Fils de p....
+
+251
+00:09:01,000 --> 00:09:02,767
+Excusez moi. - Oh. En parlant du loup.
+
+252
+00:09:02,835 --> 00:09:05,270
+On était juste en train de parler de vous.
+Asseyez vous
+
+253
+00:09:05,337 --> 00:09:07,305
+- Ok.
+- Donc, jim est ici, uh...
+
+254
+00:09:07,373 --> 00:09:09,641
+parce qu'il veut se retirer
+
+255
+00:09:09,708 --> 00:09:10,642
+de la course au directeur
+
+256
+00:09:10,709 --> 00:09:11,643
+- Oui.
+- Vraiment?
+
+257
+00:09:11,710 --> 00:09:15,113
+Oh, c'est tellement gentil de ta part!
+
+258
+00:09:15,180 --> 00:09:16,915
+Mais...
+
+259
+00:09:16,982 --> 00:09:20,018
+Je ne peux pas accepter, parce que
+j'y ai réflechis,
+
+260
+00:09:20,085 --> 00:09:22,186
+Et je pense que je veux retourner au service
+ds ventes.
+
+261
+00:09:22,254 --> 00:09:23,354
+- Vraiment?
+- Mm-hmm.
+
+262
+00:09:23,422 --> 00:09:24,522
+- Vraiment?
+- Oui.
+
+263
+00:09:24,590 --> 00:09:26,090
+Tu peux extraire l'homme du vendeur,
+
+264
+00:09:26,158 --> 00:09:27,659
+Mais tu peux pas enlever le plaisir des ventes
+à un vendeur.
+
+265
+00:09:27,726 --> 00:09:29,694
+Bien, je pense que vous êtes tous les deux
+trop modestes.
+
+266
+00:09:29,762 --> 00:09:31,129
+Non, je pense vraiment, vraiment que michael
+
+267
+00:09:31,196 --> 00:09:33,598
+est meilleur en tant que directeur, pour
+beaucoup de raisons.
+
+268
+00:09:33,666 --> 00:09:35,133
+- Mm
+-mm. Non.
+
+269
+00:09:35,200 --> 00:09:36,668
+Je pense que je serais mauvais.
+
+270
+00:09:36,735 --> 00:09:39,070
+Je...pourrais m'endormir dans mon bureau,
+
+271
+00:09:39,138 --> 00:09:40,672
+Et harceler sexuellement les gens.
+
+272
+00:09:40,739 --> 00:09:42,473
+Pourquoi tu ferais ça?
+
+273
+00:09:42,541 --> 00:09:44,309
+J'essaye de devenir bon.
+
+274
+00:09:44,376 --> 00:09:45,577
+Tu sais, michael,
+
+275
+00:09:45,644 --> 00:09:47,478
+Tu as plus d'expérience en vente
+et en management,
+
+276
+00:09:47,546 --> 00:09:48,980
+Donc je vais me référer à votre jugement.
+
+277
+00:09:49,048 --> 00:09:50,782
+Merci.
+
+278
+00:09:50,849 --> 00:09:52,650
+Je pense que tu vas être le nouveau commercial,
+
+279
+00:09:52,718 --> 00:09:54,786
+Et félicitations...
+
+280
+00:09:54,853 --> 00:09:57,488
+Tu vas devenir le nouveau directeur
+de cette branche!
+
+281
+00:09:57,556 --> 00:09:58,489
+Génial! C'est génial.
+
+282
+00:09:58,557 --> 00:09:59,991
+Félicitations.
+
+283
+00:10:00,059 --> 00:10:03,561
+Amuses toi bien en signant mes commissions,
+patron!
+
+284
+00:10:06,051 --> 00:10:08,352
+Oh! Michael a marqué sa taille.
+
+285
+00:10:08,420 --> 00:10:10,154
+il a ...grandi.
+
+286
+00:10:10,222 --> 00:10:13,290
+Mm.
+
+287
+00:10:16,694 --> 00:10:18,795
+Bobcat, ici Dragon.
+
+288
+00:10:18,863 --> 00:10:21,531
+Ecoutes, il a été promu directeur.
+
+289
+00:10:21,599 --> 00:10:23,233
+Nous devons dépassé ça.
+
+290
+00:10:23,300 --> 00:10:26,236
+Rejoinds moi derrière la benne à ordure
+dans 90 secondes.
+
+291
+00:10:26,303 --> 00:10:28,872
+89, 88...
+
+292
+00:10:28,939 --> 00:10:31,508
+Tu as 20 minutes de retard.
+
+293
+00:10:31,575 --> 00:10:32,509
+Um...
+
+294
+00:10:32,576 --> 00:10:34,077
+J'étais derriàre une autre benne.
+
+295
+00:10:34,145 --> 00:10:36,012
+Avoues que tu as perdu la notion du temps.
+
+296
+00:10:36,080 --> 00:10:37,814
+Ryan et moi nous sommes rencontré
+
+297
+00:10:37,882 --> 00:10:40,216
+pour travailler notre plan diabolique contre jim.
+
+298
+00:10:40,284 --> 00:10:42,685
+Ryan est toujours en retard aux rendez-vous.
+
+299
+00:10:42,753 --> 00:10:45,989
+J'aimerais tant avoir un quartier général.
+
+300
+00:10:46,056 --> 00:10:47,657
+As-tu vu Saw?
+
+301
+00:10:47,725 --> 00:10:50,326
+Bien sur que je fais de la balançoire
+Mose et moi faisons de la balançoire tout le temps.
+
+302
+00:10:50,394 --> 00:10:51,628
+Non. Uh, le film.
+
+303
+00:10:51,695 --> 00:10:53,997
+As-tu vu le film Saw?
+
+304
+00:10:54,064 --> 00:10:55,498
+Oh. Oui. Super film.
+
+305
+00:10:55,566 --> 00:10:57,367
+Aussi drôle que de faire de la balançoire.
+
+306
+00:10:57,434 --> 00:11:00,069
+Ok, la raison pour laquelle ces films
+sont si populaires
+
+307
+00:11:00,137 --> 00:11:03,339
+est la façon dont il torture psychologiquement.
+
+308
+00:11:03,407 --> 00:11:05,275
+J'aime ce que tu commences à dire.
+
+309
+00:11:05,342 --> 00:11:06,676
+Continues.
+
+310
+00:11:06,744 --> 00:11:09,679
+Pouvons-nous l'attirer vers un entrepôt
+ou quelque chose?
+
+311
+00:11:09,747 --> 00:11:10,680
+J'ai une vieille grange.
+
+312
+00:11:10,748 --> 00:11:11,948
+Ca pue un peu... - Oui!
+
+313
+00:11:12,016 --> 00:11:13,416
+Mais ça pourrait être un plus. Ok, et puis?
+
+314
+00:11:13,484 --> 00:11:16,419
+
+315
+00:11:18,789 --> 00:11:21,090
+Je veux dire, on va pas le tuer, évidemment.
+
+316
+00:11:21,158 --> 00:11:22,492
+- Je ne--
+- J'ai un masque...
+
+317
+00:11:22,560 --> 00:11:25,428
+Ok. C'est ça ton idée?
+Comme dans le film?
+
+318
+00:11:25,496 --> 00:11:28,231
+C'est la chose la plus idiote que j'ai
+entendu dans ma vie
+
+319
+00:11:28,299 --> 00:11:30,233
+Alors, proposes quelque chose
+au lieu de
+
+320
+00:11:30,301 --> 00:11:31,668
+Il est supposé se couper la jambe?
+
+321
+00:11:31,735 --> 00:11:33,036
+- Ne fais pas que critiquer mon idée!
+- Réflechis!
+
+322
+00:11:33,103 --> 00:11:36,439
+Alors penses à autre chose!
+
+323
+00:11:36,507 --> 00:11:37,941
+Michael, je ne suis pas sure que,
+
+324
+00:11:38,008 --> 00:11:40,076
+tous tes jouets vont rentrer sur ton
+nouveau bureau
+
+325
+00:11:40,144 --> 00:11:41,477
+Comment c'est possible?
+
+326
+00:11:41,545 --> 00:11:42,712
+Ben, dans ton ancien bureau,
+
+327
+00:11:42,780 --> 00:11:44,514
+Il y avait toutes ces étagàres
+et cet espace--
+
+328
+00:11:44,582 --> 00:11:45,882
+Pas d'excuses, Erin. Aller!
+
+329
+00:11:45,950 --> 00:11:47,717
+Fais que ça rentre.
+
+330
+00:11:47,785 --> 00:11:49,986
+Tu sais je pense vraiment que je devrais
+retourner travailler.
+
+331
+00:11:50,054 --> 00:11:52,622
+Jim m'a demandé de faire des choses,
+et il est le directeur
+
+332
+00:11:54,258 --> 00:11:55,692
+Oh. Ouais. Bien, bien.
+
+333
+00:11:55,759 --> 00:11:56,693
+- Ok.
+- Laisses ça là.
+
+334
+00:11:56,760 --> 00:11:57,861
+Très bien.
+
+335
+00:11:57,928 --> 00:11:59,796
+J'ai des ventes à faire de toute façon.
+
+336
+00:11:59,864 --> 00:12:02,031
+Qui dois-je appeler avec mes doigts magiques
+de vendeur?
+
+337
+00:12:02,099 --> 00:12:05,735
+
+338
+00:12:05,803 --> 00:12:07,570
+
+339
+00:12:07,638 --> 00:12:09,706
+Michael Scott, commercial.
+
+340
+00:12:09,773 --> 00:12:13,176
+Tu dois faire quelque chose mec.
+Tu peux pas juste rester assis.
+
+341
+00:12:16,881 --> 00:12:18,815
+Le nouvel informaticien là.
+
+342
+00:12:18,883 --> 00:12:20,617
+Nick.
+
+343
+00:12:20,684 --> 00:12:22,085
+- Nick.
+- Je pense qu'il est la clé.
+
+344
+00:12:22,152 --> 00:12:24,254
+On peut lui faire confiance.
+Il cherche des amis.
+
+345
+00:12:24,321 --> 00:12:26,489
+On lui a donné un grand pouvoir
+
+346
+00:12:26,557 --> 00:12:28,458
+Et il ne sait pas comment le gérer.
+
+347
+00:12:28,525 --> 00:12:30,326
+Comme Freudon.
+
+348
+00:12:30,394 --> 00:12:32,962
+Pourquoi tu ne me laisses pas gérer les
+réferences sur Tolkien,
+
+349
+00:12:33,030 --> 00:12:34,464
+Ok, imbécile?
+
+350
+00:12:34,531 --> 00:12:36,833
+Ben, je pense qu'on peut le corrompre.
+
+351
+00:12:36,901 --> 00:12:38,735
+Comme Gollum.
+
+352
+00:12:38,802 --> 00:12:41,104
+Smeagol était corrompu
+
+353
+00:12:41,171 --> 00:12:42,805
+Et il est devenu gollum.
+
+354
+00:12:42,873 --> 00:12:44,807
+Je devrais entamer un complot contre lui
+
+355
+00:12:44,875 --> 00:12:46,142
+Après celui-là.
+
+356
+00:12:47,578 --> 00:12:49,078
+Qui a faim?
+
+357
+00:12:49,146 --> 00:12:50,680
+- C'est quoi ça?
+- Ce sont des fourmis sur des rondins.
+
+358
+00:12:50,748 --> 00:12:53,349
+Michael veut toujours que je lui
+en apporte 2:30
+
+359
+00:12:53,417 --> 00:12:55,451
+Et que je dise, "qui a faim?" - oh.
+
+360
+00:12:55,519 --> 00:12:57,487
+Ca va. Merci.
+
+361
+00:12:57,554 --> 00:12:59,489
+Est ce que tu veux que je fasse tourner
+ta chaise pour t'étourdir?
+
+362
+00:12:59,556 --> 00:13:01,491
+- Pourquoi je voudrais ça?
+- C'est une technique pour réflechir.
+
+363
+00:13:01,558 --> 00:13:03,426
+
+364
+00:13:03,494 --> 00:13:05,028
+Ca garde le cerveau en mouvement,
+
+365
+00:13:05,095 --> 00:13:07,630
+Et un...un cerveau en mouvement est un cerveau
+qui travaille.
+
+366
+00:13:07,698 --> 00:13:10,133
+Pour le moment je vais juste me remettre au travail
+
+367
+00:13:10,200 --> 00:13:11,434
+- Oh, bien sur.
+- Oui. Merci.
+
+368
+00:13:11,502 --> 00:13:14,370
+Bon...
+
+369
+00:13:14,438 --> 00:13:16,673
+Ce sera un plaisir de faire des affaires avec vous
+
+370
+00:13:16,740 --> 00:13:19,509
+Merci. Bye-bye.
+
+371
+00:13:19,576 --> 00:13:21,678
+
+372
+00:13:21,745 --> 00:13:23,046
+Je viens de me faire un nouveau client.
+
+373
+00:13:23,113 --> 00:13:25,949
+Le club de gentleman de Carbondale.
+
+374
+00:13:25,751 --> 00:13:27,552
+Ca s'appelle Curves.
+
+375
+00:13:27,751 --> 00:13:29,552
+Je suis passé par là l'autre jour.
+
+376
+00:13:29,620 --> 00:13:31,187
+J'ai vu quelques femmes y entrer.
+
+377
+00:13:31,255 --> 00:13:32,855
+Pas...vraiment ma tasse de thé.
+
+378
+00:13:32,923 --> 00:13:34,958
+en réalité, kevin, tu pourrais aimer ça.
+
+379
+00:13:35,025 --> 00:13:36,859
+Sympa.
+
+380
+00:13:36,927 --> 00:13:39,028
+Tu sais, on ne se vante pas tout haut
+
+381
+00:13:39,096 --> 00:13:40,463
+De nos ventes.
+
+382
+00:13:40,531 --> 00:13:42,732
+Pourquoi pas? Ca fait partie de l'expérience
+de la vente
+
+383
+00:13:42,800 --> 00:13:44,367
+On est plus en 1992.
+
+384
+00:13:44,435 --> 00:13:45,501
+Bon, ok.
+
+385
+00:13:45,569 --> 00:13:47,236
+
+386
+00:13:48,772 --> 00:13:50,873
+"tu illumines ma journée avec le
+son de ta voix.
+
+387
+00:13:50,941 --> 00:13:52,675
+"tu apportes tant de rire et d'amour.
+
+388
+00:13:52,743 --> 00:13:54,010
+"tu es tout pour moi,
+
+389
+00:13:54,078 --> 00:13:56,713
+Et j'ai été béni quand Dieu t'as amené
+à moi"
+
+390
+00:13:56,780 --> 00:13:57,747
+- Bon sang louise.
+- Je sais.
+
+391
+00:13:57,815 --> 00:13:59,816
+Obsédé par moi hein?
+
+392
+00:13:59,883 --> 00:14:02,685
+- Ben, tout le monde en a eu une.
+- Que disait la tienne?
+
+393
+00:14:02,753 --> 00:14:05,488
+"les amis valent la peine
+qu'on partage une niche."
+
+394
+00:14:05,556 --> 00:14:07,357
+Rien d'étonnant
+
+395
+00:14:07,424 --> 00:14:09,559
+à ce que Andy donne une carte aussi romantique
+à Kelly.
+
+396
+00:14:09,626 --> 00:14:11,294
+Je ne suis pas à sa hauteur.
+
+397
+00:14:11,362 --> 00:14:13,296
+Cette fille peut chanter et danser
+
+398
+00:14:13,364 --> 00:14:15,765
+Et se faire offrir tous ses vêtements au magasin...
+
+399
+00:14:15,833 --> 00:14:17,700
+Et je me sens si bête
+
+400
+00:14:17,768 --> 00:14:19,769
+D'avoir pensé que Andy courrait seulement
+après une fille.
+
+401
+00:14:19,837 --> 00:14:22,171
+'parce que Andy Bernard est un playboy,
+
+402
+00:14:22,239 --> 00:14:24,540
+Et pourquoi il ne le serait pas?
+
+403
+00:14:24,608 --> 00:14:27,610
+Il a tout pour.
+
+404
+00:14:27,678 --> 00:14:31,948
+Ho ho. Le voilà, l'informaticien.
+
+405
+00:14:32,016 --> 00:14:34,083
+Je vois que tu as trouvé la salle de pause.
+
+406
+00:14:34,151 --> 00:14:35,752
+- Uh, ouais.
+- J'imagine
+
+407
+00:14:35,819 --> 00:14:37,553
+que la meilleure chose quand on est
+informaticien
+
+408
+00:14:37,621 --> 00:14:39,589
+est qu'on connait tous les mots de passe
+des ordinateurs
+
+409
+00:14:39,656 --> 00:14:41,924
+Vous savez, en fait je ne les connait pas.
+
+410
+00:14:41,992 --> 00:14:43,192
+
+411
+00:14:43,260 --> 00:14:45,128
+Ecoutes. Je sais que tu dois dire ça,
+
+412
+00:14:45,195 --> 00:14:47,463
+Mais on a un petit problème là.
+
+413
+00:14:47,531 --> 00:14:49,198
+Il y a un employé qui s'appelle Jim Halpert,
+
+414
+00:14:49,266 --> 00:14:51,334
+Et il fait des choses terribles, ok?
+
+415
+00:14:51,402 --> 00:14:53,669
+Il embête des gens sur internet,
+
+416
+00:14:53,737 --> 00:14:55,705
+et on doit l'arrêter.
+
+417
+00:14:55,773 --> 00:14:58,207
+Je crois que vous devriez appeler la police--
+
+418
+00:14:58,275 --> 00:15:01,010
+Non. La police nous a appelé.
+
+419
+00:15:01,078 --> 00:15:04,914
+Alors j'ai besoin que tu me donnes le mot
+de passe
+
+420
+00:15:04,982 --> 00:15:06,749
+de l'ordinateur de Jim Halpert.
+
+421
+00:15:06,817 --> 00:15:08,584
+Je ne sais pas quoi vous dire mecs,
+je suis désolé
+
+422
+00:15:08,652 --> 00:15:10,353
+Je ne peux pas vous donner son mot de passe
+comme ça.
+
+423
+00:15:10,421 --> 00:15:13,089
+Nick, on pourrait rendre les choses...
+
+424
+00:15:13,157 --> 00:15:15,758
+très difficiles pour toi.
+
+425
+00:15:15,826 --> 00:15:17,660
+Est-ce que vous...
+
+426
+00:15:17,728 --> 00:15:19,095
+Vous me menacez?
+
+427
+00:15:19,163 --> 00:15:21,297
+Te menacer?
+
+428
+00:15:21,365 --> 00:15:23,499
+Non.
+
+429
+00:15:33,610 --> 00:15:36,813
+Qu'est ce que ça sent? Vous sentez ça?
+
+430
+00:15:36,880 --> 00:15:39,749
+C'est quoi ça?
+
+431
+00:15:39,817 --> 00:15:41,484
+Y'a un dépôt de souffre là dessous?
+
+432
+00:15:41,552 --> 00:15:43,319
+Michael...Stop.
+
+433
+00:15:43,387 --> 00:15:45,655
+Non, je suis sêrieux. On ne doit pas lever ça--
+
+434
+00:15:45,722 --> 00:15:47,757
+Est ce que c'est les chiens? - michael.
+
+435
+00:15:47,825 --> 00:15:48,925
+Vous savez quoi?
+
+436
+00:15:48,992 --> 00:15:50,059
+On ne devrait pas travailler avec ça.
+
+437
+00:15:50,127 --> 00:15:52,595
+Je vais chercher sur google des cartes
+sur les gisements de souffre.
+
+438
+00:15:52,663 --> 00:15:56,599
+Michael, c'est phyllis.
+
+439
+00:15:56,667 --> 00:15:58,367
+Non, c'est géologique.
+
+440
+00:15:58,435 --> 00:16:00,770
+J'ai envoyé un mail à tout le monde
+
+441
+00:16:00,838 --> 00:16:02,939
+Pour prévenir que ça pouvait être un
+effet secondaire
+
+442
+00:16:03,006 --> 00:16:05,575
+de mon nouveau traitement des allergies.
+
+443
+00:16:05,642 --> 00:16:08,211
+- Tu te fous de moi?
+- Non.
+
+444
+00:16:11,048 --> 00:16:12,448
+Et vous tous vous etes d'accord avec ça?
+
+445
+00:16:12,516 --> 00:16:14,150
+Elle a envoyé un mail...
+
+446
+00:16:32,903 --> 00:16:34,403
+Ce n'est pas à cause de l'odeur.
+
+447
+00:16:34,471 --> 00:16:37,373
+Je m'attends à saigner du nez.
+
+448
+00:16:38,976 --> 00:16:40,176
+Oh, mon dieu.
+
+449
+00:16:43,301 --> 00:16:45,669
+Oh...tu m'as fait peur.
+
+450
+00:16:45,737 --> 00:16:47,170
+Je suis désolé. Je pensais que tu m'avais vu.
+
+451
+00:16:47,238 --> 00:16:49,339
+Je ne t'ai pas vu.
+
+452
+00:16:49,407 --> 00:16:51,909
+Et tu étais là tout ce temps.
+
+453
+00:16:51,976 --> 00:16:54,378
+Bon, je l'ai chauffé pour toi.
+
+454
+00:16:54,445 --> 00:16:55,679
+Ca devrait bien marcher.
+
+455
+00:16:55,747 --> 00:16:56,880
+Cool. Merci.
+
+456
+00:16:56,948 --> 00:16:59,983
+Bye, andy.
+
+457
+00:17:03,821 --> 00:17:06,323
+- Ca c'était bizarre.
+- Non, ça ne l'ai pas.
+
+458
+00:17:06,391 --> 00:17:08,825
+On a tous vu la carte que tu lui as fait.
+
+459
+00:17:08,893 --> 00:17:10,861
+Je ne sais même pas ce que cette carte disait.
+
+460
+00:17:10,929 --> 00:17:12,863
+Crois moi, si j'avais eu cette carte,
+
+461
+00:17:12,931 --> 00:17:17,367
+On serait en train de le faire
+dans les toilettes...Maintenant.
+
+462
+00:17:17,435 --> 00:17:18,936
+Oh!
+
+463
+00:17:21,839 --> 00:17:23,540
+Hey.
+
+464
+00:17:23,608 --> 00:17:26,009
+Hey.
+
+465
+00:17:26,077 --> 00:17:27,611
+Tu sais, c'est drôle,
+Je suis souvent resté ici debout
+
+466
+00:17:27,679 --> 00:17:29,580
+En esperant être là bas.
+
+467
+00:17:29,647 --> 00:17:31,348
+Maintenant que j'y suis, j'aimerais être là.
+
+468
+00:17:31,416 --> 00:17:32,950
+Ben, l'herbe parait toujours plus verte ailleurs.
+
+469
+00:17:33,017 --> 00:17:35,786
+Ouais. Sauf qu'il n'y a pas d'herbe là bas.
+
+470
+00:17:35,853 --> 00:17:38,088
+C'est juste une pièce toute sale.
+
+471
+00:17:38,156 --> 00:17:39,623
+Ben, c'est ce que tu voulais.
+
+472
+00:17:39,691 --> 00:17:41,558
+J'ai vraiment besoin qu'on me rende
+mon ancien job.
+
+473
+00:17:41,626 --> 00:17:43,560
+On a fait une terrible erreur là.
+
+474
+00:17:43,628 --> 00:17:46,129
+Pour info, je me suis battu contre ça
+n'est ce pas?
+
+475
+00:17:46,197 --> 00:17:48,765
+Et maintenant...je ne suis pas sur de ce
+qu'on peut faire là.
+
+476
+00:17:48,833 --> 00:17:51,935
+On fait un poster qui dit
+"Joyeux jour de l'échange de poste"
+
+477
+00:17:52,003 --> 00:17:53,637
+Et elle le verra en sortant--
+
+478
+00:17:53,705 --> 00:17:54,638
+C'est stupide.
+
+479
+00:17:54,706 --> 00:17:56,607
+Oh, j'aimerais qu'on ai un de ces
+
+480
+00:17:56,674 --> 00:17:59,610
+flashs qui fasse perdre la mémoire
+comme ceux des hommes en noir
+
+481
+00:17:59,677 --> 00:18:01,411
+Hey, c'était quoi déjà ce film
+
+482
+00:18:01,479 --> 00:18:03,380
+Où leur boss était à portée de voix,
+
+483
+00:18:03,448 --> 00:18:05,882
+Et ils pouvaient juste aller et lui parler?
+
+484
+00:18:05,950 --> 00:18:07,284
+- L'arme fatale?
+- C'est ça
+
+485
+00:18:07,352 --> 00:18:09,252
+Je pense qu'on devrait le faire à la manière
+de l'arme fatale
+
+486
+00:18:09,320 --> 00:18:11,555
+Vous deux etes des grands garçons.
+que dois-je faire,
+
+487
+00:18:11,623 --> 00:18:13,790
+Vous virez et ramener deux autres personnes ici
+
+488
+00:18:13,858 --> 00:18:15,392
+qui n'ont pas besoin d'autant de soutien?
+
+489
+00:18:15,460 --> 00:18:17,327
+Ce...? Ce que je dis--
+
+490
+00:18:17,395 --> 00:18:19,396
+Ce que dit Michael c'est qu'il est meilleur
+en tant que directeur,
+
+491
+00:18:19,464 --> 00:18:21,264
+Et je suis d'accord, parce que c'est une personne
+beaucoup plus sociable,
+
+492
+00:18:21,332 --> 00:18:22,566
+Bizarre--bizarre. - Et bizarrement,
+
+493
+00:18:22,634 --> 00:18:24,601
+je suis aimé par les chiens, hein, les gars?
+
+494
+00:18:24,669 --> 00:18:26,003
+Vous voyez? Ils m'aiment.
+
+495
+00:18:26,070 --> 00:18:28,972
+Bien. je m'en fous de qui fait quoi.
+
+496
+00:18:29,040 --> 00:18:31,808
+Mais...arrêtez de venir me voir pour ça
+
+497
+00:18:31,876 --> 00:18:32,809
+Très bien.
+
+498
+00:18:32,877 --> 00:18:34,811
+Très bien.
+
+499
+00:18:34,879 --> 00:18:35,812
+- oh.
+
+500
+00:18:35,880 --> 00:18:37,648
+Je dois prendre ça.
+
+501
+00:18:37,715 --> 00:18:40,150
+Ouais. Uh, termines de promener mes chiens
+à ma place.
+
+502
+00:18:40,218 --> 00:18:44,688
+Et n'essayes pas de les monter.
+Beaucoup de personnes essayent de les monter.
+
+503
+00:18:48,493 --> 00:18:50,494
+Excusez moi, tout le monde.
+Vérifiez vos mails s'il vous plait.
+
+504
+00:18:50,561 --> 00:18:53,130
+Je viens juste de vous envoyer le message suivant:
+
+505
+00:18:53,197 --> 00:18:55,432
+"collègues, vous avez du recevoir une carte
+de ma part.
+
+506
+00:18:55,500 --> 00:18:57,534
+"s'il vous plait n'imaginez pas
+
+507
+00:18:57,602 --> 00:18:59,336
+Que je vous aime d'une certaine manière."
+
+508
+00:18:59,404 --> 00:19:01,605
+Tu ne nous aimes même pas en tant qu'amis?
+
+509
+00:19:01,673 --> 00:19:04,307
+Phyllis, vous tous êtes mes plus proches amis.
+
+510
+00:19:04,375 --> 00:19:07,044
+Je ne veux pas dire que je ne vous aime pas.
+
+511
+00:19:07,111 --> 00:19:08,478
+Nous sommes quoi, cinq?
+
+512
+00:19:08,546 --> 00:19:09,913
+"s'il vous plait ne pensez pas ça de ces cartes.
+
+513
+00:19:09,981 --> 00:19:12,816
+Professionnelement,le chien galleux."
+
+514
+00:19:12,884 --> 00:19:15,118
+Um, pourquoi je viens de recevoir un mail de toi
+
+515
+00:19:15,186 --> 00:19:17,020
+qui dit que tu ne m'aimes pas?
+
+516
+00:19:17,088 --> 00:19:19,389
+Tu réalises toute la difficulté que j'ai eu
+à t'apprécier, andy?
+
+517
+00:19:19,457 --> 00:19:21,124
+C'est--
+
+518
+00:19:21,192 --> 00:19:23,326
+Ce n'était pas--
+
+519
+00:19:23,394 --> 00:19:25,629
+J'aime quelqu'un d'autre.
+
+520
+00:19:25,697 --> 00:19:27,731
+Qui?
+
+521
+00:19:27,799 --> 00:19:29,132
+
+
+522
+00:19:29,200 --> 00:19:32,636
+c'est...pas...
+
+523
+00:19:32,704 --> 00:19:36,173
+Que se soit ou pas...
+
+524
+00:19:36,240 --> 00:19:37,708
+
+
+525
+00:19:37,775 --> 00:19:38,842
+Qui? Quoi?
+
+526
+00:19:38,910 --> 00:19:42,412
+Ouais, je pense que Andy n'a jamais aimé Kelly.
+
+527
+00:19:42,480 --> 00:19:44,347
+Tiens donc!
+
+528
+00:19:44,415 --> 00:19:46,216
+
+
+529
+00:19:46,284 --> 00:19:48,085
+Oh, ça sent bon ici.
+
+530
+00:19:48,152 --> 00:19:51,021
+Bien sur oui. Ok, on a votre...
+
+531
+00:19:51,089 --> 00:19:53,490
+Chauffage, votre humidificateur,
+votre déshumidificateur,
+
+532
+00:19:53,558 --> 00:19:56,093
+votre ventilateur, votre ventilateur de pied,
+et votre déshydrateur alimentaire.
+
+533
+00:19:56,160 --> 00:19:59,162
+Erin...et mon clavier?
+
+534
+00:20:00,732 --> 00:20:02,666
+
+
+535
+00:20:02,734 --> 00:20:04,735
+Ah.
+
+536
+00:20:04,802 --> 00:20:06,136
+C'est tellement bon d'être chez soi.
+
+537
+00:20:06,204 --> 00:20:08,605
+* *
+
+538
+00:20:08,673 --> 00:20:09,940
+et pourquoi une bossa nova?
+
+539
+00:20:10,007 --> 00:20:12,175
+Oh...
+
+540
+00:20:12,243 --> 00:20:15,145
+
+
+541
+00:20:15,213 --> 00:20:22,953
+* *
+
+542
+00:20:23,020 --> 00:20:25,255
+Il a l'air heureux.
+
+543
+00:20:25,323 --> 00:20:26,690
+Ouais.
+
+544
+00:20:26,758 --> 00:20:29,059
+Bien, bien, bien. Hmm.
+
+545
+00:20:29,127 --> 00:20:32,028
+Patron pendant...combien déjà?
+
+546
+00:20:32,096 --> 00:20:35,031
+Oh...quatre heures et demi?
+
+547
+00:20:35,099 --> 00:20:37,434
+Nouveau record... de le plus courte durée.
+
+548
+00:20:37,502 --> 00:20:40,103
+Record précedent, henry rostin.
+
+549
+00:20:40,171 --> 00:20:41,538
+Patron pendant 9 ans, 4 mois.
+
+550
+00:20:41,606 --> 00:20:42,973
+Et il est parti seulement
+
+551
+00:20:43,040 --> 00:20:44,708
+Pour affronter des problèmes familiaux
+
+552
+00:20:44,776 --> 00:20:46,143
+Et il--quoi--
+
+553
+00:20:51,616 --> 00:20:53,717
+Michael?
+
+554
+00:20:56,106 --> 00:20:57,273
+Je ne peux pas t'aider mais penses que
+
+555
+00:20:57,341 --> 00:20:58,900
+le peu que nous ayons fait à rendu celà possible.
+
+556
+00:21:20,901 --> 00:21:28,901
