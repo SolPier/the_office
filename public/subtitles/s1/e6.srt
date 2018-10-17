@@ -1,1784 +1,1784 @@
 1
-00:00:52,448 --> 00:00:54,925
+00:00:29,448 --> 00:00:31,925
 1x06 : Hot Girl Belkiss,Unfold &
 Occeane Resynchro par Freelanceur
 
 2
-00:00:59,235 --> 00:01:01,782
+00:00:36,235 --> 00:00:38,782
 - Est-ce que vous m'écoutez Michael ?
 - Affirmatif.
 
 3
-00:01:01,955 --> 00:01:03,785
+00:00:38,955 --> 00:00:40,785
 Qu'est-ce que je viens de dire ?
 
 4
-00:01:04,255 --> 00:01:07,892
+00:00:41,255 --> 00:00:44,892
 Vous avez dit...
 laissez-moi consulter mes notes,
 
 5
-00:01:07,895 --> 00:01:09,428
+00:00:44,895 --> 00:00:46,428
 vous venez de dire...
 
 6
-00:01:09,525 --> 00:01:12,035
+00:00:46,525 --> 00:00:49,035
 Alan et moi avons créé
 un programme de primes
 
 7
-00:01:12,095 --> 00:01:16,665
+00:00:49,095 --> 00:00:53,665
 Hé ! Comment va Alan ?
 Dîtes à Alan que les Mets sont nuls.
 
 8
-00:01:16,865 --> 00:01:20,299
+00:00:53,865 --> 00:00:57,299
 D'accord ? De ma part, carrément.
 Allez les Pirates !
 
 9
-00:01:20,375 --> 00:01:21,681
+00:00:57,375 --> 00:00:58,681
 - Non je ne vais pas le faire.
 - D'accord.
 
 10
-00:01:21,715 --> 00:01:24,013
+00:00:58,715 --> 00:01:01,013
 Nous avons créé un un programme
 de primes pour augmenter les ventes.
 
 11
-00:01:24,345 --> 00:01:27,396
+00:01:01,345 --> 00:01:04,396
 A la fin du mois, vous récompensez
 le meilleur vendeur avec un prix,
 
 12
-00:01:27,515 --> 00:01:28,586
+00:01:04,515 --> 00:01:05,586
 dont le montant peut s'élever
 jusqu'à mille dollars.
 
 13
-00:01:28,643 --> 00:01:32,134
+00:01:05,643 --> 00:01:09,134
 Rien que ça ! Mille balles.
 C'est cool.
 
 14
-00:01:32,155 --> 00:01:34,070
+00:01:09,155 --> 00:01:11,070
 Est-ce que je peux choisir le lot ?
 
 15
-00:01:34,125 --> 00:01:36,487
+00:01:11,125 --> 00:01:13,487
 Heu oui, oui vous pouvez.
 
 16
-00:01:36,875 --> 00:01:41,875
+00:01:13,875 --> 00:01:18,875
 Question : le meilleur vendeur peut-il
 être quelqu'un qui autrefois,
 
 17
-00:01:41,885 --> 00:01:45,812
+00:01:18,885 --> 00:01:22,812
 était un vendeur tellement bon
 qu'il a été promu...
 
 18
-00:01:45,885 --> 00:01:49,398
+00:01:22,885 --> 00:01:26,398
 Non Michael, vous ne pouvez pas
 gagner le lot.
 
 19
-00:01:49,675 --> 00:01:51,280
+00:01:26,675 --> 00:01:28,280
 Je ne parlais pas de moi !
 
 20
-00:01:56,935 --> 00:01:59,341
+00:01:33,935 --> 00:01:36,341
 En premier, nous devons trouver
 
 21
-00:01:59,405 --> 00:02:01,925
+00:01:36,405 --> 00:01:38,925
 ce qui motive les gens
 par dessus tout.
 
 22
-00:02:01,985 --> 00:02:02,924
+00:01:38,985 --> 00:01:39,924
 Le sexe.
 
 23
-00:02:02,965 --> 00:02:05,138
+00:01:39,965 --> 00:01:42,138
 C'est illégal, on peut pas.
 Ensuite ?
 
 24
-00:02:05,245 --> 00:02:05,920
+00:01:42,245 --> 00:01:42,920
 La torture.
 
 25
-00:02:06,135 --> 00:02:08,891
+00:01:43,135 --> 00:01:45,891
 Allons Dwight. Aidez-moi un peu.
 C'est stupide.
 
 26
-00:02:09,485 --> 00:02:10,931
+00:01:46,485 --> 00:01:47,931
 - Michael ?
 - Pam !
 
 27
-00:02:11,025 --> 00:02:12,681
+00:01:48,025 --> 00:01:49,681
 - Il y a...
 - Burger au fromage.
 
 28
-00:02:12,875 --> 00:02:14,571
+00:01:49,875 --> 00:01:51,571
 - Il y a quelqu'un qui...
 - Avec des frites.
 
 29
-00:02:14,725 --> 00:02:16,676
+00:01:51,725 --> 00:01:53,676
 - Il y...
 - Et un milk-shake. Quoi ? Allez-y.
 
 30
-00:02:16,915 --> 00:02:18,905
+00:01:53,915 --> 00:01:55,905
 Quelqu'un est là pour vendre
 des sacs à main.
 
 31
-00:02:18,935 --> 00:02:21,701
+00:01:55,935 --> 00:01:58,701
 Pas de vendeurs au bureau.
 Ca distrait trop.
 
 32
-00:02:21,915 --> 00:02:24,732
+00:01:58,915 --> 00:02:01,732
 - Je lui ai dit que vous lui parleriez.
 - Pam allons je suis occupé,
 
 33
-00:02:25,185 --> 00:02:27,678
+00:02:02,185 --> 00:02:04,678
 - dites-lui simplement de partir.
 - D'accord.
 
 34
-00:02:33,715 --> 00:02:35,816
+00:02:10,715 --> 00:02:12,816
 D'accord je vais lui parler.
 
 35
-00:02:35,925 --> 00:02:36,982
+00:02:12,925 --> 00:02:13,982
 Celui-là est fait main.
 
 36
-00:02:36,985 --> 00:02:39,762
+00:02:13,985 --> 00:02:16,762
 Très bien les filles,
 vous êtes infiltrées.
 
 37
-00:02:39,935 --> 00:02:40,887
+00:02:16,935 --> 00:02:17,887
 Un cock est dans le poulailler.
 
 38
-00:02:40,925 --> 00:02:43,013
+00:02:17,925 --> 00:02:20,013
 - Deux cocks dans le poulailler.
 - Non pas deux.
 
 39
-00:02:44,655 --> 00:02:47,563
+00:02:21,655 --> 00:02:24,563
 Oh quel est votre nom jeune femme ?
 
 40
-00:02:47,935 --> 00:02:49,809
+00:02:24,935 --> 00:02:26,809
 - Katy.
 - Oh Katy.
 
 41
-00:02:49,865 --> 00:02:52,021
+00:02:26,865 --> 00:02:29,021
 Regardez-vous.
 
 42
-00:02:52,055 --> 00:02:56,302
+00:02:29,055 --> 00:02:33,302
 Vous êtes la nouvelle version de Pam.
 Pam version 6.0.
 
 43
-00:02:58,025 --> 00:03:00,986
+00:02:35,025 --> 00:02:37,986
 Ecoutez, pas de crépage
 de chignons vous deux,
 
 44
-00:03:01,055 --> 00:03:02,927
+00:02:38,055 --> 00:02:39,927
 - je suis contre la violence au bureau.
 - Moi aussi.
 
 45
-00:03:02,985 --> 00:03:04,647
+00:02:39,985 --> 00:02:41,647
 - Ca n'interesse personne.
 - Pas grave.
 
 46
-00:03:04,755 --> 00:03:06,578
+00:02:41,755 --> 00:02:43,578
 Vous savez quoi ?
 
 47
-00:03:06,605 --> 00:03:09,068
+00:02:43,605 --> 00:02:46,068
 Normallement je n'autorise pas
 les vendeurs dans le bureau,
 
 48
-00:03:09,175 --> 00:03:11,977
+00:02:46,175 --> 00:02:48,977
 mais aujourd'hui je vais
 oublier quelques règles,
 
 49
-00:03:12,125 --> 00:03:14,375
+00:02:49,125 --> 00:02:51,375
 vous avez la salle de conférence.
 Elle est à vous, toute la journée.
 
 50
-00:03:14,555 --> 00:03:17,665
+00:02:51,555 --> 00:02:54,665
 - Merci.
 - Il y a une réunion du DRH à 11h30.
 
 51
-00:03:17,685 --> 00:03:20,570
+00:02:54,685 --> 00:02:57,570
 Eh bien mettez-les dans le couloir.
 
 52
-00:03:20,715 --> 00:03:22,778
+00:02:57,715 --> 00:02:59,778
 On leur donnera des chaises, d'accord ?
 
 53
-00:03:22,855 --> 00:03:27,469
+00:02:59,855 --> 00:03:04,469
 La prise de décision, une des clés
 du succès, selon "Small Businessman".
 
 54
-00:03:27,635 --> 00:03:29,694
+00:03:04,635 --> 00:03:06,694
 Oui, je lis "Small Businessman",
 (*mag d'économie*)
 
 55
-00:03:29,725 --> 00:03:33,497
+00:03:06,725 --> 00:03:10,497
 je suis également abonné
 à "USA today",
 
 56
-00:03:33,675 --> 00:03:36,555
+00:03:10,675 --> 00:03:13,555
 et "American way magazine".
 (*comme le mag d'AirFrance en gros*)
 
 57
-00:03:36,565 --> 00:03:39,971
+00:03:13,565 --> 00:03:16,971
 C'est le magasine de la compagnie,
 il y a de très bons articles.
 
 58
-00:03:40,315 --> 00:03:46,058
+00:03:17,315 --> 00:03:23,058
 Ils ont fait un super portrait de
 Doris Roberts le mois denier,
 
 59
-00:03:46,685 --> 00:03:49,262
+00:03:23,685 --> 00:03:26,262
 racontant où elle mange
 quand elle est à Phoenix.
 
 60
-00:03:49,975 --> 00:03:50,975
+00:03:26,975 --> 00:03:27,975
 Fascinant.
 
 61
-00:03:51,215 --> 00:03:53,065
+00:03:28,215 --> 00:03:30,065
 Voici ma salle de réunion,
 
 62
-00:03:53,155 --> 00:03:55,815
+00:03:30,155 --> 00:03:32,815
 s'il vous plaît, faites comme chez vous.
 
 63
-00:03:55,945 --> 00:03:58,691
+00:03:32,945 --> 00:03:35,691
 Si vous avez besoin de quoi que ce soit,
 je suis de l'autre côté du mur,
 
 64
-00:03:58,805 --> 00:04:02,237
+00:03:35,805 --> 00:03:39,237
 il y avait une vitre avant,
 mais ce n'est plus le cas.
 
 65
-00:04:02,305 --> 00:04:04,109
+00:03:39,305 --> 00:03:41,109
 Donc voilà où je serai.
 
 66
-00:04:04,915 --> 00:04:08,990
+00:03:41,915 --> 00:03:45,990
 Donc s'il vous faut quelque chose
 de plus pour être à l'aise,
 
 67
-00:04:09,385 --> 00:04:12,589
+00:03:46,385 --> 00:03:49,589
 n'hésitez pas à demander,
 je suis là.
 
 68
-00:04:12,805 --> 00:04:17,599
+00:03:49,805 --> 00:03:54,599
 - Une tasse de café ce serait parfait.
 - Attendez un peu.
 
 69
-00:04:18,175 --> 00:04:22,385
+00:03:55,175 --> 00:03:59,385
 J'aurais du reconnaître un autre drogué.
 Comment ne pas aimer le "bucks" ?
 
 70
-00:04:22,625 --> 00:04:23,511
+00:03:59,625 --> 00:04:00,511
 Quoi ?
 
 71
-00:04:23,615 --> 00:04:26,151
+00:04:00,615 --> 00:04:03,151
 C'est un raccourci pour dire Starbucks,
 ils sont partout.(*chaine de cafés*)
 
 72
-00:04:26,215 --> 00:04:30,100
+00:04:03,215 --> 00:04:07,100
 Cet endroit est comme
 une terre promise...
 
 73
-00:04:30,445 --> 00:04:32,212
+00:04:07,445 --> 00:04:09,212
 Et quelle entreprise modèle.
 
 74
-00:04:32,615 --> 00:04:36,088
+00:04:09,615 --> 00:04:13,088
 - Dommage qu'on n'ait pas tout ça ici.
 - Une simple tasse ira.
 
 75
-00:04:36,095 --> 00:04:39,333
+00:04:13,095 --> 00:04:16,333
 - Non c'est pas terrible...
 - Non vraiment, ça ira.
 
 76
-00:04:39,355 --> 00:04:41,902
+00:04:16,355 --> 00:04:18,902
 Non, voilà le truc,
 
 77
-00:04:42,475 --> 00:04:49,137
+00:04:19,475 --> 00:04:26,137
 je fais ce que je peux pour
 être un homme libre et...
 
 78
-00:04:49,995 --> 00:04:51,967
+00:04:26,995 --> 00:04:28,967
 ouvrir un peu les horizons.
 
 79
-00:04:52,775 --> 00:04:53,935
+00:04:29,775 --> 00:04:30,935
 Et personne ne me comprend,
 
 80
-00:04:54,475 --> 00:04:56,916
+00:04:31,475 --> 00:04:33,916
 ils construisent des murs,
 et je les fais tomber,
 
 81
-00:04:56,925 --> 00:05:00,133
+00:04:33,925 --> 00:04:37,133
 j'enlève les barrières, voilà tout
 ce que je fais tous les jours.
 
 82
-00:05:04,035 --> 00:05:11,097
+00:04:41,035 --> 00:04:48,097
 Donc, un café, café tout simple.
 Diesel ou sans plomb ?
 
 83
-00:05:11,835 --> 00:05:15,922
+00:04:48,835 --> 00:04:52,922
 - Envoyez la sauce !
 - Ok comptez sur moi ! Très bien.
 
 84
-00:05:18,255 --> 00:05:18,959
+00:04:55,255 --> 00:04:55,959
 Donc,
 
 85
-00:05:20,185 --> 00:05:22,932
+00:04:57,185 --> 00:04:59,932
 t'es jalouse qu'il y ait
 une autre fille dans les parages ?
 
 86
-00:05:23,115 --> 00:05:24,016
+00:05:00,115 --> 00:05:01,016
 Non.
 
 87
-00:05:25,415 --> 00:05:27,373
+00:05:02,415 --> 00:05:04,373
 Pourtant elle est
 plus jolie que toi.
 
 88
-00:05:30,965 --> 00:05:33,948
+00:05:07,965 --> 00:05:10,948
 C'est très impoli de dire ça Kevin.
 
 89
-00:05:37,987 --> 00:05:41,490
+00:05:14,987 --> 00:05:18,490
 ça vous va bien. Je vous vois bien
 avec des gants en plus.
 
 90
-00:05:41,575 --> 00:05:44,273
+00:05:18,575 --> 00:05:21,273
 La vendeuse correspond
 exactement à ce que j'attends.
 
 91
-00:05:44,805 --> 00:05:45,667
+00:05:21,805 --> 00:05:22,667
 Un teint pale,
 
 92
-00:05:46,225 --> 00:05:47,054
+00:05:23,225 --> 00:05:24,054
 des dents droites,
 
 93
-00:05:47,665 --> 00:05:48,600
+00:05:24,665 --> 00:05:25,600
 des cheveux bouclés,
 
 94
-00:05:49,755 --> 00:05:50,771
+00:05:26,755 --> 00:05:27,771
 des seins fabuleux...
 
 95
-00:05:51,415 --> 00:05:52,805
+00:05:28,415 --> 00:05:29,805
 Pas pour moi... pour mes enfants.
 
 96
-00:05:53,135 --> 00:05:56,130
+00:05:30,135 --> 00:05:33,130
 Les Schrute font des bébés
 qui boivent beaucoup de lait.
 
 97
-00:05:56,364 --> 00:05:58,685
+00:05:33,364 --> 00:05:35,685
 Et voilà, une bonne tasse
 de café bien chaude.
 
 98
-00:05:59,015 --> 00:06:00,459
+00:05:36,015 --> 00:05:37,459
 - Merci.
 - J'ai une idée.
 
 99
-00:06:00,755 --> 00:06:02,479
+00:05:37,755 --> 00:05:39,479
 Je vais vous présenter.
 
 100
-00:06:02,485 --> 00:06:05,989
+00:05:39,485 --> 00:05:42,989
 Faire le tour, rencontrer
 votre clientèle potentielle.
 
 101
-00:06:06,025 --> 00:06:06,473
+00:05:43,025 --> 00:05:43,473
 D'accord ?
 
 102
-00:06:06,825 --> 00:06:10,471
+00:05:43,825 --> 00:05:47,471
 J'adorerais mais, mes sac, je devrais...
 
 103
-00:06:10,485 --> 00:06:14,524
+00:05:47,485 --> 00:05:51,524
 Ryan va garder un oeil dessus, Ryan
 tu surveilles les sacs s'il te plaît ?
 
 104
-00:06:14,755 --> 00:06:17,931
+00:05:51,755 --> 00:05:54,931
 J'installe un programme de partage
 de fichiers sur les ordinateurs.
 
 105
-00:06:17,965 --> 00:06:20,823
+00:05:54,965 --> 00:05:57,823
 Blabla technique, occupe toi en ok ?
 On a de la compagnie.
 
 106
-00:06:20,915 --> 00:06:21,459
+00:05:57,915 --> 00:05:58,459
 D'accord ?
 
 107
-00:06:21,525 --> 00:06:22,961
+00:05:58,525 --> 00:05:59,961
 Vous devriez vendre beaucoup ici,
 
 108
-00:06:22,975 --> 00:06:26,033
+00:05:59,975 --> 00:06:03,033
 parceque cette branche a fait plus
 d'un million de bénéfices l'an dernier.
 
 109
-00:06:26,205 --> 00:06:28,465
+00:06:03,205 --> 00:06:05,465
 Non pas que nous soyons tous
 millionnaires, je suis le plus riche,
 
 110
-00:06:29,595 --> 00:06:32,493
+00:06:06,595 --> 00:06:09,493
 Voilà Oscar ! Oscar voici Katie.
 
 111
-00:06:32,503 --> 00:06:33,318
+00:06:09,503 --> 00:06:10,318
 Je suis au téléphone.
 
 112
-00:06:33,345 --> 00:06:37,535
+00:06:10,345 --> 00:06:14,535
 Oscar l'Ogre. Vous voyez ?
 Oui je viens d'y penser.
 
 113
-00:06:37,555 --> 00:06:41,521
+00:06:14,555 --> 00:06:18,521
 - C'était dans "Sesame street".
 - Je sais, j'ai fait le rapport.
 
 114
-00:06:41,585 --> 00:06:44,041
+00:06:18,585 --> 00:06:21,041
 On ne lui avait jamais fait cette
 blague avant qu'il ne travaille ici.
 
 115
-00:06:44,385 --> 00:06:47,209
+00:06:21,385 --> 00:06:24,209
 - Je le crois pas.
 - Je sais c'est incroyable.
 
 116
-00:06:47,495 --> 00:06:49,267
+00:06:24,495 --> 00:06:26,267
 Ca fait du bien que Katie soit là.
 
 117
-00:06:49,955 --> 00:06:52,733
+00:06:26,955 --> 00:06:29,733
 Ca fait une personne de plus
 pour Michael avec qui ...
 
 118
-00:06:54,305 --> 00:06:55,507
+00:06:31,305 --> 00:06:32,507
 interragir.
 
 119
-00:06:55,775 --> 00:07:00,638
+00:06:32,775 --> 00:06:37,638
 Voici Toby des ressources humaines.
 Katy Toby, Toby Katy.
 
 120
-00:07:01,305 --> 00:07:03,670
+00:06:38,305 --> 00:06:40,670
 Vous êtiez au lycée Bishop O'Hara ?
 
 121
-00:07:03,995 --> 00:07:05,316
+00:06:40,995 --> 00:06:42,316
 - Oui.
 - Moi aussi.
 
 122
-00:07:05,364 --> 00:07:06,689
+00:06:42,364 --> 00:06:43,689
 - Quelle année ?
 - Cool, vous y étiez quand ?
 
 123
-00:07:06,695 --> 00:07:07,052
+00:06:43,695 --> 00:06:44,052
 89...
 
 124
-00:07:07,085 --> 00:07:08,830
+00:06:44,085 --> 00:06:45,830
 Toby est divorcé. Il...
 
 125
-00:07:08,831 --> 00:07:11,048
+00:06:45,831 --> 00:06:48,048
 c'est récent n'est-ce pas ?
 
 126
-00:07:11,505 --> 00:07:13,829
+00:06:48,505 --> 00:06:50,829
 Votre femme et vous,
 et vous avez des enfants ?
 
 127
-00:07:13,935 --> 00:07:15,732
+00:06:50,935 --> 00:06:52,732
 - J'ai une fille.
 - C'est tellement...
 
 128
-00:07:16,195 --> 00:07:17,325
+00:06:53,195 --> 00:06:54,325
 C'était pas beau à voir.
 
 129
-00:07:17,965 --> 00:07:20,371
+00:06:54,965 --> 00:06:57,371
 Vous avez dormi dans votre voiture
 un soir non ?
 
 130
-00:07:22,065 --> 00:07:27,048
+00:06:59,065 --> 00:07:04,048
 - Je devrais retourner à ma table.
 - D'accord. On se voit tout à l'heure.
 
 131
-00:07:30,345 --> 00:07:32,047
+00:07:07,345 --> 00:07:09,047
 Qu'elle est mignone.
 
 132
-00:07:32,825 --> 00:07:34,446
+00:07:09,825 --> 00:07:11,446
 Petite puce.
 On se remet au boulot !
 
 133
-00:07:35,755 --> 00:07:37,149
+00:07:12,755 --> 00:07:14,149
 J'ai une règle dans la vie :
 
 134
-00:07:37,905 --> 00:07:41,930
+00:07:14,905 --> 00:07:18,930
 pas d'aventures au bureau.
 Pas question, trop le bordel, déplacé,
 
 135
-00:07:43,715 --> 00:07:44,270
+00:07:20,715 --> 00:07:21,270
 Non.
 
 136
-00:07:44,805 --> 00:07:45,436
+00:07:21,805 --> 00:07:22,436
 Mais,
 
 137
-00:07:46,295 --> 00:07:47,365
+00:07:23,295 --> 00:07:24,365
 j'ai une autre règle :
 
 138
-00:07:48,605 --> 00:07:49,392
+00:07:25,605 --> 00:07:26,392
 "Just do it."
 
 139
-00:07:50,225 --> 00:07:51,345
+00:07:27,225 --> 00:07:28,345
 Nike.
 
 140
-00:07:52,015 --> 00:07:54,888
+00:07:29,015 --> 00:07:31,888
 Hé Jimmy qu'est-ce que tu penses
 la petite aux sacs ?
 
 141
-00:07:55,295 --> 00:07:56,674
+00:07:32,295 --> 00:07:33,674
 Elle est mignone c'est clair.
 
 142
-00:07:57,265 --> 00:07:59,802
+00:07:34,265 --> 00:07:36,802
 - Pourquoi tu tenterais pas le coup ?
 - Elle est pas vraiment mon genre.
 
 143
-00:08:00,725 --> 00:08:02,095
+00:07:37,725 --> 00:07:39,095
 T'es gay ou quoi ?
 
 144
-00:08:03,585 --> 00:08:04,818
+00:07:40,585 --> 00:07:41,818
 Je crois pas non. Non.
 
 145
-00:08:04,925 --> 00:08:06,309
+00:07:41,925 --> 00:07:43,309
 C'est quoi ton genre ?
 
 146
-00:08:09,145 --> 00:08:11,523
+00:07:46,145 --> 00:07:48,523
 Les mères, principalement, ouais,
 
 147
-00:08:11,615 --> 00:08:15,848
+00:07:48,615 --> 00:07:52,848
 sur les terrains de foot, célibataires,
 aux courses, toutes les mères en fait.
 
 148
-00:08:15,935 --> 00:08:17,043
+00:07:52,935 --> 00:07:54,043
 C'est dégoutant.
 
 149
-00:08:17,105 --> 00:08:19,243
+00:07:54,105 --> 00:07:56,243
 - T'approche pas de ma mère.
 - Trop tard Kevin.
 
 150
-00:08:25,075 --> 00:08:28,138
+00:08:02,075 --> 00:08:05,138
 Bon sang je me ferais pas prier
 si je ne sortais pas avec Pam.
 
 151
-00:08:29,745 --> 00:08:31,695
+00:08:06,745 --> 00:08:08,695
 On ne sort pas ensemble,
 on est fiancés.
 
 152
-00:08:32,765 --> 00:08:33,814
+00:08:09,765 --> 00:08:10,814
 Fiancés, oui.
 
 153
-00:08:48,425 --> 00:08:49,705
+00:08:25,425 --> 00:08:26,705
 Pam et moi sommes potes.
 
 154
-00:08:49,975 --> 00:08:52,502
+00:08:26,975 --> 00:08:29,502
 Je suis celui à qui elle parle,
 quand elle a des problèmes.
 
 155
-00:08:53,175 --> 00:08:54,803
+00:08:30,175 --> 00:08:31,803
 Au bureau par exemple,
 
 156
-00:08:55,415 --> 00:08:57,564
+00:08:32,415 --> 00:08:34,564
 ou avec son fiancé Roy,
 
 157
-00:09:00,475 --> 00:09:03,069
+00:08:37,475 --> 00:08:40,069
 Ouaip, ce sont principalement
 les deux seuls problèmes qu'elle a.
 
 158
-00:09:04,345 --> 00:09:06,253
+00:08:41,345 --> 00:08:43,253
 Elle serait parfaite pour toi.
 
 159
-00:09:06,675 --> 00:09:09,658
+00:08:43,675 --> 00:08:46,658
 - Elle parle beaucoup à Michael.
 - Et alors ?
 
 160
-00:09:10,207 --> 00:09:13,057
+00:08:47,207 --> 00:08:50,057
 - Tu es assistant directeur régional.
 - Assistant du directeur régional.
 
 161
-00:09:13,075 --> 00:09:15,753
+00:08:50,075 --> 00:08:52,753
 Tu sais quoi Dwight ?
 C'est ton boss au bureau ok ?
 
 162
-00:09:15,825 --> 00:09:18,218
+00:08:52,825 --> 00:08:55,218
 - Pas dans ta vie amoureuse.
 - C'est vrai.
 
 163
-00:09:18,225 --> 00:09:20,824
+00:08:55,225 --> 00:08:57,824
 Et puis tu as tellement plus de choses
 à dire à cette fille.
 
 164
-00:09:21,695 --> 00:09:26,194
+00:08:58,695 --> 00:09:03,194
 Vous êtes tous les deux des vendeurs,
 c'est quelque chose.
 
 165
-00:09:26,265 --> 00:09:27,084
+00:09:03,265 --> 00:09:04,084
 Vrai.
 
 166
-00:09:27,895 --> 00:09:30,930
+00:09:04,895 --> 00:09:07,930
 Et puis je peux lui parler de l'origine
 de mon nom de famille.
 
 167
-00:09:31,615 --> 00:09:32,874
+00:09:08,615 --> 00:09:09,874
 Ca vaut de l'or.
 
 168
-00:09:34,655 --> 00:09:36,327
+00:09:11,655 --> 00:09:13,327
 Les hommes sont généralement mes
 meilleurs clients,
 
 169
-00:09:36,355 --> 00:09:39,837
+00:09:13,355 --> 00:09:16,837
 ils achètent le haut de gamme,
 avec les perles et les paillettes,
 
 170
-00:09:40,205 --> 00:09:41,624
+00:09:17,205 --> 00:09:18,624
 pour offrir, vous voyez.
 
 171
-00:09:41,875 --> 00:09:45,476
+00:09:18,875 --> 00:09:22,476
 Ils n'y connaissent rien donc...
 je fais des suggestions.
 
 172
-00:09:45,645 --> 00:09:48,305
+00:09:22,645 --> 00:09:25,305
 D'accord, voilà le truc.
 Ne t'arrête pas de parler.
 
 173
-00:09:48,575 --> 00:09:50,388
+00:09:25,575 --> 00:09:27,388
 Si ça tourne mal t'as un moyen
 parfait de t'en sortir.
 
 174
-00:09:50,397 --> 00:09:51,984
+00:09:27,397 --> 00:09:28,984
 - Comment ça ?
 - Tu achètes un sac.
 
 175
-00:09:52,091 --> 00:09:55,609
+00:09:29,091 --> 00:09:32,609
 - J'en veux pas, c'est pour les filles.
 - Dwight, c'est pas nécessairement vrai.
 
 176
-00:09:55,625 --> 00:09:57,096
+00:09:32,625 --> 00:09:34,096
 - Est-ce que tu lis GQ ?
 - Non.
 
 177
-00:09:57,115 --> 00:10:01,592
+00:09:34,115 --> 00:09:38,592
 Moi oui, ce sont de mini-saccoches.
 Beaucoup de mecs en ont.
 
 178
-00:10:01,845 --> 00:10:03,175
+00:09:38,845 --> 00:09:40,175
 - Des comme ça ?
 - Oui !
 
 179
-00:10:03,225 --> 00:10:05,979
+00:09:40,225 --> 00:09:42,979
 Tu passes beaucoup trop
 de temps à me parler
 
 180
-00:10:05,980 --> 00:10:08,513
+00:09:42,980 --> 00:09:45,513
 - alors que tu pourrais lui parler.
 - Ok je vais juste aux toilettes et
 
 181
-00:10:08,545 --> 00:10:11,437
+00:09:45,545 --> 00:09:48,437
 Pas besoin des toilettes.
 C'est bon. Vas-y.
 
 182
-00:10:14,885 --> 00:10:20,470
+00:09:51,885 --> 00:09:57,470
 Ok chut. Arrête, quoique tu fasses,
 ça va être bien.
 
 183
-00:10:21,075 --> 00:10:24,833
+00:09:58,075 --> 00:10:01,833
 "Salut je m'appelle Dwight et
 j'aimerais vous acheter un sac.
 
 184
-00:10:25,085 --> 00:10:29,907
+00:10:02,085 --> 00:10:06,907
 Grand dieu regardez ces sacs !
 C'est fabuleux.
 
 185
-00:10:29,995 --> 00:10:35,132
+00:10:06,995 --> 00:10:12,132
 Oh mon dieu ! Est-ce
 Salvatore de Chini...asta ?
 
 186
-00:10:35,175 --> 00:10:37,784
+00:10:12,175 --> 00:10:14,784
 Oui vraiment, vraiment,
 rentrez-le et sortez-le comme ça.
 
 187
-00:10:37,885 --> 00:10:39,223
+00:10:14,885 --> 00:10:16,223
 - Oui.
 - Mettez-le...
 
 188
-00:10:39,225 --> 00:10:43,476
+00:10:16,225 --> 00:10:20,476
 Je veux le tester,
 au cas où quelque chose se produit.
 
 189
-00:10:43,595 --> 00:10:46,940
+00:10:20,595 --> 00:10:23,940
 Oh c'était vraiment...
 
 190
-00:10:47,635 --> 00:10:51,012
+00:10:24,635 --> 00:10:28,012
 C'est necessaire, pour bien tester.
 
 191
-00:10:51,035 --> 00:10:54,930
+00:10:28,035 --> 00:10:31,930
 C'est le ...
 c'est le plus beau d'entre tous !
 
 192
-00:10:55,465 --> 00:10:58,075
+00:10:32,465 --> 00:10:35,075
 Je vais être la plus belle
 pour aller danser.
 
 193
-00:10:58,265 --> 00:11:02,866
+00:10:35,265 --> 00:10:39,866
 - Oh, combien ?
 - Mon dieu que c'est triste, vraiment.
 
 194
-00:11:02,941 --> 00:11:04,382
+00:10:39,941 --> 00:10:41,382
 Le voilà.
 
 195
-00:11:11,655 --> 00:11:13,944
+00:10:48,655 --> 00:10:50,944
 - Il en a choisi un bien.
 - Tu es horrible.
 
 196
-00:11:14,195 --> 00:11:16,033
+00:10:51,195 --> 00:10:53,033
 Celui-ci est très bien pour
 un rendez-vous amoureux.
 
 197
-00:11:16,055 --> 00:11:18,969
+00:10:53,055 --> 00:10:55,969
 Je me souviens plus de ce que c'est,
 je suis fiancée.
 
 198
-00:11:18,995 --> 00:11:21,373
+00:10:55,995 --> 00:10:58,373
 Oh félicitations. Vous avez en besoin
 plus que quiconque donc.
 
 199
-00:11:21,525 --> 00:11:22,773
+00:10:58,525 --> 00:10:59,773
 Si seulement...
 
 200
-00:11:25,355 --> 00:11:29,634
+00:11:02,355 --> 00:11:06,634
 Je vois, je vois. "Les Divins Secrets"
 pas vrai ?
 
 201
-00:11:30,425 --> 00:11:34,525
+00:11:07,425 --> 00:11:11,525
 - Comment était ce café ?
 - Bon.
 
 202
-00:11:35,295 --> 00:11:39,230
+00:11:12,295 --> 00:11:16,230
 Je le savais. Avale, petite gourmande.
 
 203
-00:11:39,685 --> 00:11:42,900
+00:11:16,685 --> 00:11:19,900
 Pam, c'est votre pause déjeuner
 
 204
-00:11:43,215 --> 00:11:47,823
+00:11:20,215 --> 00:11:24,823
 ou est-ce que c'était tout à l'heure
 dans la cuisine avec les mecs ?
 
 205
-00:11:50,225 --> 00:11:52,620
+00:11:27,225 --> 00:11:29,620
 - Désolée.
 - Prise en flag...
 
 206
-00:11:53,455 --> 00:11:54,497
+00:11:30,455 --> 00:11:31,497
 - Revenez me voir.
 - Ah au fait,
 
 207
-00:11:54,515 --> 00:11:57,064
+00:11:31,515 --> 00:11:34,064
 je veux vous montrer
 quelque chose, venez.
 
 208
-00:11:57,295 --> 00:12:01,036
+00:11:34,295 --> 00:11:38,036
 Vous allez aimer ça. Je l'ai apportée
 aujourd'hui, 1000 balles.
 
 209
-00:12:01,105 --> 00:12:05,384
+00:11:38,105 --> 00:11:42,384
 - Ca vient de Starbucks ?
 - Oui. La Starbucks Barista.
 
 210
-00:12:05,435 --> 00:12:07,977
+00:11:42,435 --> 00:11:44,977
 C'est la crème
 des machines à espresso.
 
 211
-00:12:08,995 --> 00:12:11,447
+00:11:45,995 --> 00:11:48,447
 - C'est pour le bureau ?
 - Je sais ce à quoi vous pensez.
 
 212
-00:12:11,495 --> 00:12:14,251
+00:11:48,495 --> 00:11:51,251
 Vous n'allez pas me l'enlever des mains.
 
 213
-00:12:14,935 --> 00:12:18,596
+00:11:51,935 --> 00:11:55,596
 - Ne me tentez pas, je le ferais.
 - Je n'y penserais pas.
 
 214
-00:12:18,675 --> 00:12:21,752
+00:11:55,675 --> 00:11:58,752
 Le café est la meilleure source
 de motivation au bureau.
 
 215
-00:12:22,075 --> 00:12:26,896
+00:11:59,075 --> 00:12:03,896
 C'est une drogue. C'est littéralement
 une drogue, qui excite les gens.
 
 216
-00:12:27,105 --> 00:12:29,030
+00:12:04,105 --> 00:12:06,030
 Ce n'est pas la seule drogue
 qui excite les gens.
 
 217
-00:12:29,065 --> 00:12:32,746
+00:12:06,065 --> 00:12:09,746
 Il y a des histoires sur
 Dunder Mifflin dans les années 80,
 
 218
-00:12:32,895 --> 00:12:35,494
+00:12:09,895 --> 00:12:12,494
 avant qu'on ne connaisse
 les mauvais effets de la cocaine.
 
 219
-00:12:35,825 --> 00:12:38,240
+00:12:12,825 --> 00:12:15,240
 Bon sang... ils en vendaient
 du papier !
 
 220
-00:12:38,545 --> 00:12:42,905
+00:12:15,545 --> 00:12:19,905
 La pompe à pression...
 
 221
-00:12:45,025 --> 00:12:47,283
+00:12:22,025 --> 00:12:24,283
 - Quoi ? Quel est le problème ?
 - Oh rien.
 
 222
-00:12:47,895 --> 00:12:49,629
+00:12:24,895 --> 00:12:26,629
 celui qui devait me ramener
 vient de se décommander.
 
 223
-00:12:50,405 --> 00:12:54,935
+00:12:27,405 --> 00:12:31,935
 Désolé, où allez-vous ? Dans le coin ?
 Je peux vous raccompagner.
 
 224
-00:12:55,035 --> 00:12:55,573
+00:12:32,035 --> 00:12:32,573
 Non.
 
 225
-00:12:55,605 --> 00:12:58,285
+00:12:32,605 --> 00:12:35,285
 - Vous êtes sûre ?
 - Je ne veux pas vous embêter.
 
 226
-00:12:58,325 --> 00:13:01,612
+00:12:35,325 --> 00:12:38,612
 Pas d'embêtement.
 Je sors d'ici à 17h précise.
 
 227
-00:13:01,675 --> 00:13:03,072
+00:12:38,675 --> 00:12:40,072
 - 17h ?
 - Je peux partir plus tôt,
 
 228
-00:13:03,094 --> 00:13:06,170
+00:12:40,094 --> 00:12:43,170
 car je suis le patron et quoi qu'il
 en soit je peux m'en aller.
 
 229
-00:13:06,363 --> 00:13:07,270
+00:12:43,363 --> 00:12:44,270
 - D'accord.
 - Ce sont des esclaves.
 
 230
-00:13:08,659 --> 00:13:10,265
+00:12:45,659 --> 00:12:47,265
 - Quoi ?
 - D'accord.
 
 231
-00:13:10,495 --> 00:13:11,238
+00:12:47,495 --> 00:12:48,238
 D'accord.
 
 232
-00:13:11,505 --> 00:13:14,547
+00:12:48,505 --> 00:12:51,547
 Je pense que ça peut se faire.
 
 233
-00:13:14,585 --> 00:13:18,718
+00:12:51,585 --> 00:12:55,718
 Ca me paraît bien, 17h précise, je vous
 ramène vous et vos sacs à la maison.
 
 234
-00:13:18,765 --> 00:13:20,959
+00:12:55,765 --> 00:12:57,959
 - Ok, cool.
 - Excellent. Super, super.
 
 235
-00:13:21,065 --> 00:13:23,223
+00:12:58,065 --> 00:13:00,223
 - Cool.
 - Cool.
 
 236
-00:13:27,967 --> 00:13:28,623
+00:13:04,967 --> 00:13:05,623
 Cool !
 
 237
-00:13:30,515 --> 00:13:32,947
+00:13:07,515 --> 00:13:09,947
 J'aurais jamais du laisser
 l'intérimaire toucher ça.
 
 238
-00:13:33,015 --> 00:13:37,317
+00:13:10,015 --> 00:13:14,317
 J'avais toutes ces supers icones
 et maintenant j'ai quatre dossiers,
 
 239
-00:13:37,365 --> 00:13:39,159
+00:13:14,365 --> 00:13:16,159
 - C'est mieux comme ça en fait.
 - Non;
 
 240
-00:13:39,165 --> 00:13:42,074
+00:13:16,165 --> 00:13:19,074
 je pouvais cliquer sur l'icone
 et je me retrouvais sur le truc
 
 241
-00:13:42,085 --> 00:13:43,799
+00:13:19,085 --> 00:13:20,799
 Michael puis-je vous demander
 quelque chose ?
 
 242
-00:13:44,005 --> 00:13:46,526
+00:13:21,005 --> 00:13:23,526
 Je voulais vous demander votre
 permission pour sortir avec Katy.
 
 243
-00:13:46,715 --> 00:13:50,587
+00:13:23,715 --> 00:13:27,587
 - Je sais que c'est contraire aux régles
 - Non ce n'est pas contraire aux règles
 
 244
-00:13:50,635 --> 00:13:55,279
+00:13:27,635 --> 00:13:32,279
 - elle est ici temporairement, donc non.
 - Merci Michael. J'apprécie tellement...
 
 245
-00:13:55,285 --> 00:14:00,522
+00:13:32,285 --> 00:13:37,522
 Mais je pense que vous devriez savoir
 que ce soir je la ramène chez elle.
 
 246
-00:14:00,735 --> 00:14:01,687
+00:13:37,735 --> 00:13:38,687
 Quoi ?
 
 247
-00:14:02,115 --> 00:14:05,920
+00:13:39,115 --> 00:13:42,920
 Elle m'a demandé de la ramener
 et je vais le faire.
 
 248
-00:14:06,255 --> 00:14:09,953
+00:13:43,255 --> 00:13:46,953
 Vous ne faites que la racommpagner ?
 Comme un taxi ?
 
 249
-00:14:10,145 --> 00:14:12,579
+00:13:47,145 --> 00:13:49,579
 Eh bien, je peux la raccompagner,
 
 250
-00:14:13,095 --> 00:14:19,369
+00:13:50,095 --> 00:13:56,369
 et on peut s'arrêter pour prendre
 un café et ... trois petits points.
 
 251
-00:14:22,155 --> 00:14:27,149
+00:13:59,155 --> 00:14:04,149
 S'il vous plaît,je suis votre subordonné
 et je vous demande cette faveur,
 
 252
-00:14:27,525 --> 00:14:31,302
+00:14:04,525 --> 00:14:08,302
 pouvez-vous me promettre que
 vous ne ferez que la raccompagner ?
 
 253
-00:14:34,633 --> 00:14:37,665
+00:14:11,633 --> 00:14:14,665
 - Non je ne peux pas.
 - Vous ne pouvez pas,
 
 254
-00:14:37,666 --> 00:14:40,435
+00:14:14,666 --> 00:14:17,435
 - ou vous ne voulez pas ?
 - Ecoutez Dwight.
 
 255
-00:14:40,875 --> 00:14:43,018
+00:14:17,875 --> 00:14:20,018
 - Etes-vous amoureux ?
 - Dwight non.
 
 256
-00:14:43,118 --> 00:14:44,305
+00:14:20,118 --> 00:14:21,305
 Je ne sais pas,
 
 257
-00:14:46,005 --> 00:14:47,738
+00:14:23,005 --> 00:14:24,738
 il est trop tôt pour le dire,
 
 258
-00:14:48,735 --> 00:14:50,378
+00:14:25,735 --> 00:14:27,378
 je ne sais pas ce que je ressens.
 
 259
-00:14:55,735 --> 00:14:58,650
+00:14:32,735 --> 00:14:35,650
 Je pense que vous avez fait un
 très bon choix, elle va adorer.
 
 260
-00:14:58,715 --> 00:15:00,071
+00:14:35,715 --> 00:14:37,071
 Un espresso ?
 
 261
-00:15:00,445 --> 00:15:02,221
+00:14:37,445 --> 00:14:39,221
 - Oh merci.
 - Je vous en prie.
 
 262
-00:15:06,475 --> 00:15:09,565
+00:14:43,475 --> 00:14:46,565
 Est-ce que ça vient de la machine
 qui était dans votre bureau ?
 
 263
-00:15:10,275 --> 00:15:12,843
+00:14:47,275 --> 00:14:49,843
 Je pensais que c'était la récompense
 pour le meilleur vendeur ?
 
 264
-00:15:12,845 --> 00:15:14,149
+00:14:49,845 --> 00:14:51,149
 C'est très facile à nettoyer.
 
 265
-00:15:15,128 --> 00:15:15,840
+00:14:52,128 --> 00:14:52,840
 Ok.
 
 266
-00:15:16,485 --> 00:15:19,823
+00:14:53,485 --> 00:14:56,823
 Comme s'il allait gagner
 de toute manière. Hein ?
 
 267
-00:15:26,175 --> 00:15:28,866
+00:15:03,175 --> 00:15:05,866
 - On a reçu du courrier ?
 - Oui je vous l'ai donné.
 
 268
-00:15:29,035 --> 00:15:30,874
+00:15:06,035 --> 00:15:07,874
 Oui, c'est vrai.
 
 269
-00:15:31,185 --> 00:15:34,355
+00:15:08,185 --> 00:15:11,355
 Je vérifie juste, deux fois,
 je vérifie la vérification.
 
 270
-00:15:34,885 --> 00:15:37,164
+00:15:11,885 --> 00:15:14,164
 La minutie est très importante
 dans un bureau.
 
 271
-00:15:38,395 --> 00:15:40,166
+00:15:15,395 --> 00:15:17,166
 - Et..
 - Donc est-ce que je peux...
 
 272
-00:15:40,185 --> 00:15:41,795
+00:15:17,185 --> 00:15:18,795
 Oui bien sûr.
 
 273
-00:15:42,175 --> 00:15:46,318
+00:15:19,175 --> 00:15:23,318
 Pam, une dernière chose, que pensent
 les filles de votre âge des futons ?
 
 274
-00:15:47,615 --> 00:15:50,294
+00:15:24,615 --> 00:15:27,294
 Un futon ? C'est un adulte.
 
 275
-00:15:50,325 --> 00:15:52,304
+00:15:27,325 --> 00:15:29,304
 - C'est ce qu'il a dit.
 - C'est triste.
 
 276
-00:15:53,165 --> 00:15:58,689
+00:15:30,165 --> 00:15:35,689
 Ou innovant. Un futon c'est un
 lit et un canapé roulés en un.
 
 277
-00:15:59,105 --> 00:16:01,298
+00:15:36,105 --> 00:15:38,298
 - Quoi de neuf ?
 - Hé.
 
 278
-00:16:02,035 --> 00:16:05,032
+00:15:39,035 --> 00:15:42,032
 - Tu m'en veux toujours ?
 - Roy.
 
 279
-00:16:05,326 --> 00:16:06,782
+00:15:42,326 --> 00:15:43,782
 - Allez.
 - Arrête.
 
 280
-00:16:06,785 --> 00:16:08,007
+00:15:43,785 --> 00:15:45,007
 - Allez, tu m'en veux encore ?
 - Arrête.
 
 281
-00:16:08,025 --> 00:16:10,625
+00:15:45,025 --> 00:15:47,625
 - Tu m'en veux encore ?
 - Arrête !
 
 282
-00:16:12,885 --> 00:16:13,539
+00:15:49,885 --> 00:15:50,539
 Allez !
 
 283
-00:16:13,885 --> 00:16:14,781
+00:15:50,885 --> 00:15:51,781
 Allez Pammy !
 
 284
-00:16:14,805 --> 00:16:16,398
+00:15:51,805 --> 00:15:53,398
 - Arrête je peux plus respirer.
 - Je plaisantais.
 
 285
-00:16:16,425 --> 00:16:17,794
+00:15:53,425 --> 00:15:54,794
 Tu sais que je le pensais pas.
 
 286
-00:16:19,115 --> 00:16:21,718
+00:15:56,115 --> 00:15:58,718
 Jim est un mec génial,
 il est comme un frère pour moi.
 
 287
-00:16:21,845 --> 00:16:24,198
+00:15:58,845 --> 00:16:01,198
 On est les meilleurs amis au bureau.
 
 288
-00:16:25,045 --> 00:16:26,998
+00:16:02,045 --> 00:16:03,998
 J'espère vraiment qu'il va
 trouver quelqu'un.
 
 289
-00:16:27,125 --> 00:16:30,681
+00:16:04,125 --> 00:16:07,681
 On dirait que vous aimez touchez les
 choses, vous devriez essayer le velour.
 
 290
-00:16:30,809 --> 00:16:36,354
+00:16:07,809 --> 00:16:13,354
 J'aime pas spécialement toucher les
 choses... je fais juste du shopping.
 
 291
-00:16:36,518 --> 00:16:38,447
+00:16:13,518 --> 00:16:15,447
 Ca ne pose aucun problème...
 
 292
-00:16:40,315 --> 00:16:42,295
+00:16:17,315 --> 00:16:19,295
 Que dites-vous de celui-là
 couleur framboise ?
 
 293
-00:16:42,579 --> 00:16:45,259
+00:16:19,579 --> 00:16:22,259
 Il est plutôt festif,
 plein de personnalité.
 
 294
-00:16:45,935 --> 00:16:46,534
+00:16:22,935 --> 00:16:23,534
 Non.
 
 295
-00:16:46,901 --> 00:16:50,786
+00:16:23,901 --> 00:16:27,786
 Hé comment ça va, bien, je peux
 vous parler un instant, en privé ?
 
 296
-00:16:51,091 --> 00:16:52,845
+00:16:28,091 --> 00:16:29,845
 - Je ne pense pas, je suis occupée.
 - Ca ne prendra qu'une seconde.
 
 297
-00:16:52,902 --> 00:16:53,662
+00:16:29,902 --> 00:16:30,662
 - Je ne peux pas.
 - Juste une minute,
 
 298
-00:16:53,685 --> 00:16:55,141
+00:16:30,685 --> 00:16:32,141
 - s'il vous plaît.
 - Je ne peux vraiment pas.
 
 299
-00:16:55,225 --> 00:17:00,037
+00:16:32,225 --> 00:16:37,037
 Je voulais vous parler en privé pour
 vous proposer qu'on sorte ensemble.
 
 300
-00:17:00,715 --> 00:17:01,837
+00:16:37,715 --> 00:16:38,837
 Non.
 
 301
-00:17:09,405 --> 00:17:14,329
+00:16:46,405 --> 00:16:51,329
 D'accord, c'était un non pour me parler
 ou pour qu'on sorte ensemble ?
 
 302
-00:17:15,005 --> 00:17:16,156
+00:16:52,005 --> 00:16:53,156
 Les deux.
 
 303
-00:17:21,695 --> 00:17:27,404
+00:16:58,695 --> 00:17:04,404
 - Quelles couleurs aimez-vous ?
 - Le gris, gris foncé, charbon...
 
 304
-00:17:29,315 --> 00:17:30,109
+00:17:06,315 --> 00:17:07,109
 - Ryan ?
 - Oui ?
 
 305
-00:17:30,165 --> 00:17:34,176
+00:17:07,165 --> 00:17:11,176
 - Voulez-vous m'aider sur un projet ?
 - Avec plaisir.
 
 306
-00:17:35,416 --> 00:17:39,669
+00:17:12,416 --> 00:17:16,669
 - Ok jetez ce qui est vide.
 - Vous ne voulez pas les recycler ?
 
 307
-00:17:40,085 --> 00:17:43,444
+00:17:17,085 --> 00:17:20,444
 Si, jetez-les dans la poubelle
 de recyclage.
 
 308
-00:17:44,545 --> 00:17:45,779
+00:17:21,545 --> 00:17:22,779
 Vous gardez ça ?
 
 309
-00:17:47,645 --> 00:17:48,713
+00:17:24,645 --> 00:17:25,713
 Non.
 
 310
-00:17:50,365 --> 00:17:52,207
+00:17:27,365 --> 00:17:29,207
 Et cette bouteille
 de boisson energétique ?
 
 311
-00:17:52,215 --> 00:17:53,623
+00:17:29,215 --> 00:17:30,623
 - Quel goût ?
 - Bleu.
 
 312
-00:17:53,675 --> 00:17:56,378
+00:17:30,675 --> 00:17:33,378
 - Bleu n'est pas un goût.
 - Il y a marqué "goût : montée bleue".
 
 313
-00:17:56,425 --> 00:17:58,638
+00:17:33,425 --> 00:17:35,638
 Oh "montée bleue".
 Oui mettez ça dans le coffre.
 
 314
-00:17:58,725 --> 00:18:00,922
+00:17:35,725 --> 00:17:37,922
 Et il devrait y avoir
 des chewing gums derrière.
 
 315
-00:18:00,955 --> 00:18:04,227
+00:17:37,955 --> 00:17:41,227
 Je veux que vous les mettiez
 dans le repose-verre du passager.
 
 316
-00:18:13,535 --> 00:18:15,055
+00:17:50,535 --> 00:17:52,055
 - Salut.
 - Salut !
 
 317
-00:18:15,295 --> 00:18:16,905
+00:17:52,295 --> 00:17:53,905
 - Moi c'est Jim.
 - Katy.
 
 318
-00:18:16,915 --> 00:18:18,600
+00:17:53,915 --> 00:17:55,600
 - Bonjour Katy, ravi de vous rencontrer.
 - Vous êtes assis là pas vrai ?
 
 319
-00:18:18,601 --> 00:18:21,564
+00:17:55,601 --> 00:17:58,564
 Oui. C'est ce pour quoi
 je suis le plus connu,
 
 320
-00:18:21,565 --> 00:18:22,577
+00:17:58,565 --> 00:17:59,577
 être assis là.
 
 321
-00:18:22,645 --> 00:18:24,931
+00:17:59,645 --> 00:18:01,931
 D'accord, parlons sac à mains.
 
 322
-00:18:25,027 --> 00:18:26,746
+00:18:02,027 --> 00:18:03,746
 - D'accord, heu...
 - Mais Katy,
 
 323
-00:18:26,821 --> 00:18:30,219
+00:18:03,821 --> 00:18:07,219
 vous savez quoi ? N'essayez pas de
 m'en vendre ok ? Sérieux.
 
 324
-00:18:30,495 --> 00:18:32,566
+00:18:07,495 --> 00:18:09,566
 Je suis juste venu apprendre.
 
 325
-00:18:32,665 --> 00:18:32,936
+00:18:09,665 --> 00:18:09,936
 D'accord.
 
 326
-00:18:32,955 --> 00:18:35,700
+00:18:09,955 --> 00:18:12,700
 - Donc je connais un peu ceux-ci mais...
 - D'accord.
 
 327
-00:18:36,735 --> 00:18:38,635
+00:18:13,735 --> 00:18:15,635
 Eh ! Oh ! C'est mon "Drakar Noir".
 
 328
-00:18:38,705 --> 00:18:42,116
+00:18:15,705 --> 00:18:19,116
 - C'est un "anti-transpirant de nuit".
 - Non ça sent exactement pareil.
 
 329
-00:18:42,162 --> 00:18:44,550
+00:18:19,162 --> 00:18:21,550
 Je vais pas payer pour
 la marque. Donne-le moi.
 
 330
-00:18:44,565 --> 00:18:48,124
+00:18:21,565 --> 00:18:25,124
 - C'est vide.
 - Non, il en reste sur le tube.
 
 331
-00:18:51,195 --> 00:18:53,465
+00:18:28,195 --> 00:18:30,465
 Voilà, maintenant tu peux le jeter.
 
 332
-00:18:58,225 --> 00:19:02,510
+00:18:35,225 --> 00:18:39,510
 - Combien de Filet-O-Fish mangez-vous ?
 - Ils datent de plusieurs mois.
 
 333
-00:19:02,855 --> 00:19:03,714
+00:18:39,855 --> 00:18:40,714
 Quand même...
 
 334
-00:19:05,485 --> 00:19:07,284
+00:18:42,485 --> 00:18:44,284
 - Quoi de neuf ?
 - Je m'ennuie.
 
 335
-00:19:07,795 --> 00:19:09,631
+00:18:44,795 --> 00:18:46,631
 Merci de m'avoir choisi.
 
 336
-00:19:10,495 --> 00:19:14,197
+00:18:47,495 --> 00:18:51,197
 Non je plaisante. T'as des projets
 pour ce week end ?
 
 337
-00:19:16,095 --> 00:19:18,146
+00:18:53,095 --> 00:18:55,146
 Eh bien je crois que je vais voir Katy.
 
 338
-00:19:18,855 --> 00:19:20,455
+00:18:55,855 --> 00:18:57,455
 - Vraiment ?
 - Oui.
 
 339
-00:19:21,075 --> 00:19:25,491
+00:18:58,075 --> 00:19:02,491
 - Vous allez faire quoi ?
 - Heu, je sais pas. Se faire une bouffe.
 
 340
-00:19:26,215 --> 00:19:29,381
+00:19:03,215 --> 00:19:06,381
 prendre un verre, regarder un film,
 comparer nos tatouages.
 
 341
-00:19:30,096 --> 00:19:32,737
+00:19:07,096 --> 00:19:09,737
 - C'est génial. Cool.
 - Super programme, ouais.
 
 342
-00:19:33,555 --> 00:19:36,223
+00:19:10,555 --> 00:19:13,223
 - Et toi tu vas faire quoi ?
 - J'allais dire que je pense qu'on va
 
 343
-00:19:36,306 --> 00:19:38,822
+00:19:13,306 --> 00:19:15,822
 - aider le cousin de Roy à déménager.
 - D'accord.
 
 344
-00:19:38,875 --> 00:19:40,714
+00:19:15,875 --> 00:19:17,714
 Parceque Roy a un camion.
 
 345
-00:19:42,105 --> 00:19:43,477
+00:19:19,105 --> 00:19:20,477
 C'est cool.
 
 346
-00:19:44,305 --> 00:19:46,368
+00:19:21,305 --> 00:19:23,368
 - Oui.
 - C'est vraiment cool.
 
 347
-00:19:47,435 --> 00:19:49,498
+00:19:24,435 --> 00:19:26,498
 - Mais on se voit lundi pas vrai ?
 - Super.
 
 348
-00:19:50,515 --> 00:19:52,417
+00:19:27,515 --> 00:19:29,417
 - J'y retourne.
 - Très bien.
 
 349
-00:19:58,835 --> 00:20:00,751
+00:19:35,835 --> 00:19:37,751
 Je pense que pour être un homme
 qui a du succès auprès des femmes,
 
 350
-00:20:01,025 --> 00:20:03,615
+00:19:38,025 --> 00:19:40,615
 les gens ne doivent pas savoir
 que vous avez du succès,
 
 351
-00:20:03,875 --> 00:20:06,325
+00:19:40,875 --> 00:19:43,325
 donc je joue le jeu à fond.
 
 352
-00:20:07,525 --> 00:20:11,449
+00:19:44,525 --> 00:19:48,449
 Qu'est-ce que vous voulez ? Les femmes
 sont attirées par le pouvoir. Et aussi,
 
 353
-00:20:12,255 --> 00:20:15,418
+00:19:49,255 --> 00:19:52,418
 des gens m'ont dit que j'avais
 un visage très symétrique.
 
 354
-00:20:18,864 --> 00:20:24,339
+00:19:55,864 --> 00:20:01,339
 Je ne sais pas, peut-être
 ont-ils raison.
 
 355
-00:20:36,180 --> 00:20:37,222
+00:20:13,180 --> 00:20:14,222
 Vous ne voulez pas un coup de main
 avec ça ? Je peux sans problème.
 
 356
-00:20:37,280 --> 00:20:39,287
+00:20:14,280 --> 00:20:16,287
 - Bonsoir. Ravie de vous avoir rencontré
 - Ca ne me pose aucun problème.
 
 357
-00:20:39,545 --> 00:20:42,316
+00:20:16,545 --> 00:20:19,316
 A la prochaine. Bonsoir.
 
 358
-00:20:43,405 --> 00:20:46,037
+00:20:20,405 --> 00:20:23,037
 - Bonsoir Jim.
 - Bonsoir Michael.
 
 359
-00:20:46,445 --> 00:20:47,804
+00:20:23,445 --> 00:20:24,804
 Où allez-vous ?
 
 360
-00:20:48,365 --> 00:20:50,315
+00:20:25,365 --> 00:20:27,315
 Je sais pas, prendre un verre je crois.
 
 361
-00:20:51,785 --> 00:20:53,260
+00:20:28,785 --> 00:20:30,260
 Avec nous ?
 
 362
-00:20:53,928 --> 00:20:58,646
+00:20:30,928 --> 00:20:35,646
 J'aurais du vous prévenir. Je n'ai plus
 besoin d'être ramenée, Jim le fera.
 
 363
-00:20:58,725 --> 00:21:01,536
+00:20:35,725 --> 00:20:38,536
 - Ca vous évitera de le faire.
 - Bien, ca m'évite de le faire. Cool.
 
 364
-00:21:01,565 --> 00:21:03,177
+00:20:38,565 --> 00:20:40,177
 - Je le prends.
 - Amusez-vous bien.
 
 365
-00:21:03,245 --> 00:21:04,850
+00:20:40,245 --> 00:20:41,850
 - Merci.
 - Boire ou conduire, il faut choisir.
 
 366
-00:21:06,376 --> 00:21:07,793
+00:20:43,376 --> 00:20:44,793
 - Allez-y doucement.
 - Passez une bonne soirée.
 
 367
-00:21:07,815 --> 00:21:11,227
+00:20:44,815 --> 00:20:48,227
 - Vous aussi, bonne soirée.
 - Tu le portes ?
 
 368
-00:21:11,485 --> 00:21:14,244
+00:20:48,485 --> 00:20:51,244
 - Tu as beaucoup vendu, c'est léger.
 - Oui.
 
 369
-00:21:15,485 --> 00:21:17,652
+00:20:52,485 --> 00:20:54,652
 Voilà.
 
 370
-00:21:18,337 --> 00:21:20,260
+00:20:55,337 --> 00:20:57,260
 Glisse-le à l'intérieur.
 
 371
-00:21:20,795 --> 00:21:22,521
+00:20:57,795 --> 00:20:59,521
 Bon, faut que je te prévienne,
 
 372
-00:21:22,604 --> 00:21:24,265
+00:20:59,604 --> 00:21:01,265
 - Ne panique pas d'accord ?
 - Pourquoi ?
 
 373
-00:21:24,295 --> 00:21:28,049
+00:21:01,295 --> 00:21:05,049
 C'est une bonne voiture. Au cas où tu
 n'aurais pas remarqué,c'est une Corolla.
 
 374
-00:21:28,055 --> 00:21:31,571
+00:21:05,055 --> 00:21:08,571
 - C'est super voiture.
 - Donc tu ne vas pas paniquer.
 
 375
-00:21:31,875 --> 00:21:35,182
+00:21:08,875 --> 00:21:12,182
 Est-ce que j'ai quelqu'un
 de spécial dans mon coeur ?
 
 376
-00:21:35,215 --> 00:21:38,058
+00:21:12,215 --> 00:21:15,058
 Eh bien oui, bien sûr.
 Plein de gens.
 
 377
-00:21:38,565 --> 00:21:40,060
+00:21:15,565 --> 00:21:17,060
 Mes employés.
 
 378
-00:21:41,135 --> 00:21:45,251
+00:21:18,135 --> 00:21:22,251
 Si je devais choisir entre un coup
 d'un soir avec une blondasse dans un bar
 
 379
-00:21:45,355 --> 00:21:48,062
+00:21:22,355 --> 00:21:25,062
 et ces gens là,
 je les choisirais à chaque fois.
 
 380
-00:21:48,135 --> 00:21:51,676
+00:21:25,135 --> 00:21:28,676
 Parcequ'avec eux, c'est
 un coup tous les jours.
 
 381
-00:21:52,465 --> 00:21:57,575
+00:21:29,465 --> 00:21:34,575
 Et je me rappelle
 de leurs noms le matin.
 
