@@ -178,12 +178,12 @@ export default Route.extend({
           { number: 18, name: "Todd Packer",                         videoUrl: 'https://openload.co/embed/YChchctoNMc/S07E18.mkv.mp4' },
           { number: 19, name: "Garage Sale",                         videoUrl: 'https://openload.co/embed/qxzB86EFxEs/S07E19.mkv.mp4' },
           { number: 20, name: "Training Day",                        videoUrl: 'https://openload.co/embed/IY6iAKQvHLg/S07E20.mkv.mp4' },
-          // { number: 21, name: "Michael's Last Dundies",              videoUrl: 'https://openload.co/embed/Nldez3t6ZAg/S07E21.mkv.mp4' },
-          // { number: 22, name: "Goodbye, Michael",                    videoUrl: 'https://openload.co/embed/7yLPwDSIzmQ/S07E22.mkv.mp4' },
-          // { number: 23, name: "The Inner Circle",                    videoUrl: 'https://openload.co/embed/A9Z1G3ldM7Y/S07E23.mkv.mp4' },
-          // { number: 24, name: "Dwight K. Schrute, (Acting) Manager", videoUrl: 'https://openload.co/embed/WPFIPn0IqQk/S07E24.mkv.mp4' },
-          // { number: 25, name: "Search Committee, Part1",             videoUrl: 'https://openload.co/embed/zagHQFVBMeI/S07E25.mkv.mp4' },
-          // { number: 26, name: "Search Committee, Part2",             videoUrl: 'https://openload.co/embed/QbeL3VfNY6o/S07E26.mkv.mp4' },
+          { number: 21, name: "Michael's Last Dundies",              videoUrl: 'https://openload.co/embed/Nldez3t6ZAg/S07E21.mkv.mp4' },
+          { number: 22, name: "Goodbye, Michael",                    videoUrl: 'https://openload.co/embed/7yLPwDSIzmQ/S07E22.mkv.mp4' },
+          { number: 23, name: "The Inner Circle",                    videoUrl: 'https://openload.co/embed/A9Z1G3ldM7Y/S07E23.mkv.mp4' },
+          { number: 24, name: "Dwight K. Schrute, (Acting) Manager", videoUrl: 'https://openload.co/embed/WPFIPn0IqQk/S07E24.mkv.mp4' },
+          { number: 25, name: "Search Committee, Part1",             videoUrl: 'https://openload.co/embed/zagHQFVBMeI/S07E25.mkv.mp4' },
+          { number: 26, name: "Search Committee, Part2",             videoUrl: 'https://openload.co/embed/QbeL3VfNY6o/S07E26.mkv.mp4' },
         ]
       },
       // {
