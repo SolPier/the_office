@@ -101,7 +101,7 @@ export default Route.extend({
           { number: 3,       name: "Business Ethics",                 videoUrl: 'https://openload.co/embed/GA1twYx6ODA/S05E02.mkv.mp4' },
           { number: 4,       name: "Baby Shower",                     videoUrl: 'https://openload.co/embed/-4NrG5J_2no/S05E03.mkv.mp4' },
           { number: 5,       name: "Crime Aid",                       videoUrl: 'https://openload.co/embed/v48o3I9tJ7E/S05E04.mkv.mp4' },
-          { number: 6,       name: "Employee Transfer",               videoUrl: 'https://streamango.com/embed/fsrfmrdmeppdqtsp'        },
+          { number: 6,       name: "Employee Transfer",               videoUrl: 'https://openload.co/embed/F-d9Ym5IKQM/S05E05.mkv.mp4' },
           { number: 7,       name: "Customer Survey",                 videoUrl: 'https://openload.co/embed/eLGJxXW3RHw/S05E06.mkv.mp4' },
           { number: 8,       name: "Business Trip",                   videoUrl: 'https://openload.co/embed/53CV0l46EYw/S05E07.mkv.mp4' },
           { number: 9,       name: "Frame Toby",                      videoUrl: 'https://openload.co/embed/o_9J0PIQejA/S05E08.mkv.mp4' },
