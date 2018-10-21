@@ -54,12 +54,12 @@ Jarick, Jaqpotjaq, Sk0r, Collioure
 
 13
 00:01:49,693 --> 00:01:51,861
-{pos(275,155)}Épisode 5x21
+Épisode 5x21
 The Michael Scott Paper Company
 
 14
 00:01:53,569 --> 00:01:56,214
-{pos(120,260)}Je pensais
+Je pensais
 qu'on pourrait emmener les clients...
 
 15
@@ -82,7 +82,7 @@ que tu me parles pas ?
 
 19
 00:02:08,462 --> 00:02:10,546
-{pos(110,260)}Oui, Charles. Vous me voulez.
+Oui, Charles. Vous me voulez.
 
 20
 00:02:10,715 --> 00:02:12,214
@@ -90,71 +90,71 @@ Je parlais de cette Kelly.
 
 21
 00:02:13,160 --> 00:02:15,275
-{pos(110,260)}La nouvelle réceptionniste
+La nouvelle réceptionniste
 s'appelle aussi Kelly.
 
 22
 00:02:15,400 --> 00:02:18,039
-{pos(110,260)}Alors Kelly Kapoor a décidé
+Alors Kelly Kapoor a décidé
 de rôder autour de mon bureau,
 
 23
 00:02:18,164 --> 00:02:21,613
-{pos(110,260)}pour se précipiter dans son bureau
+pour se précipiter dans son bureau
 dès qu'il appelle Kelly.
 
 24
 00:02:21,856 --> 00:02:24,378
-{pos(110,260)}Elle pense qu'en lui disant
+Elle pense qu'en lui disant
 "Vous me voulez",
 
 25
 00:02:24,503 --> 00:02:26,365
-{pos(110,260)}il finira par vouloir d'elle.
+il finira par vouloir d'elle.
 
 26
 00:02:27,022 --> 00:02:29,072
-{pos(110,260)}C'est pas le pire de ses plans.
+C'est pas le pire de ses plans.
 
 27
 00:02:29,441 --> 00:02:30,485
-{pos(110,260)}Et, Kelly...
+Et, Kelly...
 
 28
 00:02:30,610 --> 00:02:32,985
-{pos(110,260)}Oui, Charles...
+Oui, Charles...
 Vous me voulez.
 
 29
 00:02:34,008 --> 00:02:35,905
-{pos(110,260)}OK, je vous appellerai Kapoor.
+OK, je vous appellerai Kapoor.
 
 30
 00:02:36,844 --> 00:02:38,144
-{pos(110,260)}Et vous, Hannon.
+Et vous, Hannon.
 
 31
 00:02:38,520 --> 00:02:40,592
-{pos(110,260)}Quitte à changer,
+Quitte à changer,
 je pourrais être Erin ?
 
 32
 00:02:40,717 --> 00:02:43,788
-{pos(110,260)}- C'est mon 2e prénom.
+- C'est mon 2e prénom.
 - Erin ? OK. C'est très joli.
 
 33
 00:02:44,942 --> 00:02:47,638
-{pos(110,260)}Vous connaissez mon 2e prénom ?
+Vous connaissez mon 2e prénom ?
 Rajani Ghanda. Je le déteste !
 
 34
 00:02:47,763 --> 00:02:49,013
-{pos(110,260)}Je le déteste !
+Je le déteste !
 
 35
 00:02:51,589 --> 00:02:54,507
-{pos(110,260)}Je croyais que Rajani Ghanda
+Je croyais que Rajani Ghanda
 était un prénom masculin.
 
 36
@@ -168,38 +168,38 @@ transportent
 
 38
 00:03:08,105 --> 00:03:10,338
-{pos(110,260)}notre société vers le large.
+notre société vers le large.
 
 39
 00:03:10,816 --> 00:03:11,941
-{pos(110,260)}On fait quoi ?
+On fait quoi ?
 
 40
 00:03:12,851 --> 00:03:13,914
-{pos(110,260)}On attend
+On attend
 
 41
 00:03:14,039 --> 00:03:16,821
-{pos(110,260)}en espérant que les gens
+en espérant que les gens
 viendront à notre déjeuner.
 
 42
 00:03:16,989 --> 00:03:20,539
-{pos(110,260)}Je pense avoir tout fait
+Je pense avoir tout fait
 pour nous préparer à cette journée.
 
 43
 00:03:20,975 --> 00:03:23,004
-{pos(110,260)}J'ai mis à jour nos contacts.
+J'ai mis à jour nos contacts.
 
 44
 00:03:23,129 --> 00:03:25,697
-{pos(110,260)}J'ai fait des devis
+J'ai fait des devis
 chez les fournisseurs.
 
 45
 00:03:25,822 --> 00:03:27,456
-{pos(110,260)}J'ai envoyé des invitations
+J'ai envoyé des invitations
 
 46
 00:03:27,712 --> 00:03:30,543
@@ -208,7 +208,7 @@ d'inauguration.
 
 47
 00:03:30,711 --> 00:03:33,826
-{pos(110,260)}6 "Oui", 1 "Peut-être",
+6 "Oui", 1 "Peut-être",
 et seulement 11 "Non"
 
 48

@@ -64,7 +64,7 @@ Jarick, Jaqpotjaq, Sk0r, Collioure
 
 15
 00:00:55,128 --> 00:00:57,306
-{pos(315,230)}Épisode 5x24
+Épisode 5x24
 "Casual Friday"
 
 16
@@ -117,12 +117,12 @@ Gardez ça.
 
 27
 00:01:38,032 --> 00:01:40,132
-{pos(120,260)}Salle de conférence,
+Salle de conférence,
 dans cinq minutes.
 
 28
 00:01:43,189 --> 00:01:45,734
-{pos(110,260)}Le premier point à l'ordre du jour
+Le premier point à l'ordre du jour
 
 29
 00:01:45,859 --> 00:01:48,399
@@ -131,11 +131,11 @@ est de souhaiter un bon retour
 
 30
 00:01:51,230 --> 00:01:52,530
-{pos(110,260)}Et que dites-vous...
+Et que dites-vous...
 
 31
 00:01:52,819 --> 00:01:56,073
-{pos(110,260)}du vendredi décontracté ?
+du vendredi décontracté ?
 Son grand retour ?
 
 32
@@ -144,12 +144,12 @@ Vous êtes splendides.
 
 33
 00:01:58,744 --> 00:02:02,496
-{pos(110,260)}Ce que je voudrais faire,
+Ce que je voudrais faire,
 c'est sortir des sentiers battus.
 
 34
 00:02:02,758 --> 00:02:06,000
-{pos(110,260)}Cette réunion va partir en live.
+Cette réunion va partir en live.
 Je veux que vous preniez les rênes.
 
 35
@@ -159,87 +159,87 @@ ce qui vous plaira,
 
 36
 00:02:08,725 --> 00:02:10,615
-{pos(110,260)}prenez le contrôle.
+prenez le contrôle.
 C'est votre réunion.
 
 37
 00:02:12,841 --> 00:02:14,041
-{pos(110,260)}Tu fais quoi ?
+Tu fais quoi ?
 
 38
 00:02:14,706 --> 00:02:17,331
-{pos(105,260)}Si vous voulez dire
+Si vous voulez dire
 quelque chose tous ensemble
 
 39
 00:02:17,456 --> 00:02:20,406
-{pos(105,260)}alors, je vous en prie,
+alors, je vous en prie,
 dites-le-moi maintenant.
 
 40
 00:02:21,730 --> 00:02:23,309
-{pos(120,260)}Leur tenue est inappropriée.
+Leur tenue est inappropriée.
 
 41
 00:02:23,477 --> 00:02:26,177
-{pos(115,260)}Vois ça avec Toby.
+Vois ça avec Toby.
 Ce que je voudrais que vous fassiez,
 
 42
 00:02:26,467 --> 00:02:28,213
-{pos(110,260)}
+
 c'est regarder en vous.
 
 43
 00:02:28,693 --> 00:02:30,380
-{pos(110,260)}Et que vous réfléchissiez.
+Et que vous réfléchissiez.
 
 44
 00:02:30,775 --> 00:02:33,903
-{pos(192,225)}- Pour me dire un truc différent.
+- Pour me dire un truc différent.
 - On peut avoir un indice ?
 
 45
 00:02:34,564 --> 00:02:37,422
-{pos(110,260)}Quand il m'a fallu des commerciaux
+Quand il m'a fallu des commerciaux
 pour ma nouvelle société,
 
 46
 00:02:37,547 --> 00:02:39,921
-{pos(110,260)}ils m'ont tous tourné le dos.
+ils m'ont tous tourné le dos.
 
 47
 00:02:41,471 --> 00:02:44,525
-{pos(110,260)}Vais-je leur demander
+Vais-je leur demander
 d'implorer mon pardon ? Non.
 
 48
 00:02:44,650 --> 00:02:46,723
-{pos(110,260)}Vais-je leur demander
+Vais-je leur demander
 de grandes...
 
 49
 00:02:47,098 --> 00:02:49,573
-{pos(110,260)}excuses larmoyantes ? Non.
+excuses larmoyantes ? Non.
 
 50
 00:02:49,829 --> 00:02:53,434
-{pos(192,225)}Vais-je leur demander
+Vais-je leur demander
 de s'ouvrir les veines pour moi ? Non.
 
 51
 00:02:53,559 --> 00:02:57,192
-{pos(120,245)}Je veux juste une mini,
+Je veux juste une mini,
 microscopique version de tout ça.
 
 52
 00:02:57,928 --> 00:03:00,226
-{pos(135,260)}- Oscar, tu allais dire quoi ?
+- Oscar, tu allais dire quoi ?
 - Rien.
 
 53
 00:03:00,631 --> 00:03:01,722
-{pos(110,260)}J'ai rien dit.
+J'ai rien dit.
 
 54
 00:03:02,090 --> 00:03:03,040

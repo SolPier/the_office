@@ -133,7 +133,7 @@ Jaqpotjak, Jarrick, Sk0r, Collioure.
 
 31
 00:01:57,983 --> 00:02:00,202
-{pos(300,230)}Épisode 5x16
+Épisode 5x16
 "Blood Drive"
 
 32
@@ -167,47 +167,47 @@ J'ai cassé avec Holly il y a 4 mois.
 
 39
 00:02:18,389 --> 00:02:20,702
-{pos(110,260)}Et elle était nettement
+Et elle était nettement
 mieux que Stacy.
 
 40
 00:02:20,827 --> 00:02:24,250
-{pos(110,260)}- Alors, si tu crois souffrir...
+- Alors, si tu crois souffrir...
 - J'imagine même pas.
 
 41
 00:02:28,550 --> 00:02:32,068
-{pos(110,260)}C'est notre première et dernière
+C'est notre première et dernière
 St-Valentin de fiancés.
 
 42
 00:02:32,236 --> 00:02:33,962
-{pos(110,260)}On ne se fiance qu'une fois.
+On ne se fiance qu'une fois.
 
 43
 00:02:34,087 --> 00:02:35,972
-{pos(100,260)}Enfin, à part ma voisine...
+Enfin, à part ma voisine...
 
 44
 00:02:36,097 --> 00:02:37,263
-{pos(110,260)}Vraiment, Jim ?
+Vraiment, Jim ?
 
 45
 00:02:37,388 --> 00:02:38,809
-{pos(110,260)}Le jour de Cupidon ?
+Le jour de Cupidon ?
 
 46
 00:02:40,739 --> 00:02:42,189
-{pos(110,260)}Elle le prend bien.
+Elle le prend bien.
 
 47
 00:02:42,712 --> 00:02:46,259
-{pos(110,260)}J'ai reçu ma première carte,
+J'ai reçu ma première carte,
 d'un admirateur secret.
 
 48
 00:02:49,931 --> 00:02:52,467
-{pos(110,260)}"Les roses sont rouges,
+"Les roses sont rouges,
 les violettes bleues,
 
 49
@@ -244,43 +244,43 @@ moi inclus,
 
 56
 00:03:19,659 --> 00:03:21,673
-{pos(110,260)}et ils ressentent tous,
+et ils ressentent tous,
 
 57
 00:03:22,038 --> 00:03:24,538
-{pos(110,260)}une terrible souffrance
+une terrible souffrance
 émotionnelle.
 
 58
 00:03:24,663 --> 00:03:27,431
-{pos(110,260)}Surtout moi, à cause
+Surtout moi, à cause
 de ma grande disposition
 
 59
 00:03:27,857 --> 00:03:29,107
-{pos(110,260)}pour l'émotion.
+pour l'émotion.
 
 60
 00:03:29,500 --> 00:03:30,300
-{pos(110,260)}Et...
+Et...
 
 61
 00:03:30,568 --> 00:03:33,268
-{pos(110,260)}c'est ma première St-Valentin
+c'est ma première St-Valentin
 depuis Holly,
 
 62
 00:03:34,251 --> 00:03:37,633
-{pos(110,260)}donc je pense être
+donc je pense être
 bien placé pour comprendre
 
 63
 00:03:37,801 --> 00:03:40,394
-{pos(110,260)}qu'ils ont besoin d'être protégés
+qu'ils ont besoin d'être protégés
 
 64
 00:03:40,580 --> 00:03:43,405
-{pos(110,260)}de tout cet amour
+de tout cet amour
 jeté en plein visage.
 
 65
@@ -293,7 +293,7 @@ Je les vois pas par terre.
 
 67
 00:03:48,172 --> 00:03:49,720
-{pos(110,260)}Elle est censée les voir.
+Elle est censée les voir.
 
 68
 00:03:49,845 --> 00:03:52,195
@@ -320,7 +320,7 @@ la tension sexuelle, les fleurs...
 
 73
 00:04:04,240 --> 00:04:07,064
-{pos(105,260)}Ça crée des conditions
+Ça crée des conditions
 de travail hostiles.
 
 74
@@ -333,7 +333,7 @@ Je pensais
 
 76
 00:04:10,792 --> 00:04:12,751
-{pos(120,245)}qu'on la jouait plutôt discrète.
+qu'on la jouait plutôt discrète.
 
 77
 00:04:12,919 --> 00:04:15,846
@@ -1118,7 +1118,7 @@ est primordial.
 
 251
 00:12:20,323 --> 00:12:22,699
-{pos(192,170)}<i>Trouvé : Un gant au don de sang</i>
+<i>Trouvé : Un gant au don de sang</i>
 
 252
 00:12:20,977 --> 00:12:22,387

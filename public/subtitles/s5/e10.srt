@@ -154,7 +154,7 @@ Jarick, Sk0r, Collioure.
 
 35
 00:01:50,328 --> 00:01:52,402
-{pos(280,225)}Épisode : 5x09
+Épisode : 5x09
 "The Surplus" (1.01)
 
 36
@@ -202,7 +202,7 @@ Vous devinez ?
 
 46
 00:02:16,388 --> 00:02:18,678
-{pos(120,260)}Sauf si vous préférez tous
+Sauf si vous préférez tous
 autre chose ?
 
 47
@@ -211,37 +211,37 @@ Non, pitié, ne fais pas ça.
 
 48
 00:02:22,369 --> 00:02:25,029
-{pos(110,260)}De nouveaux fauteuils.
+De nouveaux fauteuils.
 Ceux-là sont affreux.
 
 49
 00:02:25,154 --> 00:02:27,638
-{pos(110,260)}On devait déjà en changer
+On devait déjà en changer
 l'année dernière.
 
 50
 00:02:27,900 --> 00:02:30,369
-{pos(110,260)}Alors on est d'accord
+Alors on est d'accord
 pour les fauteuils ?
 
 51
 00:02:30,494 --> 00:02:33,151
-{pos(110,260)}- Bien ?
+- Bien ?
 - Bien. Il a dit bien, moi aussi.
 
 52
 00:02:33,321 --> 00:02:36,902
 On est une société de papier.
-{pos(110,260)}Comment être fier de notre travail
+Comment être fier de notre travail
 
 53
 00:02:37,027 --> 00:02:40,058
-{pos(110,260)}si on doit coller notre beau papier
+si on doit coller notre beau papier
 dans ce tas de boue ?
 
 54
 00:02:41,424 --> 00:02:43,870
-{pos(105,260)}c'est pas le moment
+c'est pas le moment
 de tes positions de principe.
 
 55
@@ -250,20 +250,20 @@ Tu fais le plus de copies.
 
 56
 00:02:45,917 --> 00:02:48,993
-{pos(110,260)}Exactement. Ce qui en dit long
+Exactement. Ce qui en dit long
 sur l'état des chaises.
 
 57
 00:02:49,218 --> 00:02:50,961
-{pos(110,260)}OK, excellentes suggestions.
+OK, excellentes suggestions.
 
 58
 00:02:51,086 --> 00:02:52,217
-{pos(110,260)}Excellentes...
+Excellentes...
 
 59
 00:02:53,018 --> 00:02:55,073
-{pos(110,260)}Mettons-nous d'accord sur une.
+Mettons-nous d'accord sur une.
 
 60
 00:02:55,198 --> 00:02:56,883
@@ -275,21 +275,21 @@ Les clans se forment.
 
 62
 00:02:58,596 --> 00:03:01,285
-{pos(110,260)}Il faudrait faire tester
+Il faudrait faire tester
 la qualité de l'air.
 
 63
 00:03:01,410 --> 00:03:04,388
-{pos(105,260)}Il y a du radon en bas,
+Il y a du radon en bas,
 de l'amiante dans les plafonds.
 
 64
 00:03:04,513 --> 00:03:05,850
-{pos(110,260)}Des tueurs silencieux.
+Des tueurs silencieux.
 
 65
 00:03:06,020 --> 00:03:08,609
-{pos(110,260)}Tu es le tueur silencieux.
+Tu es le tueur silencieux.
 Retourne à l'annexe.
 
 66
@@ -298,7 +298,7 @@ Vous verrez.
 
 67
 00:03:10,183 --> 00:03:12,690
-{pos(110,260)}J'ai parlé des fauteuils
+J'ai parlé des fauteuils
 à Meredith, Stanley et Jim.
 
 68
@@ -307,7 +307,7 @@ Ils sont avec moi.
 
 69
 00:03:14,501 --> 00:03:16,611
-{pos(115,260)}En fait, je vais choisir le copieur.
+En fait, je vais choisir le copieur.
 
 70
 00:03:17,047 --> 00:03:17,935
@@ -315,29 +315,29 @@ Quoi ?
 
 71
 00:03:18,658 --> 00:03:20,924
-{pos(110,260)}Depuis que je sors avec Pam,
+Depuis que je sors avec Pam,
 
 72
 00:03:21,049 --> 00:03:23,654
-{pos(110,260)}j'ai du mal à lui demander
+j'ai du mal à lui demander
 de faire mes copies.
 
 73
 00:03:23,779 --> 00:03:25,682
-{pos(110,260)}Alors, je les fais moi-même.
+Alors, je les fais moi-même.
 
 74
 00:03:26,010 --> 00:03:27,897
-{pos(110,260)}Et ce copieur craint.
+Et ce copieur craint.
 
 75
 00:03:28,424 --> 00:03:31,000
-{pos(110,260)}Je vous le dis...
+Je vous le dis...
 Mais vous savez quoi ?
 
 76
 00:03:31,532 --> 00:03:33,878
-{pos(110,260)}On a pas besoin
+On a pas besoin
 d'être d'accord sur tout.
 
 77

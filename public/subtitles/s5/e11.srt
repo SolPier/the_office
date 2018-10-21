@@ -60,7 +60,7 @@ Jarick, Sk0r, Collioure.
 
 14
 00:01:09,941 --> 00:01:12,153
-{pos(290,225)}Épisode : 5x10
+Épisode : 5x10
 "Moroccan Christmas"
 
 15
@@ -75,49 +75,49 @@ avec un petit chapeau.
 
 17
 00:01:20,673 --> 00:01:22,733
-{pos(110,260)}C'est la 1re fête de Noël
+C'est la 1re fête de Noël
 que j'organise
 
 18
 00:01:22,858 --> 00:01:24,769
-{pos(110,260)}en tant que chef
+en tant que chef
 du comité des fêtes.
 
 19
 00:01:24,894 --> 00:01:26,941
-{pos(110,260)}Le thème est
+Le thème est
 "Une Nuit au Maroc".
 
 20
 00:01:27,608 --> 00:01:30,363
-{pos(110,260)}Ce n'est pas
+Ce n'est pas
 une fête de grand-mère.
 
 21
 00:01:30,613 --> 00:01:32,476
-{pos(110,260)}À moins qu'elle soit marocaine,
+À moins qu'elle soit marocaine,
 
 22
 00:01:32,601 --> 00:01:34,217
-{pos(110,260)}dans ce cas, c'est approprié.
+dans ce cas, c'est approprié.
 
 23
 00:01:35,747 --> 00:01:38,089
-{pos(110,260)}J'ai besoin de l'invit
+J'ai besoin de l'invit
 pour entrer à la fête ?
 
 24
 00:01:38,214 --> 00:01:39,547
-{pos(110,260)}- Oui.
+- Oui.
 - Génial.
 
 25
 00:01:39,672 --> 00:01:41,498
-{pos(100,260)}Je pense que ça sera
+Je pense que ça sera
 
 26
 00:01:41,862 --> 00:01:43,810
-{pos(100,260)}notre meilleure fête de Noël.
+notre meilleure fête de Noël.
 
 27
 00:01:48,109 --> 00:01:50,900
@@ -126,7 +126,7 @@ C'est pas dans le thème.
 
 28
 00:01:51,583 --> 00:01:53,247
-{pos(110,260)}C'est la Nativité...
+C'est la Nativité...
 
 29
 00:01:54,567 --> 00:01:55,644
@@ -151,12 +151,12 @@ va dans le tiroir.
 
 34
 00:02:05,039 --> 00:02:08,035
-{pos(110,260)}Je n'en veux pas à Phyllis
+Je n'en veux pas à Phyllis
 de désacraliser Noël.
 
 35
 00:02:08,318 --> 00:02:12,173
-{pos(100,260)}Mais quelqu'un lui en voudra.
+Mais quelqu'un lui en voudra.
 Et elle l'a fourré dans un tiroir.
 
 36
@@ -175,11 +175,11 @@ pour que je ne raconte pas
 
 39
 00:02:22,775 --> 00:02:25,163
-{pos(110,260)}qu'elle trompe Andy avec Dwight.
+qu'elle trompe Andy avec Dwight.
 
 40
 00:02:25,904 --> 00:02:29,622
-{pos(110,260)}Pour que ce soit du chantage,
+Pour que ce soit du chantage,
 ça doit se faire par écrit.
 
 41
@@ -188,45 +188,45 @@ T'as amené ta collection de poupées.
 
 42
 00:02:39,534 --> 00:02:41,275
-{pos(110,260)}Ce ne sont pas des poupées.
+Ce ne sont pas des poupées.
 
 43
 00:02:41,400 --> 00:02:44,618
-{pos(110,260)}Ce sont des marchandises,
+Ce sont des marchandises,
 comme de l'or ou du pétrole.
 
 44
 00:02:44,957 --> 00:02:48,900
-{pos(105,260)}Chaque année, je recherche
+Chaque année, je recherche
 le jouet le plus populaire de Noël.
 
 45
 00:02:49,464 --> 00:02:53,128
-{pos(110,260)}Cette année, c'est une poupée.
+Cette année, c'est une poupée.
 Moitié fille, moitié licorne.
 
 46
 00:02:54,420 --> 00:02:57,301
-{pos(100,260)}Le slogan :
+Le slogan :
 "Ma corne peut percer le ciel".
 
 47
 00:02:58,009 --> 00:02:59,025
-{pos(110,260)}Pathétique.
+Pathétique.
 
 48
 00:02:59,976 --> 00:03:03,028
-{pos(110,260)}Ces dernières semaines,
+Ces dernières semaines,
 j'ai vidé les magasins du coin.
 
 49
 00:03:03,153 --> 00:03:05,702
-{pos(90,260)}Quand les parents fainéants
+Quand les parents fainéants
 seront désespérés,
 
 50
 00:03:05,827 --> 00:03:08,421
-{pos(100,260)}je les revendrai
+je les revendrai
 avec un énorme bénéfice.
 
 51
@@ -235,12 +235,12 @@ Pas vrai, Princesse ?
 
 52
 00:03:12,499 --> 00:03:15,402
-{pos(110,260)}- Voilà l'esprit de Noël.
+- Voilà l'esprit de Noël.
 - Je punis juste les parents
 
 53
 00:03:15,527 --> 00:03:17,904
-{pos(110,260)}qui font leur cadeau
+qui font leur cadeau
 à la dernière minute.
 
 54

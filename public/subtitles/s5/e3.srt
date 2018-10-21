@@ -115,30 +115,30 @@ Kezac, Jaqpojaq, Sk0r, Collioure
 
 27
 00:01:24,922 --> 00:01:27,215
-{pos(280,225)}Épisode 5x02
+Épisode 5x02
 "Business Ethics" (1.00)
 
 28
 00:01:29,802 --> 00:01:32,632
-{pos(190,200)}Posez vos stylos !
+Posez vos stylos !
 Je plaisante. Prenez votre temps.
 
 29
 00:01:32,752 --> 00:01:34,222
-{pos(190,200)}C'est la journée éthique.
+C'est la journée éthique.
 
 30
 00:01:34,382 --> 00:01:37,582
-{pos(190,200)}Dès qu'ils finiront le questionnaire,
+Dès qu'ils finiront le questionnaire,
 je tiendrai ma première réunion.
 
 31
 00:01:37,799 --> 00:01:39,891
-{pos(190,200)}Ça va être de la folie !
+Ça va être de la folie !
 
 32
 00:01:41,577 --> 00:01:44,399
-{pos(190,200)}Non, en fait.
+Non, en fait.
 Je vais lire les consignes.
 
 33
@@ -151,82 +151,82 @@ Je m'en occupe.
 
 35
 00:01:53,201 --> 00:01:56,020
-{pos(190,200)}<i>Then to a suggestive movie</i>
+<i>Then to a suggestive movie</i>
 
 36
 00:01:57,593 --> 00:02:00,349
-{pos(190,200)}<i>There's nothing left to talk about</i>
+<i>There's nothing left to talk about</i>
 
 37
 00:02:00,519 --> 00:02:03,141
-{pos(190,200)}<i>Unless it's horizontally</i>
+<i>Unless it's horizontally</i>
 
 38
 00:02:03,902 --> 00:02:07,472
-{pos(190,200)}<i>Devenons tous éthiques, tous éthiques</i>
+<i>Devenons tous éthiques, tous éthiques</i>
 
 39
 00:02:07,592 --> 00:02:09,685
-{pos(190,200)}<i>Je veux devenir éthique</i>
+<i>Je veux devenir éthique</i>
 
 40
 00:02:10,515 --> 00:02:12,368
-{pos(190,200)}<i>Mettons-nous à l'éthique</i>
+<i>Mettons-nous à l'éthique</i>
 
 41
 00:02:12,538 --> 00:02:15,015
-{pos(190,200)}<i>Je veux entendre parler Dunder Mifflin</i>
+<i>Je veux entendre parler Dunder Mifflin</i>
 
 42
 00:02:15,186 --> 00:02:18,544
-{pos(190,200)}<i>Parler ton corps</i>
+<i>Parler ton corps</i>
 <i>Je veux entendre parler ton corps</i>
 
 43
 00:02:20,094 --> 00:02:22,732
-{pos(190,200)}Pourquoi tu l'aides ?
+Pourquoi tu l'aides ?
 Tu ne sors même pas avec elle.
 
 44
 00:02:22,852 --> 00:02:24,140
-{pos(190,200)}C'est mon amie.
+C'est mon amie.
 
 45
 00:02:25,219 --> 00:02:28,075
-{pos(190,200)}Le but de ma stratégie,
+Le but de ma stratégie,
 c'est de...
 
 46
 00:02:28,317 --> 00:02:31,403
-{pos(190,200)}transmuer cette amitié
+transmuer cette amitié
 en relation amoureuse.
 
 47
 00:02:31,523 --> 00:02:32,720
-{pos(190,200)}À son insu.
+À son insu.
 
 48
 00:02:35,885 --> 00:02:38,914
-{pos(190,200)}On applaudit bien fort
+On applaudit bien fort
 mademoiselle Holly Flax !
 
 49
 00:02:40,298 --> 00:02:41,563
-{pos(190,200)}Merci Michael.
+Merci Michael.
 
 50
 00:02:42,230 --> 00:02:44,675
-{pos(190,200)}Ce séminaire
+Ce séminaire
 sur l'éthique professionnelle a lieu
 
 51
 00:02:44,795 --> 00:02:47,135
-{pos(190,200)}car récemment,
+car récemment,
 sans citer de noms,
 
 52
 00:02:47,255 --> 00:02:49,543
-{pos(190,200)}il y a eu
+il y a eu
 des malversations au siège.
 
 53
@@ -236,19 +236,19 @@ une politique éthique très stricte,
 
 54
 00:02:52,375 --> 00:02:54,199
-{pos(190,200)}et cet employé a été viré.
+et cet employé a été viré.
 
 55
 00:02:54,319 --> 00:02:56,462
-{pos(190,200)}Arrête ! Il est là.
+Arrête ! Il est là.
 
 56
 00:02:57,104 --> 00:02:58,428
-{pos(190,200)}Il a rempilé!
+Il a rempilé!
 
 57
 00:02:58,598 --> 00:03:01,163
-{pos(190,200)}- Écoute ça : rem-PiloMan.
+- Écoute ça : rem-PiloMan.
 - Joli.
 
 58

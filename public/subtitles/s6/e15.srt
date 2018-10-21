@@ -218,32 +218,32 @@ Erin, ciseaux.
 
 50
 00:02:37,751 --> 00:02:39,412
-{pos(306,200)}{7}Collioure
+{7}Collioure
 
 51
 00:02:39,702 --> 00:02:41,243
-{pos(306,215)}{7}Jarick
+{7}Jarick
 
 52
 00:02:41,497 --> 00:02:42,828
-{pos(306,200)}{7}Floc
+{7}Floc
 Titou
 
 53
 00:02:43,080 --> 00:02:44,329
-{pos(306,215)}{7}Sk0r
+{7}Sk0r
 
 54
 00:02:44,583 --> 00:02:45,831
-{pos(306,215)}{7}yomoy
+{7}yomoy
 
 55
 00:02:46,083 --> 00:02:47,332
-{pos(306,215)}{7}The Ni.Knight
+{7}The Ni.Knight
 
 56
 00:02:50,703 --> 00:02:52,421
-{pos(315,230)}Épisode 6x14
+Épisode 6x14
 <i>Sabre</i>
 
 57
@@ -266,16 +266,16 @@ sur la même longueur d'onde.
 
 61
 00:03:11,125 --> 00:03:12,226
-{pos(115,260)}À vous aussi.
+À vous aussi.
 
 62
 00:03:13,524 --> 00:03:15,892
-{pos(115,260)}Il a l'air grand.
+Il a l'air grand.
 J'espère qu'on s'entendra.
 
 63
 00:03:16,380 --> 00:03:18,238
-{pos(115,260)}Je m'entendais bien avec David.
+Je m'entendais bien avec David.
 
 64
 00:03:18,492 --> 00:03:20,690
@@ -302,12 +302,12 @@ Un hot-dog de Scranton ?
 
 69
 00:03:33,380 --> 00:03:35,880
-{pos(120,260)}Laisse-lui une minute
+Laisse-lui une minute
 pour s'installer.
 
 70
 00:03:38,508 --> 00:03:39,956
-{pos(115,260)}Je suis Gabe Lewis.
+Je suis Gabe Lewis.
 
 71
 00:03:40,123 --> 00:03:42,596
@@ -316,7 +316,7 @@ des fusions.
 
 72
 00:03:42,850 --> 00:03:45,598
-{pos(115,260)}Bonjour, je suis Michael Scott,
+Bonjour, je suis Michael Scott,
 codirecteur.
 
 73
@@ -330,7 +330,7 @@ Voici mon protégé, Jim Halpert.
 
 75
 00:03:51,648 --> 00:03:53,998
-{pos(115,260)}Formé. J'adore.
+Formé. J'adore.
 Je suis bon. Donc...
 
 76
@@ -344,21 +344,21 @@ par cette fusion.
 
 78
 00:03:59,575 --> 00:04:01,173
-{pos(115,260)}Nous aussi, pas vrai ?
+Nous aussi, pas vrai ?
 
 79
 00:04:01,502 --> 00:04:02,982
-{pos(115,260)}- Pas vrai ?
+- Pas vrai ?
 - Carrément.
 
 80
 00:04:03,149 --> 00:04:06,078
-{pos(115,240)}Nous avons préparé
+Nous avons préparé
 une chanson en votre honneur.
 
 81
 00:04:07,914 --> 00:04:10,415
-{pos(115,260)}Avec votre accord,
+Avec votre accord,
 je la mettrai sur le site de Sabre.
 
 82
@@ -367,7 +367,7 @@ je la mettrai sur le site de Sabre.
 
 83
 00:04:13,154 --> 00:04:15,830
-{pos(115,260)}- "Sa-bre", "Sabre".
+- "Sa-bre", "Sabre".
 - Bien sûr.
 
 84
@@ -376,21 +376,21 @@ Bien, commencez.
 
 85
 00:04:26,445 --> 00:04:28,433
-{pos(115,260)}<i>Descendu du train
+<i>Descendu du train
 à Scranton</i>
 
 86
 00:04:28,896 --> 00:04:31,019
-{pos(115,240)}<i>Encore un après-midi nuageux</i>
+<i>Encore un après-midi nuageux</i>
 
 87
 00:04:31,557 --> 00:04:34,185
-{pos(115,260)}<i>Course en taxi,
+<i>Course en taxi,
 vous êtes ici pour la première fois,</i>
 
 88
 00:04:34,352 --> 00:04:36,817
-{pos(115,260)}<i>Sur votre droite,
+<i>Sur votre droite,
 Un panneau électrique</i>
 
 89
@@ -407,34 +407,34 @@ Sabre.
 
 92
 00:04:44,410 --> 00:04:45,508
-{pos(115,260)}C'est Sabre.
+C'est Sabre.
 
 93
 00:04:46,481 --> 00:04:48,381
-{pos(115,260)}<i>Dunder Mifflin et Sabre</i>
+<i>Dunder Mifflin et Sabre</i>
 
 94
 00:04:51,412 --> 00:04:53,812
-{pos(95,260)}<i>Dunder Mifflin
+<i>Dunder Mifflin
 fait partie de Sob-Ray</i>
 
 95
 00:04:56,696 --> 00:04:58,888
-{pos(95,260)}<i>Dunder Mifflin
+<i>Dunder Mifflin
 fait partie de Sabre</i>
 
 96
 00:04:59,055 --> 00:05:00,903
-{pos(95,260)}<i>Dunder Mifflin
+<i>Dunder Mifflin
 fait partie de Sabre</i>
 
 97
 00:05:01,070 --> 00:05:02,248
-{pos(115,260)}Vous êtes sûr ?
+Vous êtes sûr ?
 
 98
 00:05:05,792 --> 00:05:08,447
-{pos(115,260)}Si on part vers 11 h 20,
+Si on part vers 11 h 20,
 ça devrait aller.
 
 99
@@ -444,11 +444,11 @@ C'est à quatre pâtés de maisons.
 
 100
 00:05:13,440 --> 00:05:14,688
-{pos(115,260)}On se perdra pas.
+On se perdra pas.
 
 101
 00:05:15,180 --> 00:05:17,658
-{pos(115,260)}On pourrait y aller en voiture.
+On pourrait y aller en voiture.
 Ça prendrait...
 
 102

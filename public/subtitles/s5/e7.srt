@@ -131,7 +131,7 @@ Kezac, Jaqpojaq, Sk0r, Collioure
 
 30
 00:01:47,823 --> 00:01:50,155
-{pos(280,225)}Épisode: 5x06
+Épisode: 5x06
 "Customer Survey" (1.00)
 
 31
@@ -179,54 +179,54 @@ Kelly Kapoor...
 
 41
 00:02:18,867 --> 00:02:22,632
-{pos(190,210)}est notre basanée et exotique
+est notre basanée et exotique
 chargée de relations clientèle.
 
 42
 00:02:23,050 --> 00:02:25,579
-{pos(190,210)}Une fois par an,
+Une fois par an,
 elle appelle nos clients
 
 43
 00:02:25,699 --> 00:02:28,644
-{pos(190,210)}pour savoir s'ils sont contents
+pour savoir s'ils sont contents
 de nos commerciaux.
 
 44
 00:02:28,764 --> 00:02:31,905
-{pos(190,225)}Une "Liste de Kapoor",
+Une "Liste de Kapoor",
 comme une parodie de Schindler.
 
 45
 00:02:34,195 --> 00:02:35,622
-{pos(190,200)}C'est inapproprié.
+C'est inapproprié.
 
 46
 00:02:36,778 --> 00:02:38,936
-{pos(190,225)}Ces rapports jouent sur nos primes.
+Ces rapports jouent sur nos primes.
 
 47
 00:02:39,056 --> 00:02:42,637
-{pos(190,225)}Je ne crache pas dessus,
+Je ne crache pas dessus,
 car on ne dirait pas comme ça,
 
 48
 00:02:43,542 --> 00:02:45,482
-{pos(190,225)}mais Pam est une femme vénale.
+mais Pam est une femme vénale.
 
 49
 00:02:45,602 --> 00:02:48,081
-{pos(190,225)}<i>New York, ça douille !
+<i>New York, ça douille !
 Au boulot !</i>
 
 50
 00:02:49,916 --> 00:02:52,169
-{pos(190,225)}C'est le plus petit
+C'est le plus petit
 bluetooth du monde.
 
 51
 00:02:52,289 --> 00:02:55,145
-{pos(190,225)}Il vient d'une boutique
+Il vient d'une boutique
 de gadgets japonais, au Village.
 
 52
@@ -263,7 +263,7 @@ J'y vais.
 
 59
 00:03:12,901 --> 00:03:15,093
-{pos(190,210)}Voyons, Dwighty.
+Voyons, Dwighty.
 Ça donne quoi ?
 
 60
@@ -281,16 +281,16 @@ Pardon.
 
 63
 00:03:23,284 --> 00:03:24,915
-{pos(190,225)}C'est catastrophique.
+C'est catastrophique.
 
 64
 00:03:25,585 --> 00:03:27,569
-{pos(190,225)}- Impossible.
+- Impossible.
 - Plusieurs clients
 
 65
 00:03:27,689 --> 00:03:30,419
-{pos(190,225)}trouvent tes manières
+trouvent tes manières
 agressives et désagréables.
 
 66
@@ -299,11 +299,11 @@ C'est moi qui vends le plus.
 
 67
 00:03:32,542 --> 00:03:34,069
-{pos(190,225)}C'est une blague ?
+C'est une blague ?
 
 68
 00:03:34,189 --> 00:03:36,635
-{pos(190,225)}Je sens ce malaise
+Je sens ce malaise
 qui va parfois avec les blagues.
 
 69
@@ -313,7 +313,7 @@ qui va parfois avec les blagues.
 
 70
 00:03:40,447 --> 00:03:43,499
-{pos(190,225)}Si je plaisantais, tu rirais.
+Si je plaisantais, tu rirais.
 Tu as l'air de rire ?
 
 71
@@ -326,16 +326,16 @@ Tu ne ris pas.
 
 73
 00:03:48,441 --> 00:03:49,861
-{pos(190,225)}Hé ! Tommy Thon !
+Hé ! Tommy Thon !
 
 74
 00:03:50,129 --> 00:03:52,177
-{pos(190,225)}- Tu as tes résultats ?
+- Tu as tes résultats ?
 - Non.
 
 75
 00:03:53,232 --> 00:03:54,653
-{pos(190,225)}Les miens sont super.
+Les miens sont super.
 
 76
 00:03:54,987 --> 00:03:56,071
@@ -343,7 +343,7 @@ Il me manque.
 
 77
 00:03:56,414 --> 00:03:58,362
-{pos(190,225)}- Tu dois être fier.
+- Tu dois être fier.
 - En effet.
 
 78
@@ -357,12 +357,12 @@ Elle était là.
 
 80
 00:04:04,420 --> 00:04:07,750
-{pos(190,225)}Eh bien, c'est la mienne.
+Eh bien, c'est la mienne.
 Vide-la et prends-en une autre.
 
 81
 00:04:08,497 --> 00:04:12,073
-{pos(190,225)}OK. Ou alors je finis mon café,
+OK. Ou alors je finis mon café,
 et tu pourrais prendre...
 
 82

@@ -170,7 +170,7 @@ Jaqpotjak, Jarick, Sk0r, Collioure.
 
 38
 00:01:43,230 --> 00:01:45,187
-{pos(310,230)}Épisode 5x17
+Épisode 5x17
 "Golden Ticket"
 
 39
@@ -187,12 +187,12 @@ Je suis Willy Wonka !
 
 42
 00:01:59,191 --> 00:02:01,145
-{pos(110,260)}Bonjour, M. Wonka.
+Bonjour, M. Wonka.
 Voici vos messages.
 
 43
 00:02:01,270 --> 00:02:03,205
-{pos(110,260)}Merci beaucoup.
+Merci beaucoup.
 Qu'est-ce que c'est ?
 
 44
@@ -210,38 +210,38 @@ des simples Dragibus, petite fille.
 
 47
 00:02:10,373 --> 00:02:13,462
-{pos(110,260)}Ce sont
+Ce sont
 des Dragibus extraordinaires !
 
 48
 00:02:14,593 --> 00:02:17,583
-{pos(110,260)}L'idée du ticket d'or Willy Wonka
+L'idée du ticket d'or Willy Wonka
 
 49
 00:02:17,766 --> 00:02:20,537
-{pos(110,260)}est probablement
+est probablement
 la meilleure idée que j'ai eue.
 
 50
 00:02:20,662 --> 00:02:22,975
-{pos(110,260)}La meilleure idée
+La meilleure idée
 que quiconque ait jamais eue.
 
 51
 00:02:23,306 --> 00:02:24,526
-{pos(110,260)}Il y a 3 jours,
+Il y a 3 jours,
 
 52
 00:02:24,651 --> 00:02:26,908
-{pos(100,260)}j'ai glissé 5 tickets en or
+j'ai glissé 5 tickets en or
 
 53
 00:02:27,102 --> 00:02:28,662
-{pos(110,260)}dans des lots de papier.
+dans des lots de papier.
 
 54
 00:02:28,787 --> 00:02:31,901
-{pos(110,260)}Ils donnent droit à une remise
+Ils donnent droit à une remise
 de 10 % sur leur commande.
 
 55
@@ -250,12 +250,12 @@ Ce sera...
 
 56
 00:02:33,767 --> 00:02:36,767
-{pos(110,260)}une journée pleine de fantaisie
+une journée pleine de fantaisie
 pour les clients.
 
 57
 00:02:36,899 --> 00:02:38,491
-{pos(110,260)}Une journée excitante
+Une journée excitante
 
 58
 00:02:38,884 --> 00:02:39,934
@@ -263,7 +263,7 @@ et magique.
 
 59
 00:02:41,942 --> 00:02:45,039
-{pos(100,260)}J'ai écrit ces mots
+J'ai écrit ces mots
 car il est de mon devoir,
 
 60
@@ -272,72 +272,72 @@ en tant que directeur,
 
 61
 00:02:47,042 --> 00:02:49,627
-{pos(120,260)}de "dispensier" de bonnes idées.
+de "dispensier" de bonnes idées.
 
 62
 00:02:49,795 --> 00:02:53,255
-{pos(110,260)}Et je pense avoir fait ma part
+Et je pense avoir fait ma part
 avec l'idée du ticket d'or.
 
 63
 00:02:53,423 --> 00:02:54,965
-{pos(110,260)}À votre tour, maintenant.
+À votre tour, maintenant.
 
 64
 00:02:55,090 --> 00:02:56,926
-{pos(110,260)}Proposez-moi des idées
+Proposez-moi des idées
 
 65
 00:02:57,563 --> 00:02:59,678
-{pos(110,260)}aussi bonnes que les miennes.
+aussi bonnes que les miennes.
 
 66
 00:03:01,350 --> 00:03:04,266
-{pos(110,260)}On pourrait louer nos camions
+On pourrait louer nos camions
 pendant le week-end...
 
 67
 00:03:04,434 --> 00:03:06,695
-{pos(100,260)}Trop long.
+Trop long.
 Les bonnes idées sont simples.
 
 68
 00:03:06,820 --> 00:03:08,020
-{pos(110,260)}Le ticket d'or.
+Le ticket d'or.
 
 69
 00:03:08,188 --> 00:03:09,563
-{pos(110,260)}Papier... gratuit.
+Papier... gratuit.
 
 70
 00:03:09,875 --> 00:03:11,465
-{pos(110,260)}Jim, on fait des affaires.
+Jim, on fait des affaires.
 
 71
 00:03:11,590 --> 00:03:14,026
-{pos(110,260)}Post-its. Voilà une idée en or.
+Post-its. Voilà une idée en or.
 
 72
 00:03:14,346 --> 00:03:15,635
-{pos(110,260)}Il a fallu 5...
+Il a fallu 5...
 
 73
 00:03:15,870 --> 00:03:18,405
-{pos(110,260)}ou 6 idées en or à la NASA
+ou 6 idées en or à la NASA
 pour marcher sur la Lune.
 
 74
 00:03:18,685 --> 00:03:19,935
-{pos(110,260)}<i>Golden Girls...</i>
+<i>Golden Girls...</i>
 
 75
 00:03:20,985 --> 00:03:24,285
-{pos(110,260)}En voilà une idée en or, non ?
+En voilà une idée en or, non ?
 Cette série était géniale.
 
 76
 00:03:24,703 --> 00:03:25,788
-{pos(110,260)}Golden Grahams,
+Golden Grahams,
 
 77
 00:03:26,052 --> 00:03:27,052
@@ -349,11 +349,11 @@ C'est...
 
 79
 00:03:29,349 --> 00:03:30,506
-{pos(110,260)}Je comprends pas.
+Je comprends pas.
 
 80
 00:03:30,794 --> 00:03:31,994
-{pos(110,260)}Non, en effet.
+Non, en effet.
 
 81
 00:03:34,259 --> 00:03:35,885
@@ -361,11 +361,11 @@ Dans quel état...
 
 82
 00:03:36,179 --> 00:03:37,610
-{pos(110,260)}va finir cette entreprise
+va finir cette entreprise
 
 83
 00:03:37,735 --> 00:03:40,635
-{pos(110,260)}si je suis le seul
+si je suis le seul
 à proposer de bonnes idées ?
 
 84

@@ -52,7 +52,7 @@ Kezac, Jaqpojaq, Sk0r, Collioure
 
 13
 00:01:02,708 --> 00:01:04,984
-{pos(280,225)}Épisode 5x04
+Épisode 5x04
 "Crime Aid" (1.00)
 
 14
@@ -76,157 +76,157 @@ Ce serait génial. Fais-le.
 
 18
 00:01:20,384 --> 00:01:22,743
-{pos(190,200)}- Je l'ai laissé gagner.
+- Je l'ai laissé gagner.
 - Pas du tout.
 
 19
 00:01:22,863 --> 00:01:23,712
-{pos(190,200)}Alors...
+Alors...
 
 20
 00:01:23,872 --> 00:01:26,508
-{pos(190,200)}Quand est-ce que je peux te revoir ?
+Quand est-ce que je peux te revoir ?
 
 21
 00:01:27,208 --> 00:01:29,284
-{pos(190,200)}Ce soir. Je suis libre ce soir.
+Ce soir. Je suis libre ce soir.
 
 22
 00:01:29,722 --> 00:01:31,426
-{pos(190,200)}C'était trop enthousiaste ?
+C'était trop enthousiaste ?
 
 23
 00:01:31,823 --> 00:01:33,562
-{pos(190,200)}Je m'en fous. Je suis libre.
+Je m'en fous. Je suis libre.
 
 24
 00:01:33,682 --> 00:01:34,492
-{pos(190,200)}Bien.
+Bien.
 
 25
 00:01:35,418 --> 00:01:37,726
-{pos(190,200)}Attends.
+Attends.
 C'est pas possible ce soir.
 
 26
 00:01:38,239 --> 00:01:40,478
-{pos(190,200)}Je suis occupé... à sortir avec toi.
+Je suis occupé... à sortir avec toi.
 
 27
 00:01:41,877 --> 00:01:44,155
-{pos(190,200)}Je viens de me rappeler.
+Je viens de me rappeler.
 Je peux pas ce soir.
 
 28
 00:01:44,275 --> 00:01:46,234
-{pos(190,200)}- Pourquoi ?
+- Pourquoi ?
 - Je sors avec toi.
 
 29
 00:01:50,924 --> 00:01:53,464
-{pos(190,200)}Attends !
+Attends !
 Je peux pas ce soir.
 
 30
 00:01:54,175 --> 00:01:55,125
-{pos(190,200)}Ce soir...
+Ce soir...
 
 31
 00:01:55,245 --> 00:01:57,766
-{pos(190,200)}- Arrête.
+- Arrête.
 - D'accord... La fois de trop.
 
 32
 00:01:57,886 --> 00:02:00,022
-{pos(190,200)}C'est parfait. Très bien.
+C'est parfait. Très bien.
 
 33
 00:02:00,142 --> 00:02:01,553
-{pos(190,200)}Bonne journée.
+Bonne journée.
 
 34
 00:02:01,673 --> 00:02:04,147
-{pos(190,200)}- Merci, toi aussi.
+- Merci, toi aussi.
 - De rien.
 
 35
 00:02:04,779 --> 00:02:06,939
-{pos(190,200)}D'après moi,
+D'après moi,
 le troisième rendez-vous
 
 36
 00:02:07,059 --> 00:02:09,643
-{pos(190,200)}est traditionnellement celui où...
+est traditionnellement celui où...
 
 37
 00:02:10,323 --> 00:02:11,765
-{pos(190,200)}On couche ensemble.
+On couche ensemble.
 
 38
 00:02:12,304 --> 00:02:14,140
-{pos(190,200)}Holly voit-elle ça comme ça ?
+Holly voit-elle ça comme ça ?
 
 39
 00:02:14,260 --> 00:02:15,419
-{pos(190,200)}Je sais pas.
+Je sais pas.
 
 40
 00:02:15,539 --> 00:02:17,958
-{pos(190,200)}Je vais le découvrir ce soir.
+Je vais le découvrir ce soir.
 
 41
 00:02:18,782 --> 00:02:21,895
-{pos(190,200)}Si elle couche avec moi,
+Si elle couche avec moi,
 ça sera une certitude.
 
 42
 00:02:22,055 --> 00:02:23,532
-{pos(190,200)}C'est pour toi.
+C'est pour toi.
 
 43
 00:02:24,012 --> 00:02:24,823
-{pos(190,200)}Et...
+Et...
 
 44
 00:02:26,471 --> 00:02:29,762
-{pos(190,200)}J'ai raison de penser que Dwight
+J'ai raison de penser que Dwight
 est le diminutif de D-Argent ?
 
 45
 00:02:30,053 --> 00:02:33,211
-{pos(190,200)}Parce que c'est ce que j'ai écrit
+Parce que c'est ce que j'ai écrit
 sur ton faire-part.
 
 46
 00:02:33,469 --> 00:02:35,297
-{pos(190,200)}Vous avez fixé une date ?
+Vous avez fixé une date ?
 
 47
 00:02:35,982 --> 00:02:39,166
-{pos(190,200)}J-Argent. Ou plutôt
+J-Argent. Ou plutôt
 T-Argent, pour Thon ?
 
 48
 00:02:42,382 --> 00:02:44,092
-{pos(190,200)}Réceptionniste-Argent.
+Réceptionniste-Argent.
 
 49
 00:02:46,364 --> 00:02:47,462
-{pos(190,200)}K-Argent.
+K-Argent.
 
 50
 00:02:48,888 --> 00:02:51,231
-{pos(190,200)}- Tu fabriques quoi ?
+- Tu fabriques quoi ?
 - Un couteau.
 
 51
 00:02:51,351 --> 00:02:53,241
-{pos(190,200)}Tu fabriques un couteau
+Tu fabriques un couteau
 avec un autre ?
 
 52
 00:02:53,361 --> 00:02:55,302
-{pos(190,200)}Tu connais un meilleur moyen ?
+Tu connais un meilleur moyen ?
 
 53
 00:02:57,902 --> 00:02:59,626
@@ -242,11 +242,11 @@ Tu sais que je sais.
 
 56
 00:03:04,002 --> 00:03:05,759
-{pos(190,200)}Tu sais qu'ils savent.
+Tu sais qu'ils savent.
 
 57
 00:03:08,795 --> 00:03:10,342
-{pos(190,200)}Je sais rien de tout ça.
+Je sais rien de tout ça.
 
 58
 00:03:10,462 --> 00:03:13,277

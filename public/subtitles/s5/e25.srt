@@ -164,7 +164,7 @@ Jarick, Jaqpotjaq, Sk0r, Collioure
 
 38
 00:02:27,661 --> 00:02:29,231
-{pos(315,230)}Épisode 5x22
+Épisode 5x22
 "Broke"
 
 39
@@ -183,7 +183,7 @@ chez Michael Scott Paper Company.
 
 42
 00:02:39,013 --> 00:02:41,173
-{pos(120,260)}Quelle honte, Jim.
+Quelle honte, Jim.
 J'attendais mieux.
 
 43
@@ -192,17 +192,17 @@ Le mois dernier, nous avons perdu
 
 44
 00:02:43,204 --> 00:02:45,414
-{pos(110,260)}10 gros clients
+10 gros clients
 pour Michael Scott.
 
 45
 00:02:45,582 --> 00:02:47,729
-{pos(110,260)}Que peut-on faire ?
+Que peut-on faire ?
 Ils cassent les prix.
 
 46
 00:02:47,854 --> 00:02:49,830
-{pos(110,260)}Je veux pas d'excuses,
+Je veux pas d'excuses,
 mais des progrès.
 
 47
@@ -211,11 +211,11 @@ C'est inacceptable.
 
 48
 00:02:52,005 --> 00:02:53,211
-{pos(110,260)}Dites, patron.
+Dites, patron.
 
 49
 00:02:53,336 --> 00:02:56,686
-{pos(110,260)}Je tiens à le signaler,
+Je tiens à le signaler,
 je suis là depuis moins longtemps
 
 50
@@ -225,16 +225,16 @@ je suis là depuis moins longtemps
 
 51
 00:03:01,552 --> 00:03:03,999
-{pos(110,260)}Pour un nouveau,
+Pour un nouveau,
 la barre devrait être moins haute.
 
 52
 00:03:04,124 --> 00:03:06,394
-{pos(110,260)}Vous voulez vraiment avoir dit ça ?
+Vous voulez vraiment avoir dit ça ?
 
 53
 00:03:09,338 --> 00:03:11,388
-{pos(110,260)}Je ne veux pas avoir dit ça.
+Je ne veux pas avoir dit ça.
 
 54
 00:03:13,193 --> 00:03:15,069
@@ -243,7 +243,7 @@ que vous le sachiez.
 
 55
 00:03:16,168 --> 00:03:19,031
-{pos(110,260)}Je ne sais pas quoi faire
+Je ne sais pas quoi faire
 pour les inspirer.
 
 56
@@ -253,16 +253,16 @@ pour les inspirer.
 
 57
 00:03:21,640 --> 00:03:23,883
-{pos(110,260)}Certains ne veulent pas
+Certains ne veulent pas
 être inspirés.
 
 58
 00:03:24,008 --> 00:03:25,408
-{pos(110,260)}J'ai écrit un mémo
+J'ai écrit un mémo
 
 59
 00:03:25,910 --> 00:03:29,291
-{pos(110,260)}à tous les départements
+à tous les départements
 leur demandant d'économiser.
 
 60
@@ -271,11 +271,11 @@ Mais, je...
 
 61
 00:03:31,905 --> 00:03:33,632
-{pos(110,260)}J'ai eu votre mémo. Merci.
+J'ai eu votre mémo. Merci.
 
 62
 00:03:33,757 --> 00:03:36,871
-{pos(192,205)}Je mets la pédale douce
+Je mets la pédale douce
 sur toutes les dépenses.
 
 63
@@ -288,7 +288,7 @@ Bien dit, Angela.
 
 65
 00:03:46,315 --> 00:03:47,915
-{pos(110,260)}Déjà vu, déjà fait.
+Déjà vu, déjà fait.
 
 66
 00:03:52,540 --> 00:03:54,692
@@ -297,7 +297,7 @@ c'est des canapés.
 
 67
 00:03:55,685 --> 00:03:57,736
-{pos(110,260)}On devrait penser
+On devrait penser
 à engager un livreur.
 
 68
@@ -307,16 +307,16 @@ Qu'on construise un loft.
 
 69
 00:04:02,165 --> 00:04:03,765
-{pos(110,260)}Pourquoi j'aimerais ça ?
+Pourquoi j'aimerais ça ?
 
 70
 00:04:04,534 --> 00:04:07,155
-{pos(110,260)}- On peut s'offrir un livreur ?
+- On peut s'offrir un livreur ?
 - Comme dans un dortoir.
 
 71
 00:04:07,280 --> 00:04:09,627
-{pos(110,260)}Tu mets ton bureau dessous,
+Tu mets ton bureau dessous,
 avec le lit en haut.
 
 72
@@ -325,7 +325,7 @@ Et tu dors en haut.
 
 73
 00:04:11,168 --> 00:04:14,003
-{pos(192,225)}- Je sais ce qu'est un loft.
+- Je sais ce qu'est un loft.
 - La plupart des dortoirs n'en ont pas.
 
 74
@@ -335,7 +335,7 @@ Et tu dors en haut.
 
 75
 00:04:20,253 --> 00:04:21,703
-{pos(110,260)}On devrait voir ça.
+On devrait voir ça.
 
 76
 00:04:23,331 --> 00:04:25,181

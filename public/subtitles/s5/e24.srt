@@ -28,7 +28,7 @@ Jaqpotjaq, Jarick, Sk0r, Collioure
 
 7
 00:01:12,320 --> 00:01:14,490
-{pos(315,230)}Épisode 5x22
+Épisode 5x22
 "Heavy Competition"
 
 8
@@ -38,60 +38,60 @@ pour son mariage avec Angela,
 
 9
 00:01:24,668 --> 00:01:26,990
-{pos(120,260)}mais elle couchait
+mais elle couchait
 avec Dwight depuis...
 
 10
 00:01:27,445 --> 00:01:28,752
-{pos(110,260)}plusieurs années.
+plusieurs années.
 
 11
 00:01:28,877 --> 00:01:31,816
-{pos(110,260)}- Ça peut pas être ça.
+- Ça peut pas être ça.
 - La chronologie est compliquée.
 
 12
 00:01:32,035 --> 00:01:34,236
-{pos(110,260)}Bref, on chasse les bonnes affaires
+Bref, on chasse les bonnes affaires
 
 13
 00:01:34,361 --> 00:01:36,011
-{pos(110,260)}dans le cimetière de leur amour.
+dans le cimetière de leur amour.
 
 14
 00:01:38,104 --> 00:01:39,404
-{pos(110,260)}C'est mon solo.
+C'est mon solo.
 
 15
 00:01:53,697 --> 00:01:55,095
-{pos(110,260)}Ôte-moi d'un doute.
+Ôte-moi d'un doute.
 
 16
 00:01:55,772 --> 00:01:58,394
-{pos(110,260)}Je vais marcher vers l'autel
+Je vais marcher vers l'autel
 sur <i>You Can Call Me Al</i> ?
 
 17
 00:01:58,519 --> 00:02:02,037
-{pos(110,260)}Crois-moi, tu ne marcheras pas,
+Crois-moi, tu ne marcheras pas,
 tu te trémousseras.
 
 18
 00:02:02,205 --> 00:02:03,831
-{pos(110,260)}Je suis très intéressé.
+Je suis très intéressé.
 
 19
 00:02:03,956 --> 00:02:05,583
-{pos(110,260)}Combien ça coûterait ?
+Combien ça coûterait ?
 
 20
 00:02:06,014 --> 00:02:09,628
-{pos(110,260)}12 mecs, les billets d'avion,
+12 mecs, les billets d'avion,
 3 nuits d'hôtel, la nourriture,
 
 21
 00:02:10,140 --> 00:02:12,540
-{pos(110,260)}une table
+une table
 pour les produits dérivés...
 
 22
@@ -100,16 +100,16 @@ pour les produits dérivés...
 
 23
 00:02:15,505 --> 00:02:17,502
-{pos(120,260)}Je ne sais pas. Ça paraît beaucoup
+Je ne sais pas. Ça paraît beaucoup
 
 24
 00:02:17,627 --> 00:02:20,139
-{pos(110,260)}pour le groupe d'une université
+pour le groupe d'une université
 où on est jamais allés.
 
 25
 00:02:20,684 --> 00:02:23,884
-{pos(110,260)}Tu as entendu la musique
+Tu as entendu la musique
 que je viens de te passer ?
 
 26
@@ -118,7 +118,7 @@ Qu'est-ce qu'il y a ?
 
 27
 00:02:32,486 --> 00:02:36,197
-{pos(192,225)}Ces manches entravent ma circulation.
+Ces manches entravent ma circulation.
 J'ai pas assez de sang dans les mains.
 
 28
@@ -127,17 +127,17 @@ J'ai pas assez de sang dans les mains.
 
 29
 00:02:37,824 --> 00:02:40,434
-{pos(192,225)}Charles sait-il
+Charles sait-il
 qu'il compromet ma vivacité d'attaque ?
 
 30
 00:02:40,559 --> 00:02:43,461
-{pos(110,260)}C'est une peine de mort,
+C'est une peine de mort,
 pas un code vestimentaire.
 
 31
 00:02:43,586 --> 00:02:45,736
-{pos(110,260)}- Ça vous va bien.
+- Ça vous va bien.
 - Merci.
 
 32
@@ -146,19 +146,19 @@ C'est une camisole !
 
 33
 00:02:52,464 --> 00:02:54,015
-{pos(110,260)}Quand Michael dirigeait,
+Quand Michael dirigeait,
 
 34
 00:02:54,396 --> 00:02:56,186
-{pos(110,260)}c'était l'Empire Romain, ici.
+c'était l'Empire Romain, ici.
 
 35
 00:02:56,672 --> 00:02:57,925
-{pos(110,260)}Le Far West.
+Le Far West.
 
 36
 00:02:58,965 --> 00:03:01,005
-{pos(110,260)}La Pologne déchirée par la guerre.
+La Pologne déchirée par la guerre.
 
 37
 00:03:01,130 --> 00:03:02,330

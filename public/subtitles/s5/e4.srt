@@ -213,7 +213,7 @@ Kezac, Jaqpojaq, Sk0r, Collioure
 
 48
 00:02:10,098 --> 00:02:12,385
-{pos(280,225)}Épisode 5x03
+Épisode 5x03
 "Baby Shower" (1.00)
 
 49
@@ -228,24 +228,24 @@ Où en sont les préparatifs ?
 
 51
 00:02:19,844 --> 00:02:21,361
-{pos(190,200)}Merde, Phyllis !
+Merde, Phyllis !
 
 52
 00:02:21,481 --> 00:02:22,410
-{pos(190,200)}Désolé.
+Désolé.
 
 53
 00:02:22,874 --> 00:02:24,340
-{pos(190,200)}Merde, Phyllis.
+Merde, Phyllis.
 
 54
 00:02:24,460 --> 00:02:26,775
-{pos(190,200)}J'ai déjà eu assez de mal
+J'ai déjà eu assez de mal
 à convaincre Jan de venir.
 
 55
 00:02:28,019 --> 00:02:30,528
-{pos(190,200)}Les rafraîchissements sont prêts ?
+Les rafraîchissements sont prêts ?
 
 56
 00:02:30,688 --> 00:02:34,496
@@ -273,83 +273,83 @@ plein de M&M's au nom d'Astird.
 
 61
 00:02:46,315 --> 00:02:49,758
-{pos(190,200)}Elle a dit que c'était le nom
+Elle a dit que c'était le nom
 d'une princesse viking. Donc...
 
 62
 00:02:49,878 --> 00:02:51,591
-{pos(190,200)}- Ass-Turd.
+- Ass-Turd.
 - Je sais.
 
 63
 00:02:52,467 --> 00:02:55,539
-{pos(190,200)}Je sais, c'est magnifique.
+Je sais, c'est magnifique.
 Non, merci.
 
 64
 00:02:56,214 --> 00:02:58,179
-{pos(190,200)}C'est tout ? Je veux dire...
+C'est tout ? Je veux dire...
 
 65
 00:02:58,452 --> 00:03:01,081
-{pos(190,200)}Deux bols de M&M's et des ballons ?
+Deux bols de M&M's et des ballons ?
 
 66
 00:03:01,201 --> 00:03:03,311
-{pos(190,200)}Phyllis, tu dois faire un effort.
+Phyllis, tu dois faire un effort.
 
 67
 00:03:03,589 --> 00:03:06,814
-{pos(190,200)}Tu pourrais te bouger un peu,
+Tu pourrais te bouger un peu,
 car si je ne m'abuse,
 
 68
 00:03:06,934 --> 00:03:10,610
-{pos(190,200)}on t'a offert ta fête de mariage ici,
+on t'a offert ta fête de mariage ici,
 on t'a organisé
 
 69
 00:03:11,008 --> 00:03:14,489
-{pos(190,200)}une véritable orgie.
+une véritable orgie.
 Alors je te demande : où est mon orgie ?
 
 70
 00:03:15,980 --> 00:03:18,394
-{pos(190,200)}Ça ne me dérange pas du tout,
+Ça ne me dérange pas du tout,
 
 71
 00:03:18,681 --> 00:03:21,990
-{pos(190,200)}que ce soit mon bébé biologique.
+que ce soit mon bébé biologique.
 Je vais l'adorer.
 
 72
 00:03:22,522 --> 00:03:25,860
-{pos(190,200)}C'est comme cette chienne
+C'est comme cette chienne
 qui allaite le bébé tigre.
 
 73
 00:03:25,980 --> 00:03:28,114
-{pos(190,200)}Vous avez vu cette vidéo ?
+Vous avez vu cette vidéo ?
 
 74
 00:03:28,413 --> 00:03:29,423
-{pos(190,200)}C'est...
+C'est...
 
 75
 00:03:29,959 --> 00:03:31,316
-{pos(190,200)}C'est tellement...
+C'est tellement...
 
 76
 00:03:31,687 --> 00:03:33,823
-{pos(190,200)}bizarre et contre nature.
+bizarre et contre nature.
 
 77
 00:03:35,483 --> 00:03:36,375
-{pos(190,200)}Mais...
+Mais...
 
 78
 00:03:37,503 --> 00:03:38,654
-{pos(190,200)}ça arrive.
+ça arrive.
 
 79
 00:03:40,203 --> 00:03:42,141
@@ -358,7 +358,7 @@ pour la fête du bébé.
 
 80
 00:03:42,448 --> 00:03:45,311
-{pos(190,200)}- C'est pas son bébé.
+- C'est pas son bébé.
 - Je sais Kevin.
 
 81
@@ -373,37 +373,37 @@ a conçu avec un donneur ?
 
 83
 00:03:50,781 --> 00:03:53,778
-{pos(190,200)}Faites comme si vous payiez
+Faites comme si vous payiez
 pour le gâteau, pas le bébé.
 
 84
 00:03:54,495 --> 00:03:57,574
-{pos(190,200)}Ça me plaît de diriger
+Ça me plaît de diriger
 le comité d'organisation des fêtes.
 
 85
 00:03:57,694 --> 00:03:59,757
-{pos(190,200)}Je ne suis plus
+Je ne suis plus
 sous le joug d'Angela,
 
 86
 00:03:59,877 --> 00:04:02,391
-{pos(190,200)}et sa petite tête de piaf
+et sa petite tête de piaf
 est sous le mien.
 
 87
 00:04:02,511 --> 00:04:04,333
-{pos(190,200)}Tu fais quoi ?
+Tu fais quoi ?
 Ne leur parle pas.
 
 88
 00:04:04,453 --> 00:04:06,274
-{pos(190,200)}- Désolée.
+- Désolée.
 - Prépare la fête.
 
 89
 00:04:06,734 --> 00:04:08,245
-{pos(190,200)}La fête, s'il te plaît.
+La fête, s'il te plaît.
 
 90
 00:04:19,080 --> 00:04:20,007

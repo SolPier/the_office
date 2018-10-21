@@ -200,26 +200,26 @@ Jarick, Jaqpotjaq, Sk0r, Collioure
 
 45
 00:02:08,404 --> 00:02:10,087
-{pos(310,230)}Épisode 5x18
+Épisode 5x18
 "New Boss"
 
 46
 00:02:15,385 --> 00:02:16,885
-{pos(110,260)}Je peux vous aider ?
+Je peux vous aider ?
 
 47
 00:02:17,090 --> 00:02:19,263
-{pos(110,260)}Charles Miner,
+Charles Miner,
 je viens voir Michael Scott.
 
 48
 00:02:19,596 --> 00:02:21,862
-{pos(100,260)}Bien sûr, une seconde.
+Bien sûr, une seconde.
 Asseyez-vous.
 
 49
 00:02:24,748 --> 00:02:26,437
-{pos(110,260)}Charles Miner t'attend.
+Charles Miner t'attend.
 
 50
 00:02:26,689 --> 00:02:28,608
@@ -244,39 +244,39 @@ Votre attention...
 
 55
 00:02:44,331 --> 00:02:45,220
-{pos(110,260)}Voilà...
+Voilà...
 
 56
 00:02:45,345 --> 00:02:46,995
-{pos(110,260)}monsieur Charles Miner.
+monsieur Charles Miner.
 
 57
 00:02:47,459 --> 00:02:50,544
-{pos(110,260)}Le nouveau vice-président
+Le nouveau vice-président
 de la région nord-est.
 
 58
 00:02:50,712 --> 00:02:53,262
-{pos(110,260)}Alors, une ovation
+Alors, une ovation
 pour ce grand homme !
 
 59
 00:02:53,984 --> 00:02:55,879
-{pos(105,260)}Il est là ! Le voilà !
+Il est là ! Le voilà !
 
 60
 00:02:56,286 --> 00:02:58,414
-{pos(110,260)}- Bonjour à tous...
+- Bonjour à tous...
 - N'en dites pas plus.
 
 61
 00:02:58,539 --> 00:03:01,219
-{pos(110,260)}Rendez-vous tous
+Rendez-vous tous
 dans la salle de pause,
 
 62
 00:03:01,344 --> 00:03:04,146
-{pos(110,260)}j'ai une surprise pour vous.
+j'ai une surprise pour vous.
 Allez, vous aussi...
 
 63
@@ -295,20 +295,20 @@ Je vais chercher le poisson.
 
 66
 00:03:15,447 --> 00:03:17,488
-{pos(115,260)}Tu aurais pu me dire qu'il venait.
+Tu aurais pu me dire qu'il venait.
 
 67
 00:03:17,656 --> 00:03:19,657
-{pos(110,260)}Je voulais pas vous rendre nerveux.
+Je voulais pas vous rendre nerveux.
 
 68
 00:03:19,825 --> 00:03:22,409
-{pos(110,260)}Non, mais j'aurais pu apporter
+Non, mais j'aurais pu apporter
 d'autres vêtements.
 
 69
 00:03:22,577 --> 00:03:25,579
-{pos(125,260)}T'es explosif.
+T'es explosif.
 De quoi tu parles ? Impeccable.
 
 70
@@ -317,7 +317,7 @@ OK, je vais prendre le poisson.
 
 71
 00:03:29,042 --> 00:03:31,766
-{pos(110,260)}Fondée en 1866,
+Fondée en 1866,
 Scranton devint vite
 
 72
@@ -327,11 +327,11 @@ cités minières de Pennsylvanie.
 
 73
 00:03:35,464 --> 00:03:36,414
-{pos(110,260)}Surprise !
+Surprise !
 
 74
 00:03:36,762 --> 00:03:38,050
-{pos(110,260)}Il n'y a rien ici.
+Il n'y a rien ici.
 
 75
 00:03:38,218 --> 00:03:41,470
@@ -344,11 +344,11 @@ OK, on y va !
 
 77
 00:03:43,810 --> 00:03:45,486
-{pos(110,260)}Je finirai plus tard, mais...
+Je finirai plus tard, mais...
 
 78
 00:03:45,611 --> 00:03:47,211
-{pos(110,260)}l'essentiel est que...
+l'essentiel est que...
 
 79
 00:03:48,059 --> 00:03:49,009
@@ -356,21 +356,21 @@ Surprise !
 
 80
 00:03:51,068 --> 00:03:52,868
-{pos(110,260)}Comme vous pouvez le voir,
+Comme vous pouvez le voir,
 
 81
 00:03:53,123 --> 00:03:56,173
-{pos(110,260)}j'ai transformé les bagels
+j'ai transformé les bagels
 d'O en C comme Charles.
 
 82
 00:03:58,363 --> 00:04:00,656
-{pos(110,260)}- Ça m'a pris la nuit.
+- Ça m'a pris la nuit.
 - C'était donc ça ?
 
 83
 00:04:00,824 --> 00:04:02,783
-{pos(110,260)}J'ai rencontré ce type au siège,
+J'ai rencontré ce type au siège,
 
 84
 00:04:02,951 --> 00:04:05,619
@@ -388,15 +388,15 @@ En plus, ses deux prédécesseurs
 
 87
 00:04:11,132 --> 00:04:12,543
-{pos(110,260)}étaient Jan et Ryan.
+étaient Jan et Ryan.
 
 88
 00:04:12,668 --> 00:04:14,661
-{pos(110,260)}La première était mon amante,
+La première était mon amante,
 
 89
 00:04:14,786 --> 00:04:17,536
-{pos(110,260)}et le second, mon meilleur ami.
+et le second, mon meilleur ami.
 Alors, qui sait ?
 
 90
