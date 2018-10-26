@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "ember build -prod",
-    "start": "open http://localhost:4200 && ember server",
+    "start": "ember server",
     "test": "ember test",
     "lint:ts": "tslint -c tslint.json 'src/**/*.ts' -t codeFrame"
   },
@@ -36,6 +36,7 @@
   },
   "private": true,
   "dependencies": {
-    "ember-cli-sass": "^8.0.1"
+    "ember-cli-sass": "^8.0.1",
+    "navigo": "^7.1.2"
   }
 }

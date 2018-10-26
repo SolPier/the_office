@@ -1,37 +1,25 @@
-<div class="container">
+<div class="container font-size-normal">
 
-  <div class="content text-normal">
+  <header class="site-header-container row d-flex flex-column align-items-center">
+    {{#if (eq this.route 'home')}}
+      <Header />
+    {{else}}
+      <a href="#/" class="site-header-container_link">
+        <Header />
+      </a>
+    {{/if}}
+  </header>
 
-    <header class="site-header">
-      <h1 class="site-title text-huge font-office">
-        The Office (US) VOSTFR
-      </h1>
-      <h2 class="site-subtitle text-normal">
-        Un site pour regarder la série "The Office" en VOSTFR
-      </h2>
-    </header>
-
-    <main class="site-main container-fluid">
-      <div class="row">
-        <div class="col-4 pl-0">
-          <section class="section-episodes-selection_container">
-            Lorem
-          </section>
-        </div>
-        <div class="col-8 pr-0">
-          <section class="section-episodes-selected_container">
-            Lorem aussi bro
-          </section>
-        </div>
-      </div>
-    </main>
-
-  </div>
-
-  <footer class="site-footer text-tiny d-flex justify-content-center">
-    <a href="https://fr.linkedin.com/in/sol-pieropan-534399159">auteur</a>
-    <span class="site-footer_separator">-</span>
-    <a href="https://github.com/SolPier/the-office">source</a>
-  </footer>
+  <main class="site-main-container container-fluid">
+    {{#if (eq this.route "home")}}
+      <PageHome />
+    {{else if (eq this.route "episodes")}}
+      <PageEpisodes />
+    {{else if (eq this.route "about-show")}}
+      <PageAboutShow />
+    {{else if (eq this.route "about-site")}}
+      <PageAboutSite />
+    {{/if}}
+  </main>
 
 </div>

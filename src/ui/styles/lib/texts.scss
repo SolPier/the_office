@@ -9,7 +9,7 @@ $font-main: 'Lato', sans-serif;
 
 // Placeholders pour @extend
 // References pour les dimensions: http://typecast.com/blog/a-more-modern-scale-for-web-typography
-%text-tiny {
+%font-size-tiny {
   @include media-breakpoints-set-values(font-size, (
       px10(xs) * 1.4,
       px10(sm) * 1.4,
@@ -26,7 +26,7 @@ $font-main: 'Lato', sans-serif;
   ));
 }
 
-%text-normal {
+%font-size-normal {
   @include media-breakpoints-set-values(font-size, (
       px10(xs) * 1.6,
       px10(sm) * 1.6,
@@ -43,7 +43,7 @@ $font-main: 'Lato', sans-serif;
   ));
 }
 
-%text-large {
+%font-size-large {
   @include media-breakpoints-set-values(font-size, (
       px10(xs) * 1.8,
       px10(sm) * 1.8,
@@ -60,7 +60,7 @@ $font-main: 'Lato', sans-serif;
   ));
 }
 
-%text-larger {
+%font-size-larger {
   @include media-breakpoints-set-values(font-size, (
       px10(xs) * 2.2,
       px10(sm) * 2.2,
@@ -77,7 +77,7 @@ $font-main: 'Lato', sans-serif;
   ));
 }
 
-%text-huge {
+%font-size-huge {
   @include media-breakpoints-set-values(font-size, (
       px10(xs) * 2.6,
       px10(sm) * 2.6,
@@ -94,7 +94,7 @@ $font-main: 'Lato', sans-serif;
   ));
 }
 
-%text-huger {
+%font-size-huger {
   @include media-breakpoints-set-values(font-size, (
       px10(xs) * 3.2,
       px10(sm) * 3.2,
@@ -112,30 +112,30 @@ $font-main: 'Lato', sans-serif;
 }
 
 // Classes de composition pour les textes
-.text-tiny {
-  @extend %text-tiny;
+.font-size-tiny {
+  @extend %font-size-tiny;
 }
 
-.text-normal {
-  @extend %text-normal;
+.font-size-normal {
+  @extend %font-size-normal;
 }
 
-.text-large {
-  @extend %text-large;
+.font-size-large {
+  @extend %font-size-large;
 }
 
-.text-larger {
-  @extend %text-larger;
+.font-size-larger {
+  @extend %font-size-larger;
 }
 
-.text-huge {
-  @extend %text-huge;
+.font-size-huge {
+  @extend %font-size-huge;
 }
 
-.text-huger {
-  @extend %text-huger;
+.font-size-huger {
+  @extend %font-size-huger;
 }
 
-.text-white {
+.font-size-white {
   color: $white;
 }

@@ -14,7 +14,6 @@ body {
   min-height: 100%;
 }
 
-
 a {
   color: inherit;
 
@@ -26,7 +25,8 @@ a {
 }
 
 ul,
-ol {
+ol,
+li {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -38,7 +38,7 @@ ol {
   font-family: SpecialElite;
 }
 
-.font-bold {
+.font-weight-bold {
   font-weight: bold;
 }
 
@@ -54,187 +54,67 @@ ol {
 
 .the-office-vostfr-site {
   background: $bg-color url('/images/group_photo.jpg') no-repeat center top;
-  background-size: 100%;
+  background-attachment: fixed;
+  background-size: cover;
   padding-bottom: 5.2rem;
-  padding-top: 16rem;
-}
-
-.content {
-  border-radius: .4rem;
+  padding-top: 14rem;
 }
 
 .site-header {
   background-color: $true-black;
-  border-top-left-radius: .4rem;
-  border-top-right-radius: .4rem;
+  border-radius: .4rem;
   color: $white;
-  padding: 4rem 5.2rem 2rem;
+  padding: 2.4rem 3.2rem 1.2rem;
 }
+
+.site-header-container {
+  margin-bottom: 1.6rem;
+}
+
+.site-header-container_link {
+  &:hover .site-header {
+    background-color: $white;
+    color: $black;
+  }
+}
+
+.site-main-container {
+  margin-bottom: .4rem;
+}
+
+//
+
+.page-links {
+  margin-top: -.8rem;
+}
+
+.page-link-container {
+  display: inline-block;
+  padding: .8rem 5.2rem;
+
+  &:hover .page-link {
+    background-color: $white;
+    color: $true-black;
+  }
+}
+
+.page-link {
+  background-color: $true-black;
+  border-radius: .4rem;
+  color: $white;
+  padding: .4rem 1.2rem;
+}
+
+//
 
 .site-main {
-  margin-bottom: .8rem;
-}
+  align-items: center;
+  display: flex;
+  flex-direction: column;
 
-.site-footer {
-  color: $grey-600;
+  span {
+    background-color: $white;
+    border-radius: .4rem;
+    padding: .4rem 1.2rem;
+  }
 }
-
-.site-footer_separator {
-  margin-left: .4rem;
-  margin-right: .4rem;
-}
-
-// //
-//
-// .intro_content {
-//   margin-bottom: 3.2rem;
-// }
-//
-// .intro_titles {
-//   margin-bottom: 2rem;
-//   padding-bottom: .4rem;
-//   padding-top: .4rem;
-//
-//   &:hover {
-//     .intro_action-show-intro {
-//       display: inline-block;
-//     }
-//   }
-// }
-//
-// .intro_title {
-//   display: inline-block;
-//   margin: 0;
-// }
-//
-// .intro_action-show-intro {
-//   color: $blue-700;
-//   display: none;
-//   padding-left: .8rem;
-//   padding-right: .8rem;
-// }
-//
-// .intro_content_text {
-//   margin-bottom: 2rem;
-// }
-//
-// //
-//
-// .episodes_title {
-//   margin-bottom: 1.2rem;
-// }
-//
-// .season_name {
-//   font-weight: 600;
-// }
-//
-// .season {
-//   margin-bottom: 1.2rem;
-// }
-//
-// //
-//
-// .episode.-episode-is-visible {
-//   margin-bottom: 2.4rem;
-//   padding-top: .8rem;
-//
-//   .episode_title {
-//     color: $blue-700;
-//   }
-//
-//   .episode_iframe {
-//     margin-bottom: 2rem;
-//     margin-top: 1.6rem;
-//   }
-// }
-//
-// .episode_action-show-episode {
-//   color: $blue-700;
-//   display: none;
-//   padding-left: .8rem;
-//   padding-right: .8rem;
-// }
-//
-// .episode_titles:hover .episode_action-show-episode {
-//   display: inline-block;
-// }
-//
-// .episode_iframe {
-//   background-color: $grey-700;
-//   height: 36rem;
-//   max-width: 100%;
-//   width: 64rem;
-// }
-//
-// //
-//
-// .copy {
-//   @include media-breakpoints-set-from-to(padding-left, 0 2rem);
-// }
-//
-// .copy_action-show-instructions {
-//   color: $blue-700;
-//   display: none;
-//   margin-left: 1.2rem;
-// }
-//
-// .copy:hover .copy_action-show-instructions {
-//   display: inline-block;
-// }
-//
-// //
-//
-// .copy-box_input {
-//   @include media-breakpoints-set-from-to(height, 3.2rem 2.4rem);
-//   @include media-breakpoints-set-from-to(line-height, 3.2rem 2.4rem);
-//
-//   border: 1px solid $grey-400;
-//   border-bottom-left-radius: .4rem;
-//   border-right: 0;
-//   border-top-left-radius: .4rem;
-//   box-shadow: inset 0 .1rem .2rem $grey-300;
-//   margin-left: .4rem;
-//   padding: 0 .8rem;
-//   width: 28rem;
-// }
-//
-// .copy-box_button-copy {
-//   @include media-breakpoints-set-from-to(height, 3.2rem 2.4rem);
-//
-//   background-color: $grey-200;
-//   border: .1rem solid $grey-400;
-//   border-bottom-right-radius: .4rem;
-//   border-top-right-radius: .4rem;
-//   box-shadow: inset -.1rem -.1rem .2rem $grey-300;
-//   color: $grey-600;
-//   padding: .1rem .8rem 0;
-//
-//   &:hover {
-//     color: $blue-700;
-//   }
-//
-//   &.-link-copied {
-//     color: $blue-500;
-//   }
-// }
-//
-// //
-//
-// .instructions_block {
-//   color: $blue-700;
-//   margin-top: 1.2rem;
-// }
-//
-// .instruction_line {
-//   line-height: 3.2rem;
-// }
-//
-// .instructions_subtitles-caption {
-//   border: .2rem solid $blue-700;
-//   height: 3.2rem;
-//   margin-left: .8rem;
-// }
-//
-// .instruction_link {
-//   color: $blue-200;
-// }
