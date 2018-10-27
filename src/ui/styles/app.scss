@@ -46,6 +46,10 @@ li {
   cursor: pointer;
 }
 
+.margin-b-0 {
+  margin-bottom: 0;
+}
+
 //
 
 .the-office-vostfr-site {
@@ -121,7 +125,7 @@ li {
 .text-page {
   background-color: $white;
   border-radius: .4rem;
-  padding: .4rem 2rem 1.6rem;
+  padding: 0 2rem 1.6rem;
   text-align: center;
 }
 
@@ -145,7 +149,7 @@ li {
 }
 
 .text-page_external-link {
-  background-color: $blue-200;
+  background-color: $blue-700;
   border-radius: .4rem;
   color: $white;
   padding: .4rem .8rem;
@@ -156,7 +160,96 @@ li {
   }
 
   &:hover {
-    background-color: $blue-300;
+    background-color: $blue-500;
     color: $white;
   }
+}
+
+//
+
+.episodes-selection {
+  background-color: $deep-blue;
+  border-radius: .4rem;
+  color: $grey-300;
+  margin-bottom: 2rem;
+  padding: 1.2rem 2rem 2.4rem;
+}
+
+.selected-epidsodes {
+  background-color: $white;
+  border-radius: .4rem;
+  margin-bottom: 2rem;
+  padding: 1.2rem 2rem;
+}
+
+.seasons-list {
+  margin-bottom: .8rem;
+  margin-top: 1.6rem;
+}
+
+.season-button {
+  align-items: center;
+  background-color: transparent;
+  color: $white;
+  display: inline-flex;
+  height: 3.6rem;
+  justify-content: center;
+  margin-bottom: .4rem;
+  padding: 0;
+  width: 4rem;
+
+  &.selected {
+    border: .1rem solid $white;
+  }
+
+  &:hover {
+    border: .1rem solid $white;
+  }
+}
+
+.episodes-list {
+  color: $grey-300;
+
+  &:hover {
+    color: lighten($deep-blue, 60%);
+  }
+}
+
+.episode-button {
+  background-color: transparent;
+
+  &:hover {
+    color: $grey-300;
+
+    .episode-button_selected {
+      visibility: visible;
+    }
+  }
+}
+
+.episode-button_selected,
+.episode-button_number,
+.episode-button_name {
+  padding: 0 .4rem;
+  vertical-align: top;
+}
+
+.episode-button_selected {
+  padding: 0;
+  visibility: hidden;
+}
+
+.episode-button_number {
+  text-align: right;
+}
+
+//
+
+.selected-epidsodes_title {
+  display: inline-block;
+}
+
+.selected-epidsodes_count.zero {
+  color: $grey-400;
+  margin-left: .4rem;
 }

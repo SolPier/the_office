@@ -1,12 +1,9 @@
 import Component, { tracked } from '@glimmer/component'
 import Navigo from 'navigo'
-import SeasonsData from './seasonsData.js'
 
 const router = new Navigo(null, true)
 
 export default class TheOffice extends Component {
-  seasonsData = SeasonsData
-
   @tracked route: string = 'home'
 
   constructor(options) {
