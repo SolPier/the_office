@@ -1,10 +1,10 @@
 <div class="container font-size-normal">
 
-  <header class="site-header-container row d-flex flex-column align-items-center">
+  <header class="site-header-container d-flex flex-column align-items-center">
     {{#if (eq this.route 'home')}}
       <Header />
     {{else}}
-      <a href="#/" class="site-header-container_link">
+      <a href="/" class="site-header-container_link">
         <Header />
       </a>
     {{/if}}
@@ -12,7 +12,7 @@
 
   <main class="site-main-container container-fluid">
     {{#if (eq this.route "home")}}
-      <PageHome />
+      <PageNavs />
     {{else if (eq this.route "episodes")}}
       <PageEpisodes />
     {{else if (eq this.route "about-show")}}

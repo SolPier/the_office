@@ -46,10 +46,6 @@ li {
   cursor: pointer;
 }
 
-.ember-view {
-  max-width: 100%;
-}
-
 //
 
 .the-office-vostfr-site {
@@ -57,7 +53,11 @@ li {
   background-attachment: fixed;
   background-size: cover;
   padding-bottom: 5.2rem;
-  padding-top: 14rem;
+  padding-top: 12.8rem;
+}
+
+.site-header-container {
+  margin-bottom: 1.6rem;
 }
 
 .site-header {
@@ -67,8 +67,9 @@ li {
   padding: 2.4rem 3.2rem 1.2rem;
 }
 
-.site-header-container {
-  margin-bottom: 1.6rem;
+.site-title,
+.site-subtitle {
+  text-align: center;
 }
 
 .site-header-container_link {
@@ -102,7 +103,9 @@ li {
   background-color: $true-black;
   border-radius: .4rem;
   color: $white;
+  display: inline-block;
   padding: .4rem 1.2rem;
+  text-align: center;
 }
 
 //
@@ -111,10 +114,49 @@ li {
   align-items: center;
   display: flex;
   flex-direction: column;
+}
 
-  span {
-    background-color: $white;
-    border-radius: .4rem;
-    padding: .4rem 1.2rem;
+//
+
+.text-page {
+  background-color: $white;
+  border-radius: .4rem;
+  padding: .4rem 2rem 1.6rem;
+  text-align: center;
+}
+
+.text-page_title-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.6rem;
+  margin-top: 2rem;
+}
+
+.text-page_title {
+  background-color: $black;
+  border-radius: .4rem;
+  color: $white;
+  padding: .8rem 1.2rem .4rem;
+}
+
+.text-page_text {
+  margin-bottom: 1.6rem;
+}
+
+.text-page_external-link {
+  background-color: $blue-200;
+  border-radius: .4rem;
+  color: $white;
+  padding: .4rem .8rem;
+  white-space: nowrap;
+
+  &:not(:last-child) {
+    margin-bottom: 1.2rem;
+  }
+
+  &:hover {
+    background-color: $blue-300;
+    color: $white;
   }
 }
