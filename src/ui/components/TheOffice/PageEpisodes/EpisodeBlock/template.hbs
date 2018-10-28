@@ -1,0 +1,16 @@
+<div class="episode-block">
+  <IconTimes
+    class="episode-block_close cursor-pointer"
+    onClick={{action @closeEpisode}}
+  />
+  <h3 class="episode-block_title">
+    S{{@episode.season}} e{{@episode.number}} - {{@episode.name}}
+  </h3>
+  {{@lastAddedEpisode.number}}
+  <iframe
+    src={{@episode.videoUrl}}
+    class="episode-block_iframe"
+    allowfullscreen="true"
+    scrolling="false"
+  />
+</div>

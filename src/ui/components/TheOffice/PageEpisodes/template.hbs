@@ -38,9 +38,17 @@
           <h2 class="selected-epidsodes-header_title font-weight-bold text-size-normal margin-b-0">
             Episodes selectionnés
           </h2>
-          <span class="selected-epidsodes-header_count{{if (eq this.selectedEpisodesCount 0) ' zero'}}">({{this.selectedEpisodesCount}})</span>
+          <span class="selected-epidsodes-header_count{{if (eq this.selectedEpisodesCount 0) ' zero'}}">
+            ({{this.selectedEpisodesCount}})
+          </span>
         </div>
 
+        {{#each this.selectedEpisodes key="@index" as |episode|}}
+          <EpisodeBlock
+            @episode={{episode}}
+            @closeEpisode={{action this.toggleEpisode episode}}
+          />
+        {{/each}}
       </section>
     </div>
 
