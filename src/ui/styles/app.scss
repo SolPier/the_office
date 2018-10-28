@@ -175,13 +175,6 @@ li {
   padding: 1.2rem 2rem 2.4rem;
 }
 
-.selected-epidsodes {
-  background-color: $white;
-  border-radius: .4rem;
-  margin-bottom: 2rem;
-  padding: 1.2rem 2rem;
-}
-
 .seasons-list {
   margin-bottom: .8rem;
   margin-top: 1.6rem;
@@ -209,6 +202,7 @@ li {
 
 .episodes-list {
   color: $grey-300;
+  margin-left: -.4rem;
 
   &:hover {
     color: lighten($deep-blue, 60%);
@@ -218,12 +212,17 @@ li {
 .episode-button {
   background-color: transparent;
 
-  &:hover {
+  &:hover,
+  &.selected {
     color: $grey-300;
 
     .episode-button_selected {
       visibility: visible;
     }
+  }
+
+  &.selected .episode-button_selected {
+    color: lighten($deep-blue, 60%);
   }
 }
 
@@ -245,11 +244,21 @@ li {
 
 //
 
-.selected-epidsodes_title {
+.selected-epidsodes-header {
+  background-color: $white;
+  border-radius: .4rem;
+  margin-bottom: 2rem;
+  padding: 1.2rem 2rem;
+}
+
+.selected-epidsodes-header_title {
   display: inline-block;
 }
 
-.selected-epidsodes_count.zero {
-  color: $grey-400;
+.selected-epidsodes-header_count {
   margin-left: .4rem;
+
+  &.zero {
+    color: $grey-400;
+  }
 }

@@ -9,20 +9,22 @@
         </h2>
 
         <ol class="seasons-list">
-          <SeasonButton @number="1" @selectedSeason={{this.selectedSeason}} onClick={{action this.selectEpisode 1}} />
-          <SeasonButton @number="2" @selectedSeason={{this.selectedSeason}} onClick={{action this.selectEpisode 2}} />
-          <SeasonButton @number="3" @selectedSeason={{this.selectedSeason}} onClick={{action this.selectEpisode 3}} />
-          <SeasonButton @number="4" @selectedSeason={{this.selectedSeason}} onClick={{action this.selectEpisode 4}} />
-          <SeasonButton @number="5" @selectedSeason={{this.selectedSeason}} onClick={{action this.selectEpisode 5}} />
-          <SeasonButton @number="6" @selectedSeason={{this.selectedSeason}} onClick={{action this.selectEpisode 6}} />
-          <SeasonButton @number="7" @selectedSeason={{this.selectedSeason}} onClick={{action this.selectEpisode 7}} />
-          <SeasonButton @number="8" @selectedSeason={{this.selectedSeason}} onClick={{action this.selectEpisode 8}} />
-          <SeasonButton @number="9" @selectedSeason={{this.selectedSeason}} onClick={{action this.selectEpisode 9}} />
+          {{#each this.seasonsNumbers key="@index" as |number|}}
+            <SeasonButton
+              @number={{number}}
+              @selectedSeason={{this.selectedSeason}}
+              onClick={{action this.selectSeason number}}
+            />
+          {{/each}}
         </ol>
 
         <table class="episodes-list">
           {{#each this.episodes key="@index" as |episode|}}
-            <EpisodeButton @episode={{episode}} />
+            <EpisodeButton
+              @episode={{episode}}
+              @selectedEpisodes={{this.selectedEpisodes}}
+              onClick={{action this.toggleEpisode episode}}
+            />
           {{/each}}
         </table>
 
@@ -31,10 +33,14 @@
 
     <div class="col-md-8">
       <section class="selected-epidsodes">
-        <h2 class="selected-epidsodes_title font-weight-bold text-size-normal margin-b-0">
-          Episodes selectionnés
-        </h2>
-        <span class="selected-epidsodes_count zero">(0)</span>
+
+        <div class="selected-epidsodes-header">
+          <h2 class="selected-epidsodes-header_title font-weight-bold text-size-normal margin-b-0">
+            Episodes selectionnés
+          </h2>
+          <span class="selected-epidsodes-header_count{{if (eq this.selectedEpisodesCount 0) ' zero'}}">({{this.selectedEpisodesCount}})</span>
+        </div>
+
       </section>
     </div>
 
