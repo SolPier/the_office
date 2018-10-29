@@ -44,7 +44,7 @@
         </div>
 
         {{#each this.selectedEpisodes key="@index" as |episode|}}
-          <EpisodeBlock
+          <EpisodePlayer
             @episode={{episode}}
             @closeEpisode={{action this.toggleEpisode episode}}
           />

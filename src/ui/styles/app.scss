@@ -263,22 +263,16 @@ li {
 
 //
 
-.episode-block {
+.episode-player {
   background-color: $white;
   border-radius: .4rem;
   margin-bottom: 2rem;
   padding: 1.2rem 2rem;
   position: relative;
   transition: background-color .5s;
-
-  &.isNew {
-    // animation-duration: 1s;
-    // animation-name: hightlightLastAddedEpisode;
-    background-color: $blue-200;
-  }
 }
 
-.episode-block_close {
+.episode-player_close {
   align-items: center;
   color: lighten($deep-blue, 20%);
   display: flex;
@@ -291,14 +285,33 @@ li {
   width: 4.4rem;
 }
 
-.episode-block_iframe {
+.episode-player_iframe {
   background-color: $grey-700;
   height: 27rem;
   max-width: 100%;
   width: 48rem;
 }
 
-@keyframes hightlightLastAddedEpisode {
-  from {background-color: $blue-200;}
-  to {background-color: $white;}
+.copy-box {
+  max-width: 48rem;
+}
+
+.copy-box_input {
+  border: .1rem solid $grey-500;
+  border-bottom-left-radius: .4rem;
+  border-right: 0;
+  border-top-left-radius: .4rem;
+  overflow: hidden;
+  padding: .2rem .8rem;
+  text-overflow: ellipsis;
+}
+
+.copy-box_button-copy {
+  background-color: $true-black;
+  border: .1rem solid transparent;
+  border-bottom-right-radius: .4rem;
+  border-top-right-radius: .4rem;
+  color: $white;
+  padding: .2rem .8rem;
+  white-space: nowrap;
 }

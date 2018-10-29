@@ -1,0 +1,23 @@
+<div class="copy-box d-flex align-items-center">
+  <input
+    id={{this.UId}}
+    class="copy-box_input"
+    type="text"
+    name="{{this.UId}}-track"
+    value={{this.subtitlesPath}}
+    readonly={{true}}
+  >
+  {{#if this.hasCopiedLink}}
+    <span class="copy-box_button-copy -link-copied text-tiny cursor-pointer">
+      Lien copié !
+    </span>
+  {{else}}
+    <span
+      class="copy-box_button-copy -action-copy-link text-tiny cursor-pointer"
+      role="button"
+      onClick={{action this.copySubtitlesLinkToClipboard}}
+    >
+      Copier le lien des sous titres
+    </span>
+  {{/if}}
+</div>

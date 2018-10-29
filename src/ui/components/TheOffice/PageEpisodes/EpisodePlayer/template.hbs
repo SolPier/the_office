@@ -1,16 +1,20 @@
-<div class="episode-block">
+<div class="episode-player">
   <IconTimes
-    class="episode-block_close cursor-pointer"
+    class="episode-player_close cursor-pointer"
     onClick={{action @closeEpisode}}
   />
-  <h3 class="episode-block_title">
+
+  <h3 class="episode-player_title">
     S{{@episode.season}} e{{@episode.number}} - {{@episode.name}}
   </h3>
   {{@lastAddedEpisode.number}}
+
   <iframe
     src={{@episode.videoUrl}}
-    class="episode-block_iframe"
+    class="episode-player_iframe"
     allowfullscreen="true"
     scrolling="false"
   />
+
+  <CopyBox @episode={{@episode}} />
 </div>

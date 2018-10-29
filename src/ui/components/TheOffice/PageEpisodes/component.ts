@@ -18,6 +18,11 @@ export default class PageEpisodes extends Component {
     return this.selectedEpisodes.length
   }
 
+  constructor(options) {
+    super(options)
+    this.selectedEpisodes = [this.seasons[1].episodes[7]]
+  }
+
   selectSeason(number) {
     this.selectedSeason = number
   }
