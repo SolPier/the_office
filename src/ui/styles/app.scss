@@ -1,5 +1,4 @@
 @import 'lib/bootstrap';
-@import 'lib/font-awesome';
 @import 'lib/mixins';
 @import 'lib/rem-scale';
 @import 'lib/texts';
@@ -139,7 +138,7 @@ li {
 }
 
 .text-page_title {
-  background-color: $black;
+  background-color: $true-black;
   border-radius: .4rem;
   color: $white;
   padding: .8rem 1.2rem .4rem;
@@ -267,27 +266,44 @@ li {
   background-color: $white;
   border-radius: .4rem;
   margin-bottom: 2rem;
-  padding: 1.2rem 2rem;
   position: relative;
-  transition: background-color .5s;
 }
 
-.episode-player_close {
-  align-items: center;
-  color: lighten($deep-blue, 20%);
+.episode-player_main {
+  padding: 1.2rem 2rem 1.6rem;
+}
+
+.episode-player_actions {
   display: flex;
-  height: 4.4rem;
-  justify-content: center;
-  padding: 1.2rem;
   position: absolute;
   right: 0;
   top: 0;
-  width: 4.4rem;
+}
+
+.episode-player_action {
+  align-items: center;
+  color: lighten($deep-blue, 20%);
+  display: flex;
+  justify-content: center;
+
+  &.action-close {
+    height: 4.4rem;
+    padding: 1.2rem;
+    padding-left: .8rem;
+    width: 4rem;
+  }
+
+  &.action-help {
+    height: 4.4rem;
+    padding: 1.2rem .4rem;
+    width: 3.6rem;
+  }
 }
 
 .episode-player_iframe {
   background-color: $grey-700;
   height: 27rem;
+  margin-bottom: .8rem;
   max-width: 100%;
   width: 48rem;
 }
@@ -314,4 +330,26 @@ li {
   color: $white;
   padding: .2rem .8rem;
   white-space: nowrap;
+}
+
+.episode-player_help {
+  background-color: $blue-200;
+  border-bottom-left-radius: .4rem;
+  border-bottom-right-radius: .4rem;
+  padding: 2rem;
+}
+
+.help-instruction_line {
+  margin-bottom: .2rem;
+  margin-top: .2rem;
+}
+
+.help-instructions_subtitles-caption {
+  height: 2.4rem;
+  margin-left: .8rem;
+}
+
+.help-instruction_link {
+  color: $blue-900;
+  font-weight: bold;
 }

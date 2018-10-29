@@ -18,11 +18,6 @@ export default class PageEpisodes extends Component {
     return this.selectedEpisodes.length
   }
 
-  constructor(options) {
-    super(options)
-    this.selectedEpisodes = [this.seasons[1].episodes[7]]
-  }
-
   selectSeason(number) {
     this.selectedSeason = number
   }
@@ -34,7 +29,7 @@ export default class PageEpisodes extends Component {
       })
     } else {
       this.selectedEpisodes = this.selectedEpisodes
-        .concat([episode])
+        .concat([episode]) // check spread operator
         .sort((e1, e2) => {
           return (e1.id < e2.id ? -1 : 1)
         })

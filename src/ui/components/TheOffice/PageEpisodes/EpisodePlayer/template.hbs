@@ -1,20 +1,35 @@
 <div class="episode-player">
-  <IconTimes
-    class="episode-player_close cursor-pointer"
-    onClick={{action @closeEpisode}}
-  />
 
-  <h3 class="episode-player_title">
-    S{{@episode.season}} e{{@episode.number}} - {{@episode.name}}
-  </h3>
-  {{@lastAddedEpisode.number}}
+  <div class="episode-player_actions">
+    <IconQuestion
+      class="episode-player_action action-help cursor-pointer"
+      onClick={{action this.toggleHelpPanel}}
+    />
+    <IconTimes
+      class="episode-player_action action-close cursor-pointer"
+      onClick={{action @closeEpisode}}
+    />
+  </div>
 
-  <iframe
-    src={{@episode.videoUrl}}
-    class="episode-player_iframe"
-    allowfullscreen="true"
-    scrolling="false"
-  />
+  <div class="episode-player_main">
+    <h3 class="episode-player_title">
+      S{{@episode.season}} e{{@episode.number}} - {{@episode.name}}
+    </h3>
 
-  <CopyBox @episode={{@episode}} />
+    <iframe
+      src={{@episode.videoUrl}}
+      class="episode-player_iframe"
+      allowfullscreen="true"
+      scrolling="false"
+    />
+
+    <CopyBox @episode={{@episode}} />
+  </div>
+
+  {{#if this.helpIsDisplayed}}
+    <div class="episode-player_help">
+      <HelpInstructions />
+    </div>
+  {{/if}}
+
 </div>

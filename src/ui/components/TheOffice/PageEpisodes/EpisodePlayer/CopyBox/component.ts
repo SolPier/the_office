@@ -4,13 +4,13 @@ export default class CopyBox extends Component {
   @tracked hasCopiedLink = false
 
   UId = `subtitles-s${this.args.seasonNumber}e${this.args.episodeNumber}`
-  currentUrl = window.location.href
+  currentUrl = window.location.origin
 
   @tracked
   get subtitlesPath() {
     const e = this.args.episode
     const version = e.subtitlesVersion ? `-v${e.subtitlesVersion}` : ''
-    return `${this.currentUrl}subtitles/s${e.season}/e${e.number}${version}.srt`
+    return `${this.currentUrl}/subtitles/s${e.season}/e${e.number}${version}.srt`
   }
 
   deselectAll() {
