@@ -4,5 +4,4 @@ Un simple site / page pour permettre à mes proches de visionner la série "The 
 
 ## Stack
 
-L'app est en emberJs destiné à être build pour servir le site en statique.
-L'url de prod sera affichée prochainement.
+L'app est en glimmer destiné à être build pour servir le site en statique.
