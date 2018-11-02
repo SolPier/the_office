@@ -1,0 +1,19 @@
+<div class="container text-size-normal">
+
+  <header class="site-header-container d-flex flex-column align-items-center">
+
+    {{#if (eq this.router.currentRouteName "navigation")}}
+      <SiteHeader />
+    {{else}}
+      <a href="/" class="site-header-container_link">
+        <SiteHeader />
+      </a>
+    {{/if}}
+
+  </header>
+
+  <main class="site-main-container container-fluid">
+    {{outlet}}
+  </main>
+
+</div>
