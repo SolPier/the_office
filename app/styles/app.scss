@@ -125,8 +125,12 @@ li {
 .text-page {
   background-color: $white;
   border-radius: .4rem;
-  padding: 0 2rem 1.6rem;
+  padding: 1.6rem 2rem 0;
   text-align: center;
+}
+
+.text-page_paragraph {
+  margin-bottom: 2.4rem;
 }
 
 .text-page_title-container {
@@ -134,7 +138,6 @@ li {
   display: flex;
   flex-direction: column;
   margin-bottom: 1.6rem;
-  margin-top: 2rem;
 }
 
 .text-page_title {
