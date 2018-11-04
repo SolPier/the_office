@@ -19,13 +19,15 @@
         </ol>
 
         <table class="episodes-list">
-          {{#each this.episodes as |episode|}}
-            <EpisodeButton
-              @episode={{episode}}
-              @selectedEpisodes={{this.selectedEpisodes}}
-              onClick={{action this.toggleEpisode episode}}
-            />
-          {{/each}}
+          <tbody>
+            {{#each this.episodes as |episode|}}
+              <EpisodeButton
+                @episode={{episode}}
+                @selectedEpisodes={{this.selectedEpisodes}}
+                onClick={{action this.toggleEpisode episode}}
+              />
+            {{/each}}
+          </tbody>
         </table>
 
       </section>
@@ -35,10 +37,14 @@
       <section class="selected-epidsodes">
 
         <div class="selected-epidsodes-header">
-          <h2 class="selected-epidsodes-header_title font-weight-bold text-size-normal margin-b-0">
+          <h2
+            class="selected-epidsodes-header_title font-weight-bold text-size-normal margin-b-0"
+          >
             Episodes selectionnés
           </h2>
-          <span class="selected-epidsodes-header_count{{if (eq this.selectedEpisodesCount 0) ' zero'}}">
+          <span
+            class="selected-epidsodes-header_count{{if (eq this.selectedEpisodesCount 0) " zero"}}"
+          >
             ({{this.selectedEpisodesCount}})
           </span>
         </div>
