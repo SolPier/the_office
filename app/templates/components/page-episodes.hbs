@@ -1,0 +1,62 @@
+<div class="site-main d-block">
+  <div class="row">
+
+    <div class="col-md-4">
+      <section class="episodes-selection">
+
+        <h2 class="font-weight-bold text-size-normal">
+          Selection des épisodes
+        </h2>
+
+        <ol class="seasons-list">
+          {{#each this.seasonsNumbers as |number|}}
+            <SeasonButton
+              @number={{number}}
+              @selectedSeason={{this.selectedSeason}}
+              onClick={{action this.selectSeason number}}
+            />
+          {{/each}}
+        </ol>
+
+        <table class="episodes-list">
+          <tbody>
+            {{#each this.episodes as |episode|}}
+              <EpisodeButton
+                @episode={{episode}}
+                @selectedEpisodes={{this.selectedEpisodes}}
+                onClick={{action this.toggleEpisode episode}}
+              />
+            {{/each}}
+          </tbody>
+        </table>
+
+      </section>
+    </div>
+
+    <div class="col-md-8">
+      <section class="selected-epidsodes">
+
+        <div class="selected-epidsodes-header">
+          <h2
+            class="selected-epidsodes-header_title font-weight-bold text-size-normal margin-b-0"
+          >
+            Episodes selectionnés
+          </h2>
+          <span
+            class="selected-epidsodes-header_count{{if (eq this.selectedEpisodesCount 0) " zero"}}"
+          >
+            ({{this.selectedEpisodesCount}})
+          </span>
+        </div>
+
+        {{#each this.selectedEpisodes key="@index" as |episode|}}
+          <EpisodePlayer
+            @episode={{episode}}
+            @closeEpisode={{action this.toggleEpisode episode}}
+          />
+        {{/each}}
+      </section>
+    </div>
+
+  </div>
+</div>
