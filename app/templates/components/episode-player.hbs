@@ -3,7 +3,7 @@
   <div class="episode-player_actions">
     <IconQuestion
       class="episode-player_action action-help cursor-pointer"
-      onClick={{action this.toggleHelpPanel}}
+      onClick={{action this.toggleHelp}}
     />
     <IconTimes
       class="episode-player_action action-close cursor-pointer"
@@ -23,7 +23,7 @@
       scrolling="false"
     />
 
-    <CopyBox @episode={{@episode}} />
+    <CopyBox @episode={{@episode}} @toggleHelp={{action this.toggleHelp}} />
   </div>
 
   {{#if this.helpIsDisplayed}}

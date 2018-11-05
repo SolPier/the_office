@@ -14,7 +14,7 @@ export default class CopyBox extends Component {
 
   @tracked('args')
   get UId() {
-    return `subtitles-s${this.args.seasonNumber}e${this.args.episodeNumber}`
+    return `subtitles-s${this.args.episode.season}e${this.args.episode.number}`
   }
 
   deselectAll() {
