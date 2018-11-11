@@ -9,18 +9,18 @@
         </h2>
 
         <ol class="seasons-list">
-          {{#each this.seasonsNumbers as |number|}}
+          {{#each this.seasonsNumbers as |seasonNumber|}}
             <SeasonButton
-              @number={{number}}
+              @number={{seasonNumber}}
               @selectedSeason={{this.selectedSeason}}
-              onClick={{action this.selectSeason number}}
+              onClick={{action this.selectSeason seasonNumber}}
             />
           {{/each}}
         </ol>
 
         <table class="episodes-list">
           <tbody>
-            {{#each this.episodes as |episode|}}
+            {{#each this.displayedEpisodes as |episode|}}
               <EpisodeButton
                 @episode={{episode}}
                 @selectedEpisodes={{this.selectedEpisodes}}

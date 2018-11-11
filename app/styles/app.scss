@@ -266,11 +266,18 @@ li {
 //
 
 .episode-player {
-  background-color: $white;
+  background-color: $blue-400;
   border-radius: .4rem;
   color: $true-black;
   margin-bottom: 2rem;
   position: relative;
+  transition: background-color 0s;
+  transition-timing-function: ease-in;
+
+  &.-isOld {
+    background-color: $white;
+    transition: background-color .4s;
+  }
 }
 
 .episode-player_main {
