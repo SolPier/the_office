@@ -1,3 +1,9 @@
+// episodes sources:
+//   https://watchtheoffice.online
+//   https://www.youwatch-series.com/the-office-us-streaming-gratuit-R4ISE00.html
+//   https://www4.voirfilms.ws/recherche?story=the+office
+//   https://www0.1putlocker.io/series/the-office/
+
 export default [
   {
     number: 1,
