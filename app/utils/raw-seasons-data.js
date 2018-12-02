@@ -154,31 +154,31 @@ export default [
   {
     number: 7,
     episodes: [
-      { number: 1,  name: 'Nepotism',                            videoUrl: 'https://openload.co/embed/rtOSJjOs19w/S07E01.mkv.mp4' }, // sync
-      { number: 2,  name: 'Counseling',                          videoUrl: 'https://openload.co/embed/z2QVZviRb6g/S07E02.mkv.mp4' }, // sync
-      { number: 3,  name: 'Andy\'s Play',                        videoUrl: 'https://openload.co/embed/jmh2HjD4fwI/S07E03.mkv.mp4' }, // sync
-      { number: 4,  name: 'Sex Ed',                              videoUrl: 'https://openload.co/embed/hcVzPz9GviQ/S07E04.mkv.mp4' }, // sync
-      { number: 5,  name: 'The Sting',                           videoUrl: 'https://openload.co/embed/a2hWBRGJHB4/S07E05.mkv.mp4' }, // sync
-      { number: 6,  name: 'Costume Contest',                     videoUrl: 'https://openload.co/embed/LwR31aNLVdY/'               }, // sync
-      { number: 7,  name: 'Christening',                         videoUrl: 'https://openload.co/embed/nujEt4h4Yt8/'               }, // sync
-      { number: 8,  name: 'Viewing Party',                       videoUrl: 'https://openload.co/embed/obQobRmH_Ns/S07E08.mkv.mp4' }, // sync
-      { number: 9,  name: 'WUPHF.com',                           videoUrl: 'https://openload.co/embed/bWWlK9pocmc/S07E09.mkv.mp4' }, // sync
-      { number: 10, name: 'China',                               videoUrl: 'https://openload.co/embed/bVRTbv21HNs/S07E10.mkv.mp4' }, // sync
-      { number: 11, name: 'Classy Christmas, Part 1',            videoUrl: 'https://openload.co/embed/m5GJyT_kC4I/S07E11.mkv.mp4' }, // sync
-      { number: 12, name: 'Classy Christmas, Part 2',            videoUrl: 'https://openload.co/embed/L_Ak1T_RRIg/S07E12.mkv.mp4' }, // sync
-      { number: 13, name: 'Ultimatum',                           videoUrl: 'https://openload.co/embed/FR_832Mn4A4/S07E13.mkv.mp4' }, // sync
-      { number: 14, name: 'The Seminar',                         videoUrl: 'https://openload.co/embed/Sqm4hKUwdXk/S07E14.mkv.mp4' }, // sync
-      { number: 15, name: 'The Search',                          videoUrl: 'https://openload.co/embed/IhpA4za-iQA/S07E15.mkv.mp4' }, // sync
-      { number: 16, name: 'PDA',                                 videoUrl: 'https://openload.co/embed/3OLpflOxgIk/S07E16.mkv.mp4' }, // sync
-      { number: 17, name: 'Threat Level Midnight',               videoUrl: 'https://openload.co/embed/Xjzs8d0Djnk/S07E17.mkv.mp4' }, // sync
-      { number: 18, name: 'Todd Packer',                         videoUrl: 'https://openload.co/embed/YChchctoNMc/S07E18.mkv.mp4' }, // sync
-      { number: 19, name: 'Garage Sale',                         videoUrl: 'https://openload.co/embed/qxzB86EFxEs/S07E19.mkv.mp4' }, // sync
-      { number: 20, name: 'Training Day',                        videoUrl: 'https://openload.co/embed/IY6iAKQvHLg/S07E20.mkv.mp4' }, // sync
-      { number: 21, name: 'Michael\'s Last Dundies',             videoUrl: 'https://openload.co/embed/Nldez3t6ZAg/S07E21.mkv.mp4' }, // sync
-      { number: 22, name: 'Goodbye, Michael',                    videoUrl: 'https://openload.co/embed/7yLPwDSIzmQ/S07E22.mkv.mp4' }, // sync
-      { number: 23, name: 'The Inner Circle',                    videoUrl: 'https://openload.co/embed/A9Z1G3ldM7Y/S07E23.mkv.mp4' }, // sync
+      { number: 1,  name: 'Nepotism',                            videoUrl: 'https://openload.co/embed/rtOSJjOs19w/S07E01.mkv.mp4' },
+      { number: 2,  name: 'Counseling',                          videoUrl: 'https://openload.co/embed/z2QVZviRb6g/S07E02.mkv.mp4' },
+      { number: 3,  name: 'Andy\'s Play',                        videoUrl: 'https://openload.co/embed/jmh2HjD4fwI/S07E03.mkv.mp4' },
+      { number: 4,  name: 'Sex Ed',                              videoUrl: 'https://openload.co/embed/hcVzPz9GviQ/S07E04.mkv.mp4' },
+      { number: 5,  name: 'The Sting',                           videoUrl: 'https://openload.co/embed/a2hWBRGJHB4/S07E05.mkv.mp4' },
+      { number: 6,  name: 'Costume Contest',                     videoUrl: 'https://openload.co/embed/LwR31aNLVdY/'               },
+      { number: 7,  name: 'Christening',                         videoUrl: 'https://openload.co/embed/nujEt4h4Yt8/'               },
+      { number: 8,  name: 'Viewing Party',                       videoUrl: 'https://openload.co/embed/obQobRmH_Ns/S07E08.mkv.mp4' },
+      { number: 9,  name: 'WUPHF.com',                           videoUrl: 'https://openload.co/embed/bWWlK9pocmc/S07E09.mkv.mp4' },
+      { number: 10, name: 'China',                               videoUrl: 'https://openload.co/embed/bVRTbv21HNs/S07E10.mkv.mp4' },
+      { number: 11, name: 'Classy Christmas, Part 1',            videoUrl: 'https://openload.co/embed/m5GJyT_kC4I/S07E11.mkv.mp4' },
+      { number: 12, name: 'Classy Christmas, Part 2',            videoUrl: 'https://openload.co/embed/L_Ak1T_RRIg/S07E12.mkv.mp4' },
+      { number: 13, name: 'Ultimatum',                           videoUrl: 'https://openload.co/embed/FR_832Mn4A4/S07E13.mkv.mp4' },
+      { number: 14, name: 'The Seminar',                         videoUrl: 'https://openload.co/embed/Sqm4hKUwdXk/S07E14.mkv.mp4' },
+      { number: 15, name: 'The Search',                          videoUrl: 'https://openload.co/embed/IhpA4za-iQA/S07E15.mkv.mp4' },
+      { number: 16, name: 'PDA',                                 videoUrl: 'https://openload.co/embed/3OLpflOxgIk/S07E16.mkv.mp4' },
+      { number: 17, name: 'Threat Level Midnight',               videoUrl: 'https://openload.co/embed/Xjzs8d0Djnk/S07E17.mkv.mp4' },
+      { number: 18, name: 'Todd Packer',                         videoUrl: 'https://openload.co/embed/YChchctoNMc/S07E18.mkv.mp4' },
+      { number: 19, name: 'Garage Sale',                         videoUrl: 'https://openload.co/embed/qxzB86EFxEs/S07E19.mkv.mp4' },
+      { number: 20, name: 'Training Day',                        videoUrl: 'https://openload.co/embed/IY6iAKQvHLg/S07E20.mkv.mp4' },
+      { number: 21, name: 'Michael\'s Last Dundies',             videoUrl: 'https://openload.co/embed/Nldez3t6ZAg/S07E21.mkv.mp4' },
+      { number: 22, name: 'Goodbye, Michael',                    videoUrl: 'https://openload.co/embed/7yLPwDSIzmQ/S07E22.mkv.mp4' },
+      { number: 23, name: 'The Inner Circle',                    videoUrl: 'https://openload.co/embed/A9Z1G3ldM7Y/S07E23.mkv.mp4' },
       { number: 24, name: 'Dwight K. Schrute, (Acting) Manager', videoUrl: 'https://openload.co/embed/WPFIPn0IqQk/S07E24.mkv.mp4' },
-      { number: 25, name: 'Search Committee, Part1',             videoUrl: 'https://openload.co/embed/zagHQFVBMeI/S07E25.mkv.mp4' }, // sync
+      { number: 25, name: 'Search Committee, Part1',             videoUrl: 'https://openload.co/embed/zagHQFVBMeI/S07E25.mkv.mp4' },
       { number: 26, name: 'Search Committee, Part2',             videoUrl: 'https://openload.co/embed/QbeL3VfNY6o/S07E26.mkv.mp4' }
     ]
   },
