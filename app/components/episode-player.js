@@ -1,4 +1,4 @@
-import Component, { tracked } from 'sparkles-component'
+import Component from 'sparkles-component'
 
 export default class EpisodeBlock extends Component {
   toggleHelp() {
