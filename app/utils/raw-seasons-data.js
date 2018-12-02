@@ -148,7 +148,7 @@ export default [
       { number: 23,    name: 'Body Language',        videoUrl: 'https://openload.co/embed/CeoI0jQfBQk/S06E23.mkv.mp4'     },
       { number: 24,    name: 'The Cover-Up',         videoUrl: 'https://openload.co/embed/ByEw95tZpCo/S06E24.mkv.mp4'     },
       { number: 25,    name: 'The Chump',            videoUrl: 'https://openload.co/embed/UWnOTnW_VDM/'                   },
-      { number: 26,    name: 'Whistleblower',        videoUrl: 'https://openload.co/embed/2u8AuCFdn_4/S06E26.mkv.mp4'     }
+      { number: 26,    name: 'Whistleblower',        videoUrl: 'https://openload.co/embed/KC-wgI0FL5o/'                   }
     ]
   },
   {
