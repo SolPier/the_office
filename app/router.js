@@ -7,7 +7,7 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
-  this.route('navigation', { path: '/' });
+  this.route('home', { path: '/' });
   this.route('about-show');
   this.route('episodes');
   this.route('about-site');
