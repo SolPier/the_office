@@ -17,11 +17,16 @@ module('Application | navigation', function(hooks) {
     assert.equal(find('.text-page_title').textContent.trim(), "C'est quoi cette série ?", 'the first page title is displayed')
   });
 
-  test("we can navigate from the main page and return", async function(assert) {
-    await visit('/');
-    assert.equal(find('a.-link-about-show').pathname, '/about-show', "'about-show' navigation link is displayed")
-    await visit('/about-show');
-    assert.equal(find('a.site-header-container_link').pathname, '/', "'/' navigation link is displayed on 'about-show'")
-    assert.equal(find('a.site-header-container_link .site-title').textContent.trim(), 'The Office (US) VOSTFR', "'/' navigation link has the right text on 'about-show'")
+  module('links', function() {
+    test("we can navigate from the main page to the other pages", async function(assert) {
+      await visit('/');
+      assert.equal(find('a.-link-about-show').pathname, '/about-show', "'about-show' navigation link is displayed")
+    });
+
+    test("we can return to the main page from 'about-show'", async function(assert) {
+      await visit('/about-show');
+      assert.equal(find('a.site-header-container_link').pathname, '/', "'/' navigation link is displayed on 'about-show'")
+      assert.equal(find('a.site-header-container_link .site-title').textContent.trim(), 'The Office (US) VOSTFR', "'/' navigation link has the right text on 'about-show'")
+    });
   });
 });
