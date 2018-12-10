@@ -93,17 +93,17 @@ li {
   margin-top: -.8rem;
 }
 
-.page-link-container {
+.page-link {
   display: inline-block;
   padding: .8rem 5.2rem;
 
-  &:hover .page-link {
+  &:hover .page-link-text {
     background-color: $white;
     color: $true-black;
   }
 }
 
-.page-link {
+.page-link-text {
   background-color: $true-black;
   border-radius: .4rem;
   color: $white;
