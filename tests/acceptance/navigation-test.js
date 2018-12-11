@@ -2,7 +2,7 @@ import { module, test } from 'qunit';
 import { currentURL, find, visit } from '@ember/test-helpers';
 import { setupApplicationTest } from 'ember-qunit';
 
-module('Application | Pages access', function(hooks) {
+module('Application | pages access', function(hooks) {
   setupApplicationTest(hooks);
 
   async function assertPageAccess(assert, pageUrl) {
@@ -31,7 +31,7 @@ module('Application | Pages access', function(hooks) {
   });
 });
 
-module('Application | Navigation links', function(hooks) {
+module('Application | navigation links', function(hooks) {
   setupApplicationTest(hooks);
 
   test("we can navigate from the main page to the other pages", async function(assert) {
