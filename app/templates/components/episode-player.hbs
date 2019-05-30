@@ -1,11 +1,11 @@
 <div class="episode-player{{if @episode.hasJustBeenSelected "" " -isOld"}}">
 
   <div class="episode-player_actions">
-    <IconQuestion
+    <Icons::Question
       class="episode-player_action action-help cursor-pointer"
       onClick={{action this.toggleHelp}}
     />
-    <IconTimes
+    <Icons::Times
       class="episode-player_action action-close cursor-pointer"
       onClick={{action @closeEpisode}}
     />
