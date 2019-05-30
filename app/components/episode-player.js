@@ -1,6 +1,8 @@
-import Component from 'sparkles-component'
+import Component from '@glimmer/component'
+import { action } from '@ember/object'
 
-export default class EpisodeBlock extends Component {
+export default class EpisodePlayer extends Component {
+  @action
   toggleHelp() {
     this.args.episode.toggleHelp()
   }

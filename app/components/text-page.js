@@ -1,4 +1,3 @@
-import Component from 'sparkles-component'
+import Component from '@glimmer/component'
 
-export default class TextPage extends Component {
-}
+export default class TextPageComponent extends Component {}

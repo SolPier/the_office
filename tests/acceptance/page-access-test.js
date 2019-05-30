@@ -2,7 +2,7 @@ import { module, test } from 'qunit';
 import { currentURL, find, visit } from '@ember/test-helpers';
 import { setupApplicationTest } from 'ember-qunit';
 
-module('Application | pages access', function(hooks) {
+module('Acceptance | pages access', function(hooks) {
   setupApplicationTest(hooks);
 
   async function assertPageAccess(assert, pageUrl) {

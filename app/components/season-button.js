@@ -1,7 +1,6 @@
-import Component, { tracked } from 'sparkles-component'
+import Component from '@glimmer/component'
 
 export default class SeasonButton extends Component {
-  @tracked('args')
   get isSelected() {
     return this.args.number == this.args.selectedSeason
   }

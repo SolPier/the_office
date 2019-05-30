@@ -2,7 +2,7 @@ import { module, test } from 'qunit';
 import { find, visit } from '@ember/test-helpers';
 import { setupApplicationTest } from 'ember-qunit';
 
-module('Application | navigation links', function(hooks) {
+module('Acceptance | navigation links', function(hooks) {
   setupApplicationTest(hooks);
 
   test("we can navigate from the main page to the other pages", async function(assert) {

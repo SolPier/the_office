@@ -1,22 +1,23 @@
-import Component, { tracked } from 'sparkles-component'
+import Component from '@glimmer/component'
+import { tracked } from '@glimmer/tracking'
+import { action } from '@ember/object'
 
 export default class CopyBox extends Component {
   @tracked hasCopiedLink = false
 
   currentUrl = window.location.origin
 
-  @tracked('args')
   get subtitlesPath() {
     const e = this.args.episode
     const version = e.subtitlesVersion ? `-v${e.subtitlesVersion}` : ''
     return `${this.currentUrl}/subtitles/s${e.season}/e${e.number}${version}.srt`
   }
 
-  @tracked('args')
   get UId() {
     return `subtitles-s${this.args.episode.season}e${this.args.episode.number}`
   }
 
+  @action
   deselectAll() {
     let element = document.activeElement;
 
@@ -34,6 +35,7 @@ export default class CopyBox extends Component {
     }
   }
 
+  @action
   copySubtitlesLinkToClipboard() {
     document.getElementById(this.UId).select()
     document.execCommand("copy")
