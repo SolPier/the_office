@@ -1,5 +1,6 @@
 import EmberObject from '@ember/object';
 import { task, timeout } from 'ember-concurrency';
+import { tracked } from '@glimmer/tracking'
 
 export default EmberObject.extend({
   // const data
@@ -10,27 +11,27 @@ export default EmberObject.extend({
   videoUrl: null,
   subtitlesVersion: null,
 
-  // state data
-  displayingHelp: false,
-  hasJustBeenSelected: true,
+  // mutable data
+  @tracked isDisplayingHelp: false,
+  @tracked hasJustBeenSelected: true,
 
   declareEpisodeAsSelected() {
-    this.set('hasJustBeenSelected', true)
+    this.hasJustBeenSelected = true
     this.ageSelectionStatus.perform()
   },
 
   declareEpisodeAsUnselected() {
-    this.set('hasJustBeenSelected', false)
-    this.set('displayingHelp', false)
+    this.hasJustBeenSelected = false
+    this.isDisplayingHelp = false
   },
 
   toggleHelp() {
-    this.set('displayingHelp', !this.displayingHelp)
+    this.isDisplayingHelp = !this.isDisplayingHelp
   },
 
   ageSelectionStatus: task(function*() {
     yield timeout(50).then(() => {
-      this.set('hasJustBeenSelected', false)
+      this.hasJustBeenSelected = false
     })
   }).restartable()
 })

@@ -26,7 +26,7 @@
     <CopyBox @episode={{@episode}} @toggleHelp={{action this.toggleHelp}} />
   </div>
 
-  {{#if @episode.displayingHelp}}
+  {{#if @episode.isDisplayingHelp}}
     <div class="episode-player_help">
       <HelpInstructions />
     </div>
