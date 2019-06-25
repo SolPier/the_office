@@ -17,7 +17,8 @@ export default class CopyBox extends Component {
     return `subtitles-s${this.args.episode.season}e${this.args.episode.number}`
   }
 
-  @action deselectAll() {
+  @action
+  deselectAll() {
     let element = document.activeElement;
 
     if (element && /INPUT|TEXTAREA/i.test(element.tagName)) {
@@ -34,7 +35,8 @@ export default class CopyBox extends Component {
     }
   }
 
-  @action copySubtitlesLinkToClipboard() {
+  @action
+  copySubtitlesLinkToClipboard() {
     document.getElementById(this.UId).select()
     document.execCommand("copy")
     this.deselectAll()

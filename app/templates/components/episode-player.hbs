@@ -3,11 +3,11 @@
   <div class="episode-player_actions">
     <Icons::Question
       class="episode-player_action action-help cursor-pointer"
-      onClick={{action this.toggleHelp}}
+      onClick={{fn this.toggleHelp}}
     />
     <Icons::Times
       class="episode-player_action action-close cursor-pointer"
-      onClick={{action @closeEpisode}}
+      onClick={{fn @closeEpisode}}
     />
   </div>
 
@@ -23,7 +23,7 @@
       scrolling="false"
     />
 
-    <CopyBox @episode={{@episode}} @toggleHelp={{action this.toggleHelp}} />
+    <CopyBox @episode={{@episode}} @toggleHelp={{fn this.toggleHelp}} />
   </div>
 
   {{#if @episode.isDisplayingHelp}}

@@ -15,14 +15,14 @@
     <span
       class="copy-box_button-copy -action-copy-link text-tiny cursor-pointer"
       role="button"
-      onClick={{action this.copySubtitlesLinkToClipboard}}
+      {{on "click" this.copySubtitlesLinkToClipboard}}
     >
       Copier le lien des sous titres
     </span>
   {{/if}}
   <button
     class="copy-box_button-help -action-display-help text-tiny cursor-pointer"
-    onClick={{action this.args.toggleHelp}}
+    {{on "click" (fn this.args.toggleHelp)}}
   >
     ?
   </button>

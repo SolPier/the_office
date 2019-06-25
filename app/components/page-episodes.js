@@ -18,11 +18,13 @@ export default class PageEpisodesComponent extends Component {
     return this.selectedEpisodes.length
   }
 
-  @action selectSeason(number) {
+  @action
+  selectSeason(number) {
     this.selectedSeason = number
   }
 
-  @action toggleEpisode(episode) {
+  @action
+  toggleEpisode(episode) {
     if (this.selectedEpisodes.indexOf(episode) >= 0) {
       this.selectedEpisodes = this.selectedEpisodes.filter(activeEpisode => {
         return activeEpisode !== episode

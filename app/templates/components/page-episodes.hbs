@@ -13,7 +13,7 @@
             <SeasonButton
               @number={{seasonNumber}}
               @selectedSeason={{this.selectedSeason}}
-              onClick={{action this.selectSeason seasonNumber}}
+              onClick={{fn this.selectSeason seasonNumber}}
             />
           {{/each}}
         </ol>
@@ -24,7 +24,7 @@
               <EpisodeButton
                 @episode={{episode}}
                 @selectedEpisodes={{this.selectedEpisodes}}
-                onClick={{action this.toggleEpisode episode}}
+                onClick={{fn this.toggleEpisode episode}}
               />
             {{/each}}
           </tbody>
@@ -52,7 +52,7 @@
         {{#each this.selectedEpisodes key="@index" as |episode|}}
           <EpisodePlayer
             @episode={{episode}}
-            @closeEpisode={{action this.toggleEpisode episode}}
+            @closeEpisode={{fn this.toggleEpisode episode}}
           />
         {{/each}}
       </section>
